@@ -1,6 +1,6 @@
 # Site setings
-name: 'Niko'
-description: 'Niko McCarty is a science journalist, programmer & synthetic biologist'
+name: 'NIKO'
+description: 'science journalist, programmer, synthetic biologist'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
@@ -16,7 +16,7 @@ mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab160
 ga_analytics: 
 
 # Contact form setings
-email: youremail@email.com
+email: nsmccarty3@gmail.com
 contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
