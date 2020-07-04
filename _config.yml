@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi! My name is Niko. I'm a student in the SHERP program at NYU, a programmer & a former synthetic biologist. I am based in New York City."
+  greetings: "Hi! My name is Niko, a student in the SHERP program at NYU. I'm a programmer & former synthetic biologist based in New York City."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://royce.netlify.com/
