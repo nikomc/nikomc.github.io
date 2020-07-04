@@ -1,12 +1,12 @@
 # Site setings
-name: 'NIKO'
+name: 'NIKO McCARTY'
 description: 'science journalist, programmer, synthetic biologist'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+  greetings: "Hi! My name is Niko. I'm a student in the SHERP program at NYU and a former synthetic biologist, currently based in Manhattan."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://royce.netlify.com/
@@ -23,7 +23,7 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 # Social links
 twitter: 'justgoodthemes'
 facebook: 'username'
-github: 'justgoodthemes'
+github: 'nikomc'
 codepen: 'username'
 dribbble: 'username'
 medium: '@username'
