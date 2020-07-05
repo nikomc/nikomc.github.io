@@ -1,11 +1,8 @@
 ---
 layout: page
 title: About
-featured_image: /assets/images/pages/about.jpg
+<!-- featured_image: /assets/images/pages/about.jpg -->
 ---
-
-you can [get the PDF]({{ nikomc.github.io }}/assets/test_doc.pdf) directly.
-
 
 Charles Lavoie is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
 
