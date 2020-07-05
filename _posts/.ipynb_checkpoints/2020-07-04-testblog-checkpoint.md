@@ -18,6 +18,8 @@ jsarr:
 > this is a blockquote
 
 <div id="chart"></div>
+<p>Click me, please!</p>
+
 <script src="https://d3js.org/d3.v5.js"></script>
 <script>
 data = [20, 30, 40, 22, 13, 7, 42, 27];
@@ -83,5 +85,22 @@ svg.append('g')
    })
    .attr('x', (d, i) => x(i) + x.bandwidth() / 2)
    .attr('y', (d) => h - y(d));
+
+d3.select('.ascending')
+  .on('click', function() {
+
+    var dataset = data.sort(d3.ascending);
+
+    svg.selectAll('rect')
+       .data(dataset)
+       .transition()
+       .delay(function(d, i) {
+         return i * 50;
+       })
+       .attr('x', (d, i) => x(i))
+       .attr('y', d => y(d))
+       .attr('width', x.bandwidth())
+       .attr('height', d => y(0) - y(d));
+  });
     
 </script>
