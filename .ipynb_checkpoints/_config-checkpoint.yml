@@ -13,11 +13,11 @@ production_url: https://royce.netlify.com/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics: UA-77949830-3
 
 # Contact form setings
 email: nsmccarty3@gmail.com
-contact_page_description: "I can be reached at nsmccarty3 [at] gmail [dot] com, or use the form here."
+contact_page_description: "I can be reached at nsmccarty3 [at] gmail [dot] com, or you can contact me via this form."
 thankyou_page_description: "Your message has been sent. I'll reply soon!"
 
 # Social links
