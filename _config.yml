@@ -39,9 +39,11 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
-  - text: Contact Me
+  - text: Vitae
+    url: /vitae
+  - text: Writings
+    url: /writings
+  - text: Contact
     url: /contact
   - text: Search
     url: /search
