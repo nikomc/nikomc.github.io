@@ -17,4 +17,4 @@ jsarr:
 
 > this is a blockquote
 
-<div id="chart"></div>
+<div id="chart" markdown=0></div>
