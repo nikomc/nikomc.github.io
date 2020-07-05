@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Test post for hosting D3.js visualizations'
-tags: [JavaScript, Tips]
+tags: [JavaScript, Tips, D3.js]
 featured_image_thumbnail:
 featured_image:
 featured: true
