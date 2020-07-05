@@ -5,7 +5,7 @@ meta_description: 'Niko McCarty is a science journalist, data visualist, program
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'authorimage.png'
+  image: 'niko_points.jpg'
   greetings: "Hi! My name is Niko, a student in the SHERP program at NYU. I'm a programmer & former synthetic biologist based in New York City."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
