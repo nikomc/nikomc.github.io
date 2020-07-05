@@ -15,7 +15,7 @@ hidden: true
 
 > this is a blockquote
 
-{::nomarkdown}<div id="chart"></div>{:/}
+<div markdown="0" id="chart"></div>
 
 <script>
   // this is a script that renders a chart
