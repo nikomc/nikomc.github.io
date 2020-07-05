@@ -9,9 +9,9 @@ author:
   greetings: "Hi! My name is Niko, a student in the SHERP program at NYU. I'm a programmer & former synthetic biologist based in New York City."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-production_url: https://royce.netlify.com/
-disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+production_url: https://nikomc.github.io
+disqus: 'hiniko'
+mailchimp_url:
 # Add your GA Tracking Id
 ga_analytics: UA-77949830-3
 
