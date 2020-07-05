@@ -6,6 +6,8 @@ featured_image_thumbnail:
 featured_image:
 featured: true
 hidden: true
+jsarr:
+     - graphs/barchart_test.js
 ---
 
 > "Quotes are nice, but most are made up." <cite>- Somebody, probably -</cite>
