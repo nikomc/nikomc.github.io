@@ -18,7 +18,7 @@ jsarr:
 > this is a blockquote
 
 <div id="chart"></div>
-<p>Click me, please!</p>
+<p id="clicktest">Click me, please!</p>
 
 <script src="https://d3js.org/d3.v5.js"></script>
 <script>
@@ -86,7 +86,7 @@ svg.append('g')
    .attr('x', (d, i) => x(i) + x.bandwidth() / 2)
    .attr('y', (d) => h - y(d));
 
-d3.select('.ascending')
+d3.select('#clicktest')
   .on('click', function() {
 
     var dataset = data.sort(d3.ascending);
