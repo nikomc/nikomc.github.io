@@ -22,10 +22,31 @@ jsarr:
 
 <script src="https://d3js.org/d3.v5.js"></script>
 <script>
+    
+function responsivefy(svg) {
+  const container = d3.select(svg.node().parentNode),
+      width = parseInt(svg.style('width'), 10),
+      height = parseInt(svg.style('height'), 10),
+      aspect = width / height;
+
+  svg.attr('viewBox', `0 0 ${width} ${height}`)
+      .attr('preserveAspectRatio', 'xMinYMid')
+      .call(resize);
+ 
+  d3.select(window).on(
+      'resize.' + container.attr('id'), 
+      resize
+  );
+ 
+  function resize() {
+      const w = parseInt(container.style('width'));
+      svg.attr('width', w);
+      svg.attr('height', Math.round(w / aspect));
+  }
+}
+    
 data = [20, 30, 40, 22, 13, 7, 42, 27];
 
-var w =  800;
-var h = 400;
 var margin = ({top: 20, right: 30, bottom: 30, left: 40});
 
 var y = d3.scaleLinear()
@@ -38,13 +59,10 @@ var x = d3.scaleBand()
      .padding(0.1);
 
 var svg = d3.select('#chart')
-     .classed("svg-container", true)
      .append('svg')
-     .attr("preserveAspectRatio", "xMinYMin meet")
-     .attr("viewBox", "0 0 600 400")
-     .classed("svg-content-responsive", true)
-     .attr('width', w )
-     .attr('height', h );
+     .attr('width', width )
+     .attr('height', height )
+       .call(responsivefy);
    
 yTitle = g => g.append('text')
      .attr('font-family', 'sans-serif')
@@ -58,7 +76,7 @@ yAxis = g => g
      .call(g => g.select(".domain")) //.remove()); This is how you remove main line
 
 xAxis = g => g
-     .attr('transform', 'translate(0,' + (h - margin.bottom) + ')')
+     .attr('transform', 'translate(0,' + (height - margin.bottom) + ')')
      .call(d3.axisBottom(x).tickSizeOuter(0));
 
 var bar = svg.selectAll('rect')
@@ -112,8 +130,7 @@ d3.select('#clicktest')
 .svg-container {
   display: inline-block;
   position: relative;
-  width: 80%;
-  padding-bottom: 80%; /* aspect ratio */
+  width: 60%;
   vertical-align: top;
   overflow: hidden;
 }
