@@ -43,6 +43,8 @@ navigation:
     url: /vitae
   - text: Writings
     url: /writings
+  - text: Book Reviews
+    url: /book-reviews
   - text: Contact
     url: /contact
   - text: Search
@@ -68,3 +70,9 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+  
+collections:
+  book_reviews:
+    output: true
+    output_ext: .html
+    permalink: /book-reviews/:path/
