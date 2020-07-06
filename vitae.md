@@ -8,20 +8,28 @@ This is a pragraph. Pellentesque habitant [morbi tristique](https://example.com)
 
 [Download my one-page résumé]({{ nikomc.github.io }}/assets/20200705_McCarty_resume_1pg.pdf).
 
-<a href="/assets/20200705_McCarty_resume_1pg.pdf" class="button_download">Download PDF</a>
+<a href="/assets/20200705_McCarty_resume_1pg.pdf" class="download_pdf">Download PDF</a>
 
 <style>
-.button_download {
-  font: bold 11px Arial;
-  text-decoration: none;
-  background-color: #EEEEEE;
-  color: #333333;
-  padding: 2px 6px 2px 6px;
-  border-top: 1px solid #CCCCCC;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
-  border-left: 1px solid #CCCCCC;
+#download_pdf:hover {
+  letter-spacing: 0.75em;
+  background-color: #666;
 }
+
+#download_pdf {
+  color: #d4a259;
+  height: 4em;
+  width: 15%;
+  padding: 1.5em auto;
+  margin: 1em auto;
+  background-color: #666;
+  border: none;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  transition: all 0.2s cubic-bezier(.4,0,.2,1);
+}
+  
 </style>
 
 ## Images
