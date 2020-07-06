@@ -14,9 +14,6 @@ hidden: true
 
 Include figures:
 
-{% include image-caption.html imageurl="/assets/images/posts/2018/8.jpg#wide" title="Concrete roads" caption="This is caption" %}
-
-
 HTML Code
 
 <pre><code class="language-markup">
