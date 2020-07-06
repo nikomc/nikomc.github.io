@@ -21,30 +21,9 @@ jsarr:
 <p id="clicktest">Click me, please!</p>
 
 <script src="https://d3js.org/d3.v5.js"></script>
-<script>
-    
-function responsivefy(svg) {
-  const container = d3.select(svg.node().parentNode),
-      width = parseInt(svg.style('width'), 10),
-      height = parseInt(svg.style('height'), 10),
-      aspect = width / height;
 
-  svg.attr('viewBox', `0 0 ${width} ${height}`)
-      .attr('preserveAspectRatio', 'xMinYMid')
-      .call(resize);
- 
-  d3.select(window).on(
-      'resize.' + container.attr('id'), 
-      resize
-  );
- 
-  function resize() {
-      const w = parseInt(container.style('width'));
-      svg.attr('width', w);
-      svg.attr('height', Math.round(w / aspect));
-  }
-}
-    
+<script>    
+
 data = [20, 30, 40, 22, 13, 7, 42, 27];
 
 var margin = ({top: 20, right: 30, bottom: 30, left: 40});
@@ -123,6 +102,28 @@ d3.select('#clicktest')
        .attr('width', x.bandwidth())
        .attr('height', d => y(0) - y(d));
   });
+    
+var responsivefy = function(svg) {
+  const container = d3.select(svg.node().parentNode),
+      width = parseInt(svg.style('width'), 10),
+      height = parseInt(svg.style('height'), 10),
+      aspect = width / height;
+
+  svg.attr('viewBox', `0 0 ${width} ${height}`)
+      .attr('preserveAspectRatio', 'xMinYMid')
+      .call(resize);
+ 
+  d3.select(window).on(
+      'resize.' + container.attr('id'), 
+      resize
+  );
+ 
+  function resize() {
+      const w = parseInt(container.style('width'));
+      svg.attr('width', w);
+      svg.attr('height', Math.round(w / aspect));
+  }
+};
     
 </script>
 
