@@ -22,8 +22,7 @@ post_class: post-template
                 {% unless forloop.last %} {% endunless %}{% endfor %}
             </p>
             {% endif %}
-
-        </header>        <!-- .post-header -->
+        </header><!-- .post-header -->
 
         {% if page.featured_image %}
         <div class="post-thumbnail">
@@ -37,14 +36,12 @@ post_class: post-template
             <div class="post-share">
                 <span class="post-share-title">Share:</span>
                 <a target="_blank"
-                    href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url }}">Twitter</a>
+                    href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}">Twitter</a>
                 <a target="_blank"
-                    href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url }}">Facebook</a>
+                    href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}">Facebook</a>
             </div><!-- .share-post -->
         </footer>
         {% include disqus.html %}
-        {% include mathjax.html %}
-
     </article>
     {% if site.mailchimp_url %}
     {% include newsletter-box.html %}
