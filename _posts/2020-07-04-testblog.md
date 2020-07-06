@@ -4,7 +4,7 @@ title: 'Blog Template'
 tags: [JavaScript, Tips, D3.js]
 featured_image_thumbnail:
 featured_image:
-featured: true
+featured:
 hidden: true
 ---
 
