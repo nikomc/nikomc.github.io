@@ -36,7 +36,7 @@ Riehle C, Scharf GM, Sieweke JT, Zauner F, Flierl U, Treptau J, Zormpas C, Senf 
 **McCarty NS**, Razo-Mejia M and Phillips R. "Genetic Barcodes Enable Quantitative Mapping of Operator Mutants to Gene Expression" _Biophysical Journal_ (2020). Abstract for the Biophysical Society meeting, San Diego, CA. [Read](https://www.cell.com/biophysj/fulltext/S0006-3495(19)34231-6)
 
 
-##### Footnotes
+#### Footnotes
 
 [^1]: Dropped out of PhD during coronavirus pandemic. Worked with [Prof. Rob Phillips](http://www.rpgroup.caltech.edu/) on massively parallel methods to test biophysical models of gene expression in _E. coli_.
 [^2]: Worked with [Dr. Rodrigo Ledesma-Amaro](https://www.imperial.ac.uk/people/r.ledesma-amaro) and [Prof. Tom Ellis](https://www.tomellislab.com/) on projects related to CRISPR-Cas multiplexing in _S. cerevisiae_.
