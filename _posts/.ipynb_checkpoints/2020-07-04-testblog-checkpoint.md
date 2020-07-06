@@ -20,23 +20,6 @@ jsarr:
 <div id="chart"></div>
 <p id="clicktest">Click me, please!</p>
 
-<style>
-.svg-container {
-  display: inline-block;
-  position: relative;
-  width: 100%;
-  padding-bottom: 100%; /* aspect ratio */
-  vertical-align: top;
-  overflow: hidden;
-}
-.svg-content-responsive {
-  display: inline-block;
-  position: absolute;
-  top: 10px;
-  left: 0;
-}
-</style>
-
 <script src="https://d3js.org/d3.v5.js"></script>
 <script>
 data = [20, 30, 40, 22, 13, 7, 42, 27];
@@ -124,3 +107,20 @@ d3.select('#clicktest')
   });
     
 </script>
+
+<style>
+.svg-container {
+  display: inline-block;
+  position: relative;
+  width: 80%;
+  padding-bottom: 80%; /* aspect ratio */
+  vertical-align: top;
+  overflow: hidden;
+}
+.svg-content-responsive {
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+</style>
