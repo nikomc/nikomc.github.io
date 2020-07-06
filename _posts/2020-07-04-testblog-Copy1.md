@@ -3,7 +3,7 @@ layout: post
 title: 'Blog Template'
 tags: [JavaScript, Tips, D3.js]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2020/urban.jpg
+featured_image:
 featured: true
 hidden: true
 mathjax: true
