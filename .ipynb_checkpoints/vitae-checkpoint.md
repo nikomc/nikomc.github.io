@@ -6,31 +6,7 @@ featured_image: /assets/images/pages/style_guides.jpg
 
 This is a pragraph. Pellentesque habitant [morbi tristique](https://example.com) senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
 
-[Download my one-page résumé]({{ nikomc.github.io }}/assets/20200705_McCarty_resume_1pg.pdf).
-
-<a href="/assets/20200705_McCarty_resume_1pg.pdf" class="download_pdf">Download PDF</a>
-
-<style>
-#download_pdf:hover {
-  letter-spacing: 0.75em;
-  background-color: #666;
-}
-
-#download_pdf {
-  color: #d4a259;
-  height: 4em;
-  width: 15%;
-  padding: 1.5em auto;
-  margin: 1em auto;
-  background-color: #666;
-  border: none;
-  border-radius: 3px;
-  text-transform: uppercase;
-  letter-spacing: 0.5em;
-  transition: all 0.2s cubic-bezier(.4,0,.2,1);
-}
-  
-</style>
+[Download PDF]({{ nikomc.github.io }}/assets/20200705_McCarty_resume_1pg.pdf).
 
 ## Images
 
