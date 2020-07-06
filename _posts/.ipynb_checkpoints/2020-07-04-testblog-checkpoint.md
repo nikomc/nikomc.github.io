@@ -20,6 +20,23 @@ jsarr:
 <div id="chart"></div>
 <p id="clicktest">Click me, please!</p>
 
+<style>
+.svg-container {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%; /* aspect ratio */
+  vertical-align: top;
+  overflow: hidden;
+}
+.svg-content-responsive {
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+</style>
+
 <script src="https://d3js.org/d3.v5.js"></script>
 <script>
 data = [20, 30, 40, 22, 13, 7, 42, 27];
@@ -38,11 +55,14 @@ var x = d3.scaleBand()
      .padding(0.1);
 
 var svg = d3.select('#chart')
+     .classed("svg-container", true)
      .append('svg')
+     .attr("preserveAspectRatio", "xMinYMin meet")
+     .attr("viewBox", "0 0 600 400")
+     .classed("svg-content-responsive", true)
      .attr('width', w )
      .attr('height', h );
-
-
+   
 yTitle = g => g.append('text')
      .attr('font-family', 'sans-serif')
      .attr('y', 13)
