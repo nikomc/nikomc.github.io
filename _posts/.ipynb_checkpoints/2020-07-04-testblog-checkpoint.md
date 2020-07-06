@@ -84,7 +84,7 @@ svg.append('g')
      return d;
    })
    .attr('x', (d, i) => x(i) + x.bandwidth() / 2)
-   .attr('y', (d) => h - y(d));
+   .attr('y', (d) => height - y(d));
 
 d3.select('#clicktest')
   .on('click', function() {
@@ -120,7 +120,7 @@ var responsivefy = function(svg) {
  
   function resize() {
       const w = parseInt(container.style('width'));
-      svg.attr('width', w);
+      svg.attr('w', width);
       svg.attr('height', Math.round(w / aspect));
   }
 };
