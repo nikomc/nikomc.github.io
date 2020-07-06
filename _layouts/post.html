@@ -22,9 +22,10 @@ post_class: post-template
                 {% unless forloop.last %} {% endunless %}{% endfor %}
             </p>
             {% endif %}
-            {% include mathjax.html %}
 
-        </header><!-- .post-header -->
+        </header>
+        {% include mathjax.html %}
+        <!-- .post-header -->
 
         {% if page.featured_image %}
         <div class="post-thumbnail">
