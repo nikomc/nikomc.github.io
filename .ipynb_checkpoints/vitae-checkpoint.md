@@ -8,6 +8,22 @@ This is a pragraph. Pellentesque habitant [morbi tristique](https://example.com)
 
 [Download my one-page résumé]({{ nikomc.github.io }}/assets/20200705_McCarty_resume_1pg.pdf).
 
+<a href="/assets/20200705_McCarty_resume_1pg.pdf" class="button_download">Download PDF</a>
+
+<style>
+.button_download {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+</style>
+
 ## Images
 
 Wide image with caption.
