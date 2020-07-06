@@ -39,7 +39,7 @@ var myCircles = Svg
   .enter()
   .append("circle")
     .style("fill", "#69b2b3")
-    .attr("r", 20)
+    .attr("r", 8)
     .attr("cy", 100);
 
 function drawChart() {
