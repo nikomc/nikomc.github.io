@@ -3,6 +3,8 @@ layout: page
 title: Bio
 ---
 
+![Sometimes I look like this][{{site.url}}/assets/images/pages/niko_filter.jpg]
+
 My name is Niko McCarty, and this is a vain attempt to encapsulate my interests in a few lines of text. I'm currently an M.A. student at New York University, where I study science journalism. As a data analyst, programmer and journalist, my goal is to tell captivating science stories by blending narratives with visualizations. 
 
 I hold an M.S. in Bioengineering from the California Institute of Technology[^1] and a MRes in Systems and Synthetic Biology from Imperial College London[^2], where I was a Fulbright scholar. I've published peer-reviewed articles on new CRISPR technologies, multiplexed guide RNAs, and engineered microbial communities.
