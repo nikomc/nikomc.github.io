@@ -37,10 +37,8 @@ quora:
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about
-  - text: Vitae
-    url: /vitae
+  - text: Bio
+    url: /bio
   - text: Writings
     url: /writings
   - text: Contact
