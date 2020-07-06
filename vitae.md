@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Vitae
-featured_image: /assets/images/pages/style_guides.jpg
 ---
 
 This is a pragraph. Pellentesque habitant [morbi tristique](https://example.com) senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
 
-[Download PDF]({{ nikomc.github.io }}/assets/20200705_McCarty_resume_1pg.pdf).
+[Download PDF]({{ nikomc.github.io }}/assets/20200705_McCarty_resume_1pg.pdf)
 
 ## Images
 
