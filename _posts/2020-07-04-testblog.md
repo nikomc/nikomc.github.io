@@ -30,11 +30,11 @@ var margin = ({top: 20, right: 30, bottom: 30, left: 40});
 
 var y = d3.scaleLinear()
      .domain([0, d3.max(data)])
-     .range([h - margin.bottom, margin.top]);
+     .range([height - margin.bottom, margin.top]);
 
 var x = d3.scaleBand()
      .domain(d3.range(data.length))
-     .rangeRound([margin.left, w - margin.right])
+     .rangeRound([margin.left, width - margin.right])
      .padding(0.1);
 
 var svg = d3.select('#chart')
