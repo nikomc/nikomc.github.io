@@ -5,23 +5,6 @@ title: Bio
 
 ![Portrait of the Author as a Younger Man](/assets/images/pages/niko_filter.jpg)
 
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
-
 My name is Niko McCarty, and this is a vain attempt to encapsulate my interests in a few lines of text. I'm currently an M.A. student at New York University, where I study science journalism. As a data analyst, programmer and journalist, my goal is to tell captivating science stories by blending narratives with visualizations. 
 
 I hold an M.S. in Bioengineering from the California Institute of Technology[^1] and a MRes in Systems and Synthetic Biology from Imperial College London[^2], where I was a Fulbright scholar. I've published peer-reviewed articles on new CRISPR technologies, multiplexed guide RNAs, and engineered microbial communities.
