@@ -43,8 +43,6 @@ navigation:
     url: /vitae
   - text: Writings
     url: /writings
-  - text: Book Reviews
-    url: /book-reviews
   - text: Contact
     url: /contact
   - text: Search
