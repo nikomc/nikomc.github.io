@@ -3,7 +3,7 @@ layout: page
 title: Bio
 ---
 
-{% include imageurl="/assets/images/posts/2020/niko_filter.jpg %}
+{% include imageurl="/assets/images/posts/2020/niko_filter.jpg" %}
 
 My name is Niko McCarty, and this is a vain attempt to encapsulate my interests in a few lines of text. I'm currently an M.A. student at New York University, where I study science journalism. As a data analyst, programmer and journalist, my goal is to tell captivating science stories by blending narratives with visualizations. 
 
