@@ -15,174 +15,54 @@ hidden: true
 
 > this is a blockquote
 
-<style>
+<div id="div_basicResize"></div>
 
-.bar {
-  fill: steelblue;
-}
+<script src="https://d3js.org/d3.v4.js"></script>
 
-.bar:hover {
-  fill: brown;
-}
-
-.title {
-  font: bold 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-.axis {
-  font: 10px sans-serif;
-}
-
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-.x.axis path {
-  display: none;
-}
-
-</style>
-
-<script src="https://d3js.org/d3.v3.min.js"></script>
 <script>
 
-// Set default width and height, calculate ratio
-var default_width = 960;
-var default_height = 500;
-var default_ratio = default_width / default_height;
+var Svg = d3.select("#div_basicResize")
+  .append("svg")
+  .attr("height", 200);
 
-// Current (non-responsive) width and height are calcuated from the default, minus the margins
-var margin = {top: 80, right: 180, bottom: 80, left: 180},
-    width = default_width - margin.left - margin.right,
-    height = default_height - margin.top - margin.bottom;
+var data = [19, 13, 54, 78, 98, 120, 138];
 
-// Determine current size, which determines vars
-function set_vars() {
-  //alert('setting vars')
-  current_width = window.innerWidth;
-  current_height = window.innerHeight;
+var x = d3.scaleLinear()
+  .domain([0, 150]);
+    
+var xAxis = Svg.append("g")
+  .attr("transform", "translate(0,150)");
 
-  current_ratio = current_width / current_height;
+var myCircles = Svg
+  .selectAll("circles")
+  .data(data)
+  .enter()
+  .append("circle")
+    .style("fill", "#69b2b3")
+    .attr("r", 20)
+    .attr("cy", 100);
 
-  // Check if height is limiting factor
-  if ( current_ratio > default_ratio ){
-    h = current_height;
-    w = h * default_ratio;
-  // Else width is limiting
-  } else {
-    w = current_width;
-    h = w / default_ratio;
-  }
+function drawChart() {
 
-  // Set new width and height based on graph dimensions
-  width = w - margin.left - margin.right;
-  height = h - margin.top - margin.bottom;
+  // get the current width of the div where the chart appear, and attribute it to Svg
+  currentWidth = parseInt(d3.select('#div_basicResize').style('width'), 10)
+  Svg.attr("width", currentWidth)
 
-};
+  // Update the X scale and Axis (here the 20 is just to have a bit of margin)
+  x.range([ 20, currentWidth-20 ]);
+  xAxis.call(d3.axisBottom(x))
 
-set_vars();
+  // Add the last information needed for the circles: their X position
+  myCircles
+    .attr("cx", function(d){ return x(d)})
+  };
 
-function drawGraphic() {
 
-  var x = d3.scale.ordinal()
-    .rangeRoundBands([0, width], .1, .3);
+// Initialize the chart
+drawChart();
 
-  var y = d3.scale.linear()
-    .range([height, 0]);
+// Add an event listener that run the function when dimension change
+window.addEventListener('resize', drawChart );
 
-  var xAxis = d3.svg.axis()
-    .scale(x)
-    .orient("bottom");
-
-  var yAxis = d3.svg.axis()
-    .scale(y)
-    .orient("left")
-    .ticks(8, "%");
-
-  var svg = d3.select("body").append("svg")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.top + margin.bottom)
-    .append("g")
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-  d3.tsv("data.tsv", type, function(error, data) {
-      x.domain(data.map(function(d) { return d.name; }));
-      y.domain([0, d3.max(data, function(d) { return d.value; })]);
-
-    svg.append("text")
-      .attr("class", "title")
-      .attr("x", x(data[0].name))
-      .attr("y", -26)
-      .text("Why Are We Leaving Facebook?");
-
-    svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis)
-      .selectAll(".tick text")
-        .call(wrap, x.rangeBand());
-
-    svg.append("g")
-      .attr("class", "y axis")
-      .call(yAxis);
-
-    svg.selectAll(".bar")
-      .data(data)
-      .enter().append("rect")
-        .attr("class", "bar")
-        .attr("x", function(d) { return x(d.name); })
-        .attr("width", x.rangeBand())
-        .attr("y", function(d) { return y(d.value); })
-        .attr("height", function(d) { return height - y(d.value); });
-  }); // End d3.tsv
-
-}; // End drawGraphic function
-
-drawGraphic();
-
-// Use a timer so the chart is not constantly redrawn while window is being resized.
-var resizeTimer;
-window.onresize = function(event) {
- clearTimeout(resizeTimer);
-  resizeTimer = setTimeout(function()
-  {
-    var s = d3.selectAll('svg');
-    s = s.remove();
-    set_vars();
-    drawGraphic();
-  }, 100);
-}
-
-function wrap(text, width) {
-  text.each(function() {
-    var text = d3.select(this),
-        words = text.text().split(/\s+/).reverse(),
-        word,
-        line = [],
-        lineNumber = 0,
-        lineHeight = 1.1, // ems
-        y = text.attr("y"),
-        dy = parseFloat(text.attr("dy")),
-        tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y).attr("dy", dy + "em");
-    while (word = words.pop()) {
-      line.push(word);
-      tspan.text(line.join(" "));
-      if (tspan.node().getComputedTextLength() > width) {
-        line.pop();
-        tspan.text(line.join(" "));
-        line = [word];
-        tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
-      }
-    }
-  });
-}
-
-function type(d) {
-  d.value = +d.value;
-  return d;
-}
 
 </script>
