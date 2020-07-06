@@ -3,7 +3,7 @@ layout: post
 title: 'Blog Template'
 tags: [JavaScript, Tips, D3.js]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2020/desk.jpg
+featured_image: assets/images/posts/2020/patterns.jpeg
 featured: true
 hidden: true
 mathjax: true
@@ -12,14 +12,12 @@ mathjax: true
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
 Test a display math:
-
 $$
    |\psi_1\rangle = a|0\rangle + b|1\rangle
 $$
 Is it O.K.?
 
 Test a display math with equation number:
-
 \begin{equation}
    |\psi_1\rangle = a|0\rangle + b|1\rangle
 \end{equation}
