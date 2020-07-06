@@ -1,198 +1,112 @@
 ---
 layout: page
 title: Writings
-featured_image: /assets/images/pages/style_guides.jpg
 ---
 
-This is a pragraph. Pellentesque habitant [morbi tristique](https://example.com) senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
+All articles are organized by publisher. Click on them to read the full text.
 
-## Images
+### [SynBioBeta](https://synbiobeta.com/)
 
-Wide image with caption.
+[Meet the 8 Tech Titans Investing in Synthetic Biology](https://synbiobeta.com/meet-the-8-tech-titans-investing-in-synthetic-biology/) (with John Cumbers). Originally published on [Forbes](https://www.forbes.com/sites/johncumbers/2019/09/14/meet-the-8-tech-titans-investing-in-synthetic-biology/#7e306b75a64b).
 
-{% include image-caption.html imageurl="/assets/images/posts/2018/8.jpg#wide" title="Concrete roads" caption="This is caption" %}
+[New This Ski Season: A Jacket Brewed from Spider Silk](https://synbiobeta.com/new-this-ski-season-a-jacket-brewed-from-spider-silk/) (with John Cumbers). Originally published on [Forbes](https://www.forbes.com/sites/johncumbers/2019/08/28/new-this-ski-season-a-jacket-brewed-from-spider-silk/#14b06fdf561e).
 
-Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:
+[How Aquaculture Innovation Can Save Seafood](https://synbiobeta.com/how-aquaculture-innovation-can-save-seafood/)
 
-![Water in a shallow mountain valley in Kluane National Park](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=903ce89f0256e0c19cde669fc69270a0#wide)
-<small>Photo by [Kalen Emsley](https://unsplash.com/@kalenemsley?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)</small>
+[How Synthetic Biology is Dyeing the Future of Fashion](https://synbiobeta.com/how-synthetic-biology-is-dyeing-the-future-of-fashion/)
 
-One neat trick which you can use in Markdown to distinguish between different types of images is to add a #hash value to the end of the source URL, and then target images containing the hash with special styling. For example, to add a wider image, you need to add the #wide value to the end of the source URL.
+[Spiber’s biomaterials stack: From new production facility to fashion runway](https://synbiobeta.com/spibers-biomaterials-stack-from-new-production-facility-to-fashion-runway/)
 
-Lorem ipsum dolor sit amet, `consectetuer adipiscing` elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Lorem ipsum dolor sit amet, `consectetuer adipiscing` elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis.
+[One lab in Germany is using robots to advance computer-aided synthetic biology](https://synbiobeta.com/one-lab-in-germany-is-using-robots-to-advance-computer-aided-synthetic-biology/)
 
-# This is an H1
+[How Automation and Machine Learning Help Explore the Dark Corners of the Genome](https://synbiobeta.com/how-automation-and-machine-learning-help-explore-the-dark-corners-of-the-genome/)
 
-<mark>Quisque facilisis erat a dui</mark>. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
+[Synthetic biology gets a makeover with Evonetix’s DNA synthesis technology](https://synbiobeta.com/synthetic-biology-gets-a-makeover-with-evonetixs-dna-synthesis-technology/)
 
-## This is an H2
+[Synthetic biology for sustainable cities](https://synbiobeta.com/synthetic-biology-for-sustainable-cities/) (with John Cumbers). Also published at [Meeting of the Minds](https://meetingoftheminds.org/synthetic-biology-for-sustainable-cities-30857) and [GreenBiz](https://www.greenbiz.com/article/how-synthetic-biology-can-help-build-sustainable-cities).
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+[Why carbon recycling could be synthetic biology’s crowning achievement](https://synbiobeta.com/why-carbon-recycling-could-be-synthetic-biologys-crowning-achievement/)
 
-### This is an H3
+[Biology Unlocked: Emerging Applications of Cell-Free Systems](https://synbiobeta.com/biology-unlocked-emerging-applications-of-cell-free-systems/)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+[Biotechnology meets fashion and sports performance: Trends in the apparel industry](https://synbiobeta.com/biotechnology-meets-fashion-and-sports-performance-trends-in-the-apparel-industry/)
 
-#### This is an H4
+[Finding a Needle in the Cancer Haystack](https://synbiobeta.com/finding-a-needle-in-the-cancer-haystack/)
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
+[Living Medicines: Engineering the Microbiome](https://synbiobeta.com/living-medicines-engineering-the-microbiome/)
 
-## Quoting
+[Synthetic biology and reproducibility meet on the Internet (of Things)](https://synbiobeta.com/synthetic-biology-and-reproducibility-meet-on-the-internet-of-things/)
 
-Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+[Synthetic Life: Made from Scratch](https://synbiobeta.com/synthetic-life-made-from-scratch/)
 
->“Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.” <cite>― Scott Adams ―</cite>
+[Scientists are Engineering Organisms to Create New Materials](https://synbiobeta.com/scientists-are-engineering-organisms-to-create-new-materials/)
 
-Lorem ipsum dolor sit amet, `consectetuer adipiscing` elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+### [Massive Science](https://massivesci.com/)
 
---------
+[Here’s why many CRISPR/Cas9 experiments could be wrong – and how to fix them](https://massivesci.com/articles/gene-editing-crispr-cas-wrong-studies-experiment-enzyme-genetics/)
 
-## Code Blocks
+[New parasitic interaction discovered in Antarctic lakes](https://massivesci.com/notes/antarctic-lakes-parasite-interaction-extremophiles/)
 
-```
-// Simple map
-var map;
-function initMap() {
-  map = new google.maps.Map(document.getElementById('map'), {
-    center: {lat: -34.397, lng: 150.644},
-    zoom: 8
-  });
-}
-```
+[Fighting cancer with exploding antibody-filled bacteria](https://massivesci.com/notes/exploding-antibody-bacteria-ecoli-in-mice-cancer/)
 
-Code blocks, highlighted with [Prism](http://prismjs.com/index.html).
+### [Caltech Letters](https://caltechletters.org/)
 
-<pre><code class="language-markup">&lt;!DOCTYPE html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-	&lt;meta charset="utf-8" /&gt;
-	&lt;title&gt;Prism&lt;/title&gt;
-	&lt;link rel="stylesheet" href="style.css" /&gt;
-&lt;/head&gt;
-&lt;body&gt;
-	&lt;header&gt;
-		&lt;div class="intro" data-src="templates/header-main.html" data-type="text/html"&gt;&lt;/div&gt;
-		&lt;ul id="features"&gt;
-			&lt;li&gt;Dead simple&lt;/li&gt;
-			&lt;li&gt;Light as a feather&lt;/li&gt;
-			&lt;li&gt;Extensible&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/header&gt;
-	&lt;section id="features-full" class="language-markup"&gt;
-		&lt;h1&gt;Full list of features&lt;/h1&gt;
-		&lt;ul&gt;
-			&lt;li&gt;&lt;strong&gt;Only 2KB&lt;/strong&gt; minified &amp; gzipped (core). Each language definition adds roughly 300-500 bytes.&lt;/li&gt;
-			&lt;li&gt;Very easy to extend without modifying the code, due to Prism’s &lt;a href="#plugins"&gt;plugin architecture&lt;/a&gt;. Multiple hooks are scattered throughout the source.&lt;/li&gt;
-			&lt;li&gt;Very easy to &lt;a href="extending.html#language-definitions"&gt;define new languages&lt;/a&gt;. Only thing you need is a good understanding of regular expressions&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/section&gt;
-	&lt;footer data-src="templates/footer.html" data-type="text/html"&gt;&lt;/footer&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
+[How Synthetic Biologists Could Save the Cavendish Banana from the Brink of Collapse](https://caltechletters.org/science/bananas-and-synthetic-biology/)
 
-<pre><code class="language-javascript">var Token = _.Token = function(type, content, alias, matchedStr, greedy) {
-	this.type = type;
-	this.content = content;
-	this.alias = alias;
-	// Copy of the full string this token was created from
-	this.length = (matchedStr || "").length|0;
-	this.greedy = !!greedy;
-};</code></pre>
+### [PLoS Synthetic Biology Blog](https://blogs.plos.org/plos/)
 
-<pre><code class="language-css">@import url(http://fonts.googleapis.com/css?family=Arvo);
+[Multiplexed CRISPR and sgRNA Arrays with the Howard Salis Lab](https://blogs.plos.org/plos/2019/11/science-behind-the-scenes-multiplexed-crispr-and-sgrna-arrays-with-the-howard-salis-lab/)
 
-/* Styles */
+[CRISPR for Metabolic Engineering with Dr. Raphael Ferreira](https://blogs.plos.org/plos/2019/11/science-behind-the-scenes-crispr-for-metabolic-engineering-with-dr-raphael-ferreira/)
 
-body {
-	font: 100%/1.5 Questrial, sans-serif;
-	tab-size: 4;
-	hyphens: auto;
-}
+[Engineering Microbial Consortia with Dr. Marika Ziesack](https://blogs.plos.org/plos/2019/10/microbial-consortia-sbts/)
 
-a {
-	color: inherit;
-}
+[Tethered Ribosomes with Dr. Erik Carlson](https://blogs.plos.org/plos/2019/10/science-behind-the-scenes-tethered-ribosomes-with-dr-erik-carlson/)
 
-section h1 {
-	font-size: 250%;
-}
+[Do-It-Yourself OD Measurements with Dr. Chinna Devarapu and Vamsi Yallapgragada](https://blogs.plos.org/plos/2019/10/science-behind-the-scenes-do-it-yourself-od-measurements-with-dr-chinna-devarapu-and-vamsi-yallapgragada/)
 
-section h1,
-#features li strong,
-header h2,
-footer p {
-	font: 100% Rockwell, Arvo, serif;
-}</code></pre>
+### [I, Science Magazine](http://isciencemag.co.uk/)
 
-## Lists
-### Unordered Lists
+[What's Next: Predicting the Top Scientific Breakthroughs of 2018](http://isciencemag.co.uk/uncategorized/whats-next-predicting-the-top-scientific-breakthroughs-of-2018/)
 
-The HTML &lt;ul&gt; element represents an unordered list of items, typically rendered as a bulleted list.
+[Yeast Have Been Engineered to Produce Antimicrobials](http://isciencemag.co.uk/uncategorized/yeast-have-been-engineered-to-produce-antimicrobials/)
 
-Usage notes:
-* The &lt;ul&gt; element is for grouping a collection of items that do not have a numerical ordering, and their order in the list is meaningless. Typically, unordered-list items are displayed with a bullet, which can be of several forms, like a dot, a circle or a squared.
-* There is no limitation to the depth and alternation of nested lists defined with the &lt;ol&gt; and &lt;ul&gt; elements.
-* The &lt;ol&gt; and &lt;ul&gt; elements both represent a list of items. They differ in that, with the &lt;ol&gt; element, the order is meaningful.
+### [Little Village Magazine](https://littlevillagemag.com/)
 
-### Ordered Lists
+[Iowa’s dwindling bee population is part of a larger, frightening trend](https://littlevillagemag.com/iowas-dwindling-bee-population-is-part-of-a-larger-frightening-trend/) (cover story)
 
-The HTML &lt;ol&gt; element represents an ordered list of items, typically rendered as a numbered list.
+[UI students are rewiring genes to create biodegradable plastic](https://littlevillagemag.com/university-of-iowa-genetic-engineering-biodegradable-plastic/)
 
-Usage notes:
-1. Typically, ordered-list items are displayed with a preceding numbering, which can be of any form, like numerals, letters or Romans numerals or even simple bullets.
-2. There is no limitation to the depth and alternation of nested lists defined with the &lt;ol&gt; and &lt;ul&gt; elements.
-3. The &lt;ol&gt; and &lt;ul&gt; both represent a list of items. They differ in the way that, with the &lt;ol&gt; element, the order is meaningful.
+[By ‘poking’ cells, a University of Iowa lab studies the science of healing](https://littlevillagemag.com/by-poking-cells-a-university-of-iowa-lab-studies-the-science-of-healing/)
 
-## Footnotes
+[Six groundbreaking research projects at the University of Iowa](https://littlevillagemag.com/five-groundbreaking-research-projects-at-the-university-of-iowa/)
 
-The quick brown fox[^1] jumped over the lazy dog[^2].
+[The best and worst of 2017](https://littlevillagemag.com/best-and-worst-of-2017/)
 
-[^1]: Foxes are red
-[^2]: Dogs are usually not red
+### [Iowa City, UNESCO City of Literature](http://www.iowacityofliterature.org/)
 
-Footnotes are a great way to add additional contextual details when appropriate. Ghost will automatically add footnote content to the very end of your post.
+[Faces of the City of Literature: John Kenyon](http://www.iowacityofliterature.org/faces-of-the-city-of-literature-john-kenyon/)
 
-## Tables
+[Faces of the City of Literature: Andrea Wilson](http://www.iowacityofliterature.org/faces-of-the-city-of-literature-andrea-wilson/)
 
-<table>
-<caption>Table Caption</caption>
-<thead>
-<tr>
-   <th>Content categories</th>
-   <th>Flow content</th>
-  </tr>
-</thead>
- <tbody>
-  <tr>
-   <td>Permitted content</td>
-   <td>
-    An optional <code>&lt;caption&gt;</code> element;<br />
-    zero or more <code>&lt;colgroup&gt;</code> elements;<br />
-    an optional <code>&lt;thead&gt;</code> element;<br />
-    an optional <code>&lt;tfoot&gt;</code> element;
-   </td>
-  </tr>
-  <tr>
-   <td>Tag omission</td>
-   <td>None, both the start tag and the end tag are mandatory</td>
-  </tr>
-  <tr>
-   <td>Permitted parent elements</td>
-   <td>Any element that accepts flow content</td>
-  </tr>
-  <tr>
-   <td>Normative document</td>
-   <td><a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/tabular-data.html#the-table-element" rel="external nofollow">HTML5, section 4.9.1</a> (<a href="http://www.w3.org/TR/REC-html40/struct/tables.html#edef-TABLE">HTML4.01, section 11.2.1</a>)</td>
-  </tr>
- </tbody>
-</table>
+[Faces of the City of Literature: Nialle Sylvan](http://www.iowacityofliterature.org/faces-city-literature-nialle-sylvan/)
 
-## Videos
+### [The Key Reporter, by Phi Beta Kappa](http://keyreporter.org/)
 
-<iframe src="https://player.vimeo.com/video/137643135?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/137643135">This Mountain</a> from <a href="https://vimeo.com/evanmann">Evan Mann / OWP Denver</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[Scientists: On Your Mark, Get Set, PAINT!](http://www.keyreporter.org/PbkNews/PbkNews/Details/1823.html)
 
-## Audio
+[Science Communication is Gaining STEAM](http://www.keyreporter.org/PbkNews/PbkNews/Details/1931.html)
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/165895349&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+[Interview with Audrey Bahrick](http://www.keyreporter.org/PbkNews/PbkNews/Details/1942.html)
 
+[Member Spotlight: Cornel West](http://www.keyreporter.org/AlumniNews/MemberSpotlight/Details/1836.html)
+
+[Edwin L. Sabin: Life of the Literary Frontiersman](http://www.keyreporter.org/PbkNews/PbkNews/Details/1924.html)
+
+### [Synthesis: A Digital Journal of Student Science Communication](https://ir.uiowa.edu/synthesis/vol1/iss1/)
+
+[Diabetes: A History](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=1004&context=synthesis)
+
+[A New Class of Antibiotics Could Stop Drug-Resistant Bacteria in their Tracks](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=1006&context=synthesis)
+
+#### [Medium](https://medium.com/@NikoMcCarty)
