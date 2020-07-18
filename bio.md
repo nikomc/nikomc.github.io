@@ -13,7 +13,7 @@ I hold an M.S. in Bioengineering from the California Institute of Technology[^1]
 
 ### Education
 
-M.A. in Journalism (Science, Health, and Environmental Reporting), New York University (Sep 2020 - present)
+M.A. in Journalism (Science, Health, and Environmental Reporting), New York University (Sep 2020 - Dec 2021)
 
 M.S. in Bioengineering, California Institute of Technology (Caltech) (Apr 2019 - May 2020)
 
@@ -21,7 +21,16 @@ MRes in Systems and Synthetic Biology, Imperial College London (Sep 2017 - Sep 2
 
 B.S. in Biochemistry[^3], University of Iowa (Aug 2013 - May 2017)
 
-### Publications & Abstracts
+### Writing Gigs
+Contributing Writer, [SynBioBeta.com](https://synbiobeta.com/) (Jan 2019-Apr 2020)
+
+Contributing Writer, [PLoS SynBio Blog](https://plos.org/blogs/) (Sep 2019-Feb 2020)
+
+Science Contributor, [Little Village Magazine](https://littlevillagemag.com/) (Apr 2017-Aug 2017)
+
+National Writing Fellow, Phi Beta Kappa [_The Key Reporter_](https://www.keyreporter.org/) (Jan 2016-May 2016)
+
+### Scientific Papers
 
 **McCarty NS**, Graham AE, Studena L and Ledesma-Amaro R. "Multiplexed CRISPR technologies for gene editing and transcriptional regulation." _Nature Communications_ (2020). [Read full text](https://www.nature.com/articles/s41467-020-15053-x)
 
@@ -35,6 +44,21 @@ Riehle C, Scharf GM, Sieweke JT, Zauner F, Flierl U, Treptau J, Zormpas C, Senf 
 
 **McCarty NS**, Razo-Mejia M and Phillips R. "Genetic Barcodes Enable Quantitative Mapping of Operator Mutants to Gene Expression" _Biophysical Journal_ (2020). Abstract for the Biophysical Society meeting, San Diego, CA. [Read](https://www.cell.com/biophysj/fulltext/S0006-3495(19)34231-6)
 
+### Selected Awards
+
+2020 [Taylor/Blakeslee Fellow](https://casw.org/casw/announcement/2020-21-taylorblakeslee-fellows) (Council for the Advancement of Science Writing)
+
+2020 Arthur Carter Fellowship, NYU
+
+2019 Pilot Grant, [Center for Environmental Microbial Interactions at Caltech](http://microbiology.caltech.edu/)
+
+2018 Centenary Prize for MRes Systems and Synthetic Biology, Imperial College
+
+2018 [Barzun Prize for Youth Engagement](https://www.imperial.ac.uk/news/187107/us-student-inspires-local-sixth-formers-thanks/)
+
+2017 [US-UK Fulbright Postgraduate Award](http://www.fulbright.org.uk/about-us/meet-our-fulbrighters/american-fulbright-postgraduate-award-grantees), Imperial College London
+
+2016 [Goldwater Scholar](https://goldwater.scholarsapply.org/2016-scholars/)
 
 #### Footnotes
 
