@@ -2,7 +2,7 @@
 layout: post
 title:  "Engineered Bacteria Grown in Seawater Produce Silk Proteins"
 tags: [ science, synthetic biology]
-featured_image_thumbnail:
+featured_image_thumbnail: assets/images/posts/2020/golden_orb_weaver.jpg
 featured_image: assets/images/posts/2020/golden_orb_weaver.jpg
 ---
 
@@ -37,3 +37,5 @@ Perhaps in the next decade, the V&A will launch another Fashioned from Nature ex
 _______________
 
 This article was also posted on [Medium](https://medium.com/@NikoMcCarty/engineered-bacteria-grown-in-seawater-produce-silk-proteins-2f084bf43430).
+
+Image courtesy of [Wikimedia](https://commons.wikimedia.org/wiki/File:Giant_Golden_Orb_Weaver_(Ventral_Side).jpg) user Ashwin06k.
