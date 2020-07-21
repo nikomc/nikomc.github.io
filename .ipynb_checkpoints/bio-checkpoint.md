@@ -47,11 +47,17 @@ Riehle C, Scharf GM, Sieweke JT, Zauner F, Flierl U, Treptau J, Zormpas C, Senf 
 ### Selected Awards
 
 2020 [Taylor/Blakeslee Fellow](https://casw.org/casw/announcement/2020-21-taylorblakeslee-fellows) (Council for the Advancement of Science Writing)
+
 2020 Arthur Carter Fellowship, NYU
+
 2019 Pilot Grant, [Center for Environmental Microbial Interactions at Caltech](http://microbiology.caltech.edu/)
+
 2018 Centenary Prize for MRes Systems and Synthetic Biology, Imperial College
+
 2018 [Barzun Prize for Youth Engagement](https://www.imperial.ac.uk/news/187107/us-student-inspires-local-sixth-formers-thanks/)
+
 2017 [US-UK Fulbright Postgraduate Award](http://www.fulbright.org.uk/about-us/meet-our-fulbrighters/american-fulbright-postgraduate-award-grantees), Imperial College London
+
 2016 [Goldwater Scholar](https://goldwater.scholarsapply.org/2016-scholars/)
 
 #### Footnotes
