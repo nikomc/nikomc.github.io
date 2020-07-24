@@ -4,6 +4,7 @@ title:  "A Lucky Haul, an Evasive Fish, and the Ultra-Black Materials of the Fut
 tags: [ science, nature, technology]
 featured_image_thumbnail: assets/images/posts/2020/vantablack.jpg
 featured_image: assets/images/posts/2020/vantablack.jpg
+
 ---
 
 Evolution has the extraordinary ability to devise multiple solutions to a single problem. In the dense forests of Papua New Guinea, a male bird of paradise ([_Lophorina superba_](https://www.nature.com/articles/s41467-017-02088-w.pdf)) approaches a potential mate, puffs out its chest, and spreads its feathers into an intimidating fan. Its ultra-black feathers are accentuated with a deep shade of green, made to impress the onlooking female. The _superba_’s plumage is such a deep black that it absorbs up to 99.95% of all light, on par with the darkest materials ever studied.
@@ -12,7 +13,7 @@ Now hop a few islands west, to the rainforests of Borneo and Sumatra, where the 
 
 Though these creatures share “ultra-black” features, that is also where their similarities end. Ultra-black butterflies achieve their coloration via two layers of thin, honeycomb structures on their wings, which effectively trap light. Birds of paradise, conversely, scatter and deflect light via tiny filaments that project from their feathers. According to a [2018 study](https://www.nature.com/articles/s41467-017-02088-w.pdf), this works for the ultra-black birds because “each time light scatters at a surface interface, a proportion of that light is transmitted into the material, where it can be absorbed. By increasing the number of times light scatters, structurally absorbing materials can increase total light absorption to produce a profoundly black appearance.”
 
-{% include image-caption.html imageurl="/assets/images/posts/2020/lophorina-superba.jpg#wide" title="Lophorina superba" caption="An 1873 drawing of _L. superba_ by [Daniel Giraud Elliot](https://commons.wikimedia.org/wiki/File:Lophorina_superba.jpg)." %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/lophorina-superba.jpg#wide" title="Lophorina superba" caption="An 1873 drawing of L. superba by Daniel Giraud Elliot." %}
 
 For several years, the unique, ultra-black coloration of these creatures appeared to be confined to the land and the skies, mainly in the south Pacific islands. That is, until a 17-day fishing expedition led to the discovery of another ultra-black creature, hiding in the ocean’s depths, that could have the serendipitous benefit of helping scientists find novel ways to improve solar cells and create highly-sensitive telescopes.
 
@@ -30,7 +31,7 @@ After reading about these ultra-black fish, I became curious; how did Davis know
 
 “As far as collecting and finding animals goes — it’s a total crapshoot,” said Davis. “We suspected that ultra-black was common enough that we could sample relatively deep in the water column (500m — 2000m) and capture at least a handful. We had plenty of empty trawls, but at the end of 17 days we collected a much larger diversity of species than expected.”
 
-{% include image-caption.html imageurl="/assets/images/posts/2020/shrimp-stew.jpg#wide" title="Shrimp fishing vessel in the Gulf of Mexico" caption="The Gulf of Mexico has been dotted with fishing boats for generations, but the ultra-black fish residing at a depth of 500–2000m had not previously been published. Image from [Flickr](https://commons.wikimedia.org/wiki/File:Grand_Isle_-_Shrimp_Stew.jpg)." %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/shrimp-stew.jpg#wide" title="Shrimp fishing vessel in the Gulf of Mexico" caption="The Gulf of Mexico has been dotted with fishing boats for generations, but the ultra-black fish residing at a depth of 500–2000m had not previously been published." %}
 
 After collecting the fish, the team returned to the lab to answer a series of questions; how did these fish achieve ultra-black coloration, and _why_? Fish do not have honeycomb structures like some butterflies, nor light-scattering feathers like the birds of paradise.
 
@@ -59,3 +60,7 @@ This article is based on Davis et al., “Ultra-black Camouflage in Deep-Sea Fis
 This article was also posted on [Medium](https://medium.com/@NikoMcCarty/a-lucky-haul-an-evasive-fish-and-the-ultra-black-materials-of-the-future-1588276d2443).
 
 Featured image from [Wikimedia](https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0:%E0%A4%B5%E0%A5%88%E0%A4%82%E0%A4%9F%E0%A4%AC%E0%A5%87%E0%A4%B2%E0%A4%95.jpg).
+
+Image of _L. superba_ taken from [Wikimedia](https://commons.wikimedia.org/wiki/File:Lophorina_superba.jpg).
+
+Image of the fishing trawler taken from [Flickr](https://commons.wikimedia.org/wiki/File:Grand_Isle_-_Shrimp_Stew.jpg).
