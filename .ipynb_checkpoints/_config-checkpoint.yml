@@ -1,7 +1,7 @@
 # Site setings
 name: 'Niko McCarty'
-description: 'science journalist, programmer, synthetic biologist'
-meta_description: 'Niko McCarty is a science journalist, data visualist, programmer, synthetic biologist in New York.'
+description: 'science writer, programmer, synthetic biologist'
+meta_description: 'Niko McCarty is a science writer, data visualist, programmer, synthetic biologist in New York.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
