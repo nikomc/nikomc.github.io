@@ -40,6 +40,14 @@ This technical write-up provides a potential avenue to engineer the ribosome and
 
 ***
 
+#### Notes:
+
+This article was also posted on [Medium](https://medium.com/@NikoMcCarty/a-first-step-to-create-synthetic-mirrored-organisms-4f70fbbaf1e).
+
+Featured image from [Flickr user redondoself](https://www.flickr.com/photos/redondoself/3902609089).
+
+***
+
 #### References:
 
 [^1]: Englander M, et al. PNAS 112, 6038–43 (2015).
@@ -86,9 +94,5 @@ This technical write-up provides a potential avenue to engineer the ribosome and
 
 [^22]: Marelli C & Maschat F. Orphanet J Rare Dis 11, 24 (2016).
 
-***
 
-This article was also posted on [Medium](https://medium.com/@NikoMcCarty/a-first-step-to-create-synthetic-mirrored-organisms-4f70fbbaf1e).
-
-Featured image from [Flickr user redondoself](https://www.flickr.com/photos/redondoself/3902609089).
 
