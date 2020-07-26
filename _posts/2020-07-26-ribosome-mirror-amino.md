@@ -43,26 +43,47 @@ This technical write-up provides a potential avenue to engineer the ribosome and
 #### References:
 
 [^1]: Englander M, et al. PNAS 112, 6038–43 (2015).
+
 [^2]: Wang K, et al. Nat. Biotechnol. 25, 770–7 (2007).
+
 [^3]: Czekster C, et al. JACS 138, 5194–7 (2016).
+
 [^4]: Chin JW. Nature 550, 53–60 (2017).
+
 [^5]: Dedkova L, et al. JACS 125, 6616–7 (2003).
+
 [^6]: Schmeing T & Ramakrishnan V. Nature 461, 1234–42 (2009).
+
 [^7]: Achenbach J, et al. Nucleic Acids Res. 43, 5687–98 (2015).
+
 [^8]: Ban N, et al. Science 289, 905–20 (2000).
+
 [^9]: Nissen P, et al. Science 289, 920–30 (2000).
+
 [^10]: Moore P & Steitz T. RNA 9, 155–9 (2003).
+
 [^11]: Neumann H, et al. Nature 464, 441–4 (2010).
+
 [^12]: Fried S, et al. Angew. Chem. 127, 12982–5 (2015).
+
 [^13]: Wang Z, et al. Nat. Chem. 8, 698–704 (2016).
+
 [^14]: Pritsker M, et al. PNAS 95, 7287–92 (1998).
+
 [^15]: Soutourina J, et al. J. Biol. Chem. 275, 32535–42 (2000).
+
 [^16]: Francklyn CS, et al. Methods 44, 100–18 (2008).
+
 [^17]: Taylor P, et al. Applied Biocatalysis in Specialty Chemicals and Pharmaceuticals 776, 65–75 (2001).
+
 [^18]: Fischer N, et al. Nature 520, 567–70 (2015).
+
 [^19]: Fosgerau K, et al. Drug Discov Today 20, 122–8 (2015).
+
 [^20]: Takeuchi T, et al. Curr Med Chem 21, 2575–82 (2014).
+
 [^21]: Matejuk A, et al. Drugs Future 35, 197 (2010).
+
 [^22]: Marelli C & Maschat F. Orphanet J Rare Dis 11, 24 (2016).
 
 ***
