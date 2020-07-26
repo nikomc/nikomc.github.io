@@ -7,8 +7,6 @@ featured_image: assets/images/posts/2020/ribosome_cartoon.jpg
 
 ---
 
-**Warning**: This is a technical proposal, not intended for a general audience. Terrible jargon ahead!
-
 George Church, the famous Harvard geneticist, has [famously espoused](https://www.wired.com/2010/11/ff_mirrorlife/) the potential of “mirrored” organisms — living creatures built exclusively with chiral molecules. This idea even featured in his excellent book, [Regenesis](https://www.amazon.com/Regenesis-Synthetic-Biology-Reinvent-Ourselves/dp/0465075703), which was co-authored by [Ed Regis](https://en.wikipedia.org/wiki/Ed_Regis_(author)). Though such organisms are not found in nature, a synthetic “mirrored” organism would be entirely immune from viral infection and could be used to manufacture a new suite of [enantiopure pharmaceuticals](https://en.wikipedia.org/wiki/Enantiopure_drug). All organisms on earth synthesize proteins using exclusively L-amino acids[^1], but perhaps the early steps in creating a “mirrored” organism would best be pursued through the engineering of the ribosome, that great molecular machine underpinning translation.
 
 To date, laboratories have succeeded in creating ribosomes that read orthogonal mRNA messages[^2], stochastically incorporate β-amino acids[^3] or introduce unnatural α-amino acids into proteins within cells by modifying key residues in the ribosome and associated translational machinery[^4]. D-amino acids have been incorporated into polypeptide chains _in vitro_[^5], but efforts to do so _in vivo_ have proven more difficult.
@@ -41,6 +39,8 @@ This technical write-up provides a potential avenue to engineer the ribosome and
 ***
 
 #### Notes:
+
+This is a technical proposal, and was never intended for a general audience. My sincere apologies for the terrible jargon!
 
 This article was also posted on [Medium](https://medium.com/@NikoMcCarty/a-first-step-to-create-synthetic-mirrored-organisms-4f70fbbaf1e).
 
