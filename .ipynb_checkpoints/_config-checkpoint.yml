@@ -41,6 +41,8 @@ navigation:
     url: /bio
   - text: Writings
     url: /writings
+  - text: This Week in SynBio
+    url: /this-week
   - text: Contact
     url: /contact
   - text: Search
