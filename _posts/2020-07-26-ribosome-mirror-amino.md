@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Early Steps to Create a Synthetic, “Mirrored” Organism"
-tags: [ science, technology, synthetic biology]
+tags: [ science, synthetic biology]
 featured_image_thumbnail: assets/images/posts/2020/ribosome_cartoon.jpg
 featured_image: assets/images/posts/2020/ribosome_cartoon.jpg
 
