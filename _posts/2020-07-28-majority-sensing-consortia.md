@@ -2,8 +2,10 @@
 layout: post
 title:  "Microbes Programmed to Silence their Chatty Neighbors"
 tags: [ science, synthetic biology]
-featured_image_thumbnail: assets/images/posts/2020/petri_dish.jpeg
+featured_image_thumbnail:
 featured_image: assets/images/posts/2020/petri_dish.jpeg
+featured: true
+hidden: true
 
 ---
 
@@ -16,6 +18,9 @@ For decades, studies have espoused the _correlation_ between our outward-appeari
 There is hope that restoring bacterial populations to a "healthy" state could be used to treat, or stave off, disease. [Researchers have been testing fecal transplants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3974513/), in which the stool from a healthy person is inserted into a patient, to treat Crohn's disease. But this approach is a bit like using a [nuclear bomb to shut off a gas leak](https://www.npr.org/templates/story/story.php?storyId=127473704#:~:text=News%20reports%20from%20Russia%20say,well%20under%20tons%20of%20earth.). It would be far better if scientists and physicians had a more targeted way to control the microbial species in these complex environments, much as a baker concocts and refines a recipe.
 
 [Now, a study](https://www.nature.com/articles/s41467-020-17475-z) from bioengineers at Rice University has demonstrated that, by engineering cells with genetic circuits, the members of a microbial community can talk to one another and coordinate behaviors at the molecular level. The results mark a promising advancement in the synthetic control of microbial communities, and may prove useful in future efforts to modify the microbiome.
+
+{% include image-caption.html imageurl="/assets/images/posts/2020/community_sand.jpeg#wide" title="Microbial community on a grain of sand" caption="Bacterial communities are everywhere! This image shows one such community, as imaged on a grain of sand collected near Boston, Massachusetts." %}
+
 
 ***
 
@@ -64,3 +69,11 @@ A _Nature_ outlook piece on "[The hunt for a healthy microbiome](https://www.nat
 An [open-access review](https://rupress.org/jem/article/216/5/1005/121029/Microbial-therapeutics-New-opportunities-for-drug) on living medicines for treating disease.
 
 My [previous article](https://medium.com/@NikoMcCarty/why-2018-was-the-year-of-living-medicine-af903df27722) on the companies developing "living medicines".
+
+***
+
+**Images:**
+
+Featured image courtesy of Photo courtesy of [Michael Schiffer](https://unsplash.com/photos/13UugSL9q7A).
+
+Image of a microbial community on sand courtesy of the Lewis Lab at Northeastern University. [Image created](https://www.flickr.com/photos/adonofrio/4477413475) by Anthony D'Onofrio, William H. Fowle, Eric J. Stewart and Kim Lewis.

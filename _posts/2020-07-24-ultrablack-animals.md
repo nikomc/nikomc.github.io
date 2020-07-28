@@ -2,9 +2,10 @@
 layout: post
 title:  "A Lucky Haul, an Evasive Fish, and the Ultra-Black Materials of the Future"
 tags: [ science, nature, technology]
-featured_image_thumbnail: assets/images/posts/2020/vantablack.jpg
+featured_image_thumbnail:
 featured_image: assets/images/posts/2020/vantablack.jpg
-
+featured: true
+hidden: true
 ---
 
 Evolution has the extraordinary ability to devise multiple solutions to a single problem. In the dense forests of Papua New Guinea, a male bird of paradise ([_Lophorina superba_](https://www.nature.com/articles/s41467-017-02088-w.pdf)) approaches a potential mate, puffs out its chest, and spreads its feathers into an intimidating fan. Its ultra-black feathers are accentuated with a deep shade of green, made to impress the onlooking female. The _superba_’s plumage is such a deep black that it absorbs up to 99.95% of all light, on par with the darkest materials ever studied.
