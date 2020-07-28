@@ -3,7 +3,7 @@ layout: page
 title: This Week in Synthetic Biology
 ---
 
-Every week, I share the latest in synthetic biology research and news, in an effort to provide consistent updates on this exciting field. This project is inspired by [Microbiome Digest](https://microbiomedigest.com/).
+Every week, I share the latest in synthetic biology research and news, in an effort to provide consistent updates on this exciting field. Inspired by [Microbiome Digest](https://microbiomedigest.com/).
 
 #### July 31, 2020
 
