@@ -12,6 +12,9 @@ Every week, on Friday, I share the latest in synthetic biology research and news
 The [Delisa lab](https://www.delisaresearchgroup.com/) demonstrates new, orthogonal pathways for eukaryotic O-linked protein glycosylation in the bacterium, _E. coli_. [Read the paper](https://www.nature.com/articles/s41589-020-0595-9).
 * Natarajan, A., Jaroentomeechai, T., Cabrera-Sánchez, M. _et al._ Engineering orthogonal human O-linked glycoprotein biosynthesis in bacteria. _Nat Chem Biol_ (2020). https://doi.org/10.1038/s41589-020-0595-9.
 
+The [Khammash](https://bsse.ethz.ch/ctsb) lab publishes a method for using aTc and tetracycline for chemo-optogenetic control in cells. [Read the paper](https://www.nature.com/articles/s41467-020-17677-5).
+* Baumschlager, A., Rullan, M. & Khammash, M. Exploiting natural chemical photosensitivity of anhydrotetracycline and tetracycline for dynamic and setpoint chemo-optogenetic control. _Nat Commun_ 11, 3834 (2020). https://doi.org/10.1038/s41467-020-17677-5.
+
 The [Raj](https://rajlab.seas.upenn.edu/) lab reports MemorySeq, a method to identify "slowly fluctuating gene expression states in rare single cells". [Read the paper](https://www.cell.com/cell/fulltext/S0092-8674(20)30868-0?rss=yes).
 * Shaffer, S.M., Emert, B.L. et al. Memory Sequencing Reveals Heritable Single-Cell Gene Expression Programs Associated with Distinct Cellular Behaviors. _Cell_ (2020). https://doi.org/10.1016/j.cell.2020.07.003
 
