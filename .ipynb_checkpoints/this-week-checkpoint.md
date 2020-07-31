@@ -76,7 +76,7 @@ Article in [OneZero](https://onezero.medium.com/) on how cows were genetically e
 
 ***
 
-Looking for previous "This Week in Synthetic Biology" posts? No problem! Just navigate to the "Search" page and type in "This Week". Previous posts will populate in the results, and are organized by week.
+Looking for previous "This Week in Synthetic Biology" posts? No problem! [Click here](https://hiniko.io/tags/index.html#this+week) to view the full archive (posts are listed under the "this-week" tag).
 
 
 
