@@ -1,6 +1,12 @@
 ---
-layout: page
-title: This Week in Synthetic Biology
+layout: post
+title:  "This Week in Synthetic Biology (July 31, 2020)"
+tags: [ this week ]
+featured_image_thumbnail:
+featured_image:
+featured:
+hidden: 
+
 ---
 
 Every week, on Friday, I share the latest in synthetic biology research and news, in an effort to provide consistent updates on this exciting field. Inspired by [Microbiome Digest](https://microbiomedigest.com/). Did I miss something? That happens -- please send me a message!
@@ -57,7 +63,6 @@ The [Koonin](https://irp.nih.gov/pi/eugene-koonin) lab uses machine learning to 
 
 [A Wearable Optical Microfibrous Biomaterial with Encapsulated Nanosensors Enables Wireless Monitoring of Oxidative Stress](https://www.biorxiv.org/content/10.1101/2020.07.24.220194v1) by Safaee, M.M. et al. [bioRxiv](https://www.biorxiv.org/).
 
-
 **In the news**:
 
 The founder/CEO of [Faber Futures](https://faberfutures.com/), Natsai Audrey Chieza, talks about fashion and synthetic biology in an inspiring interview. [Read the article](https://www.highsnobiety.com/p/natsai-audrey-chieza-clothes-out-of-bacteria-interview/).
@@ -77,6 +82,3 @@ Article in [OneZero](https://onezero.medium.com/) on how cows were genetically e
 ***
 
 Looking for previous "This Week in Synthetic Biology" posts? No problem! Just navigate to the "Search" page and type in "This Week". Previous posts will populate in the results, and are organized by week.
-
-
-

@@ -74,7 +74,9 @@ UCLA and UCSB researchers receive a $23.7 million grant from the NSF to study bi
 
 Article in [OneZero](https://onezero.medium.com/) on how cows were genetically engineered to produce mostly male offspring. [Read the article](https://onezero.medium.com/scientists-gene-edited-a-cow-to-have-mostly-male-offspring-fe8ddb92bc6).
 
+***
 
+Looking for previous "This Week in Synthetic Biology" posts? No problem! Just navigate to the "Search" page and type in "This Week". Previous posts will populate in the results, and are organized by week.
 
 
 
