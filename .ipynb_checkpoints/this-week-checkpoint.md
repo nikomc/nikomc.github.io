@@ -34,6 +34,8 @@ The [Koonin](https://irp.nih.gov/pi/eugene-koonin) lab uses machine learning to 
 
 **Preprints (not peer-reviewed):**
 
+[Environmental fluctuations reshape an unexpected diversity-disturbance relationship in a microbial community](https://www.biorxiv.org/content/10.1101/2020.07.28.225987v1) by Mancuso, C.P. et al. [bioRxiv](https://www.biorxiv.org/).
+
 [_De novo_ designed receptor transmembrane domains enhance CAR-T cell cytotoxicity and attenuate cytokine release](https://www.biorxiv.org/content/10.1101/2020.07.26.221598v1) by Elazar, A. et al. [bioRxiv](https://www.biorxiv.org/).
 
 [Combinatorial CRISPR screening reveals functional buffering in autophagy](https://www.biorxiv.org/content/10.1101/2020.07.28.201152v1) by Diehl, V. et al. [bioRxiv](https://www.biorxiv.org/).
@@ -67,6 +69,7 @@ A [Scientific American](https://www.scientificamerican.com/) article discusses p
 
 UCLA and UCSB researchers receive a $23.7 million grant from the NSF to study biologically based polymers. [Read the press release](https://newsroom.ucla.edu/releases/nsf-grant-biologically-based-polymers).
 
+Article in [OneZero](https://onezero.medium.com/) on how cows were genetically engineered to produce mostly male offspring. [Read the article](https://onezero.medium.com/scientists-gene-edited-a-cow-to-have-mostly-male-offspring-fe8ddb92bc6).
 
 
 
