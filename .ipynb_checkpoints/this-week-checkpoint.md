@@ -5,7 +5,7 @@ title: This Week in Synthetic Biology
 
 Every week, on Friday, I share the latest in synthetic biology research and news, in an effort to provide consistent updates on this exciting field. Inspired by [Microbiome Digest](https://microbiomedigest.com/). Did I miss something? That happens -- please send me a message!
 
-Expanded versions of **_This Week in Synthetic Biology_** are also posted on [Medium](https://medium.com/this-week-in-synthetic-biology). Check it out!
+Would you rather receive **_This Week in Synthetic Biology_** in your inbox? [Sign up for the Friday email here!](https://hiniko.us17.list-manage.com/subscribe?u=bc565ea530a826008e1bdc0ac&id=38dfcee561)
 
 #### July 31, 2020
 
@@ -80,5 +80,4 @@ Article in [OneZero](https://onezero.medium.com/) on how cows were genetically e
 
 Looking for previous "This Week in Synthetic Biology" posts? No problem! [Click here](https://hiniko.io/tags/index.html#this-week) to view the full archive. Posts are listed under the "this-week" tag.
 
-
-
+Expanded versions of **_This Week in Synthetic Biology_** are also posted on [Medium](https://medium.com/this-week-in-synthetic-biology). Check it out!
