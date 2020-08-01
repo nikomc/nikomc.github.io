@@ -9,9 +9,9 @@ hidden:
 
 ---
 
-Every week, on Friday, I share the latest in synthetic biology research and news, in an effort to provide consistent updates on this exciting field. Inspired by [Microbiome Digest](https://microbiomedigest.com/). Did I miss something? That happens -- please send me a message!
+Would you rather receive **_This Week in Synthetic Biology_** directly to your inbox? [Sign up for the newsletter](https://synbio.substack.com/).
 
-Rather receive **_This Week in Synthetic Biology_** directly to your inbox? [Sign up for the newsletter here](https://synbio.substack.com/).
+Every week, on Friday, I share the latest in synthetic biology research and news, in an effort to provide consistent updates on this exciting field. Inspired by [Microbiome Digest](https://microbiomedigest.com/). Did I miss something? That happens -- please send me a message!
 
 #### July 31, 2020
 
