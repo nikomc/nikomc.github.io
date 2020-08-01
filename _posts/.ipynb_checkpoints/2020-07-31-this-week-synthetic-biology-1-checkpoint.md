@@ -11,6 +11,8 @@ hidden:
 
 Every week, on Friday, I share the latest in synthetic biology research and news, in an effort to provide consistent updates on this exciting field. Inspired by [Microbiome Digest](https://microbiomedigest.com/). Did I miss something? That happens -- please send me a message!
 
+Expanded versions of **_This Week in Synthetic Biology_** are also posted on [Medium](https://medium.com/this-week-in-synthetic-biology). Check it out!
+
 #### July 31, 2020
 
 **Peer-reviewed research**:
@@ -41,6 +43,22 @@ New study demonstrates a method for inducible expression of neoantigens in mice,
 The [Koonin](https://irp.nih.gov/pi/eugene-koonin) lab uses machine learning to design anti-CRISPR proteins. [Read the article](https://www.nature.com/articles/s41467-020-17652-0).
 * Gussow, A.B., Park, A.E., Borges, A.L. et al. Machine-learning approach expands the repertoire of anti-CRISPR protein families. _Nat Commun_ 11, 3784 (2020). https://doi.org/10.1038/s41467-020-17652-0
 
+**In the news**:
+
+The founder/CEO of [Faber Futures](https://faberfutures.com/), Natsai Audrey Chieza, talks about fashion and synthetic biology in an inspiring interview. [Read the article](https://www.highsnobiety.com/p/natsai-audrey-chieza-clothes-out-of-bacteria-interview/).
+
+Excellent article on the scientific quest to make self-folding molecules (a.k.a. 'foldamers'). [Read the article](https://www.chemistryworld.com/features/the-function-of-folding/4012081.article).
+
+Article about Bay Area biotechnology company, [Atum](https://www.atum.bio/), which is manufacturing DNA/proteins for COVID-19 testing and other applications. [Read the article](https://www.sfchronicle.com/business/article/This-Bay-Area-company-thought-it-might-not-15434078.php).
+
+Enzymatic DNA synthesis company, [DNA Script](https://www.dnascript.com/), expanded their Series B to $89M. [Read the press release](https://www.dnascript.com/press-releases/dna-script-expands-series-b-to-89m/).
+
+A [Scientific American](https://www.scientificamerican.com/) article discusses plant hormone networks, and how metabolic engineers can take advantage. [Read the article](https://www.scientificamerican.com/article/plants-have-hormones-too-and-tweaking-them-could-improve-food-supply/).
+
+UCLA and UCSB researchers receive a $23.7 million grant from the NSF to study biologically based polymers. [Read the press release](https://newsroom.ucla.edu/releases/nsf-grant-biologically-based-polymers).
+
+Article in [OneZero](https://onezero.medium.com/) on how cows were genetically engineered to produce mostly male offspring. [Read the article](https://onezero.medium.com/scientists-gene-edited-a-cow-to-have-mostly-male-offspring-fe8ddb92bc6).
+
 **Preprints (not peer-reviewed):**
 
 [Environmental fluctuations reshape an unexpected diversity-disturbance relationship in a microbial community](https://www.biorxiv.org/content/10.1101/2020.07.28.225987v1) by Mancuso, C.P. et al. [bioRxiv](https://www.biorxiv.org/).
@@ -63,22 +81,7 @@ The [Koonin](https://irp.nih.gov/pi/eugene-koonin) lab uses machine learning to 
 
 [A Wearable Optical Microfibrous Biomaterial with Encapsulated Nanosensors Enables Wireless Monitoring of Oxidative Stress](https://www.biorxiv.org/content/10.1101/2020.07.24.220194v1) by Safaee, M.M. et al. [bioRxiv](https://www.biorxiv.org/).
 
-**In the news**:
-
-The founder/CEO of [Faber Futures](https://faberfutures.com/), Natsai Audrey Chieza, talks about fashion and synthetic biology in an inspiring interview. [Read the article](https://www.highsnobiety.com/p/natsai-audrey-chieza-clothes-out-of-bacteria-interview/).
-
-Excellent article on the scientific quest to make self-folding molecules (a.k.a. 'foldamers'). [Read the article](https://www.chemistryworld.com/features/the-function-of-folding/4012081.article).
-
-Article about Bay Area biotechnology company, [Atum](https://www.atum.bio/), which is manufacturing DNA/proteins for COVID-19 testing and other applications. [Read the article](https://www.sfchronicle.com/business/article/This-Bay-Area-company-thought-it-might-not-15434078.php).
-
-Enzymatic DNA synthesis company, [DNA Script](https://www.dnascript.com/), expanded their Series B to $89M. [Read the press release](https://www.dnascript.com/press-releases/dna-script-expands-series-b-to-89m/).
-
-A [Scientific American](https://www.scientificamerican.com/) article discusses plant hormone networks, and how metabolic engineers can take advantage. [Read the article](https://www.scientificamerican.com/article/plants-have-hormones-too-and-tweaking-them-could-improve-food-supply/).
-
-UCLA and UCSB researchers receive a $23.7 million grant from the NSF to study biologically based polymers. [Read the press release](https://newsroom.ucla.edu/releases/nsf-grant-biologically-based-polymers).
-
-Article in [OneZero](https://onezero.medium.com/) on how cows were genetically engineered to produce mostly male offspring. [Read the article](https://onezero.medium.com/scientists-gene-edited-a-cow-to-have-mostly-male-offspring-fe8ddb92bc6).
 
 ***
 
-Looking for previous "This Week in Synthetic Biology" posts? No problem! Just navigate to the "Search" page and type in "This Week". Previous posts will populate in the results, and are organized by week.
+Looking for previous **_This Week in Synthetic Biology_** posts? No problem! Just navigate to the "Search" page and type in "This Week". Previous posts will populate in the results, and are organized by week.
