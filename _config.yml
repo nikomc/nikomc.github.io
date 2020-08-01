@@ -11,7 +11,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://nikomc.github.io
 disqus: 'hiniko'
-mailchimp_url:
+mailchimp_url: '//hiniko.us17.list-manage.com/subscribe?u=bc565ea530a826008e1bdc0ac&id=38dfcee561'
 # Add your GA Tracking Id
 ga_analytics: UA-77949830-3
 
