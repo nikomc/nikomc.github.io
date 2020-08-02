@@ -74,6 +74,6 @@ My [previous article](https://medium.com/@NikoMcCarty/why-2018-was-the-year-of-l
 
 **Images:**
 
-Featured image courtesy of Photo courtesy of [Michael Schiffer](https://unsplash.com/photos/13UugSL9q7A).
+Featured image courtesy of [Michael Schiffer](https://unsplash.com/photos/13UugSL9q7A).
 
 Image of a microbial community on sand courtesy of the Lewis Lab at Northeastern University. [Image created](https://www.flickr.com/photos/adonofrio/4477413475) by Anthony D'Onofrio, William H. Fowle, Eric J. Stewart and Kim Lewis.
