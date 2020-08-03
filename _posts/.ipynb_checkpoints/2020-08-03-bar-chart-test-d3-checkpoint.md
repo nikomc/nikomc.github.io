@@ -15,56 +15,24 @@ In learning D3.js, I've tried most resources: YouTube videos, Udemy courses, and
 
 I've modified Murray's code ([check it out on GitHub](https://github.com/scotthmurray/d3-book/blob/master/chapter_09/28_adding_and_removing.html)), adding buttons rather than paragraph elements, changing the style of the bars, and adding a dynamic x-axis to go along with the data. Check out the dynamic result at the bottom of this post.
 
-<pre><code class="language-javascript">
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Updating Bar Chart</title>
-  <script src="https://d3js.org/d3.v5.js"></script>
+{% include bar_chart_test.html %}
 
-</head>
+Code blocks, highlighted with [Prism](http://prismjs.com/index.html).
 
-<body>
-  <button class="button_click" id="add">Add a Bar</button>
-  <button class="button_click" id="remove">Remove a Bar</button>
+<pre><code class="language-markup">&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+	&lt;meta charset="utf-8" /&gt;
+	&lt;title&gt;Dynamic Bar Chart with D3.js&lt;/title&gt;
+	&lt;script src="https://d3js.org/d3.v5.js" &gt; &lt;/script&gt;
+&lt;/head&gt;
 
-  <div id="chart"></div>
+&lt;body&gt;
+  &lt;button class="button_click" id="add"&gt;Add a Bar&lt;/button&gt;
+  &lt;button class="button_click" id="remove"&gt;Remove a Bar&lt;/button&gt;
+  &lt;div id="chart"&gt;&lt;/div&gt;
 
-  <style>
-
-    text {
-      font: sans-serif;
-      font-size: 12px;
-      fill: white;
-    }
-
-    .button_click {
-      color: white;
-      height: 4em;
-      width: 45%;
-      padding: 0.5em auto;
-      margin: 1em auto;
-      background-color: #1d1d1d;
-      border: none;
-      border-radius: 3px;
-      text-transform: uppercase;
-      letter-spacing: 0.2em;
-      transition: all 0.2s cubic-bezier(.4,0,.2,1);
-    }
-
-    .button_click:hover {
-      letter-spacing: 0.3em;
-      background-color: #d4a25a;
-    }
-
-    .axis {
-      stroke-width: 2px;
-      /* fill: black; */
-    }
-
-  </style>
-
-  <script type="text/javascript">
+  &lt;script type="text/javascript"&gt;
 
   var margin = ({top: 20, right: 30, bottom: 30, left: 40})
 
@@ -72,8 +40,8 @@ I've modified Murray's code ([check it out on GitHub](https://github.com/scotthm
   var w = 730 - margin.left - margin.right;
 
     var dataset = [
-            { key: 0, value: 5 },		//dataset is now an array of objects.
-            { key: 1, value: 10 },		//Each object has a 'key' and a 'value'.
+            { key: 0, value: 5 },
+            { key: 1, value: 10 },
             { key: 2, value: 13 },
             { key: 3, value: 19 },
             { key: 4, value: 21 },
@@ -222,7 +190,14 @@ I've modified Murray's code ([check it out on GitHub](https://github.com/scotthm
           .attr("height", function(d) {
             return yScale(d.value);
           });
-          
+
+        //Exit…
+        bars.exit()
+          .transition()
+          .duration(500)
+          .attr("x", -xScale.bandwidth())
+          .remove();
+
         text.enter()
            .append("text")
            .text(function(d) {
@@ -243,24 +218,75 @@ I've modified Murray's code ([check it out on GitHub](https://github.com/scotthm
               return h - yScale(d.value) + 14;
            });
 
-        //Exit…
-        bars.exit()
-          .transition()
-          .duration(500)
-          .attr("x", -xScale.bandwidth())
-          .remove();
-
         text.exit()
             .transition()
             .duration(500)
             .attr("x", -xScale.bandwidth())
             .remove();
+
+
+
+        //Update all labels
+        //
+        //Exercise: Modify this code to add and remove the correct labels each time!
+        //
+        svg.selectAll("text")
+           .data(dataset, key)
+           .transition()
+           .duration(500)
+           .text(function(d) {
+              return d.value;
+           })
+           .attr("x", function(d, i) {
+            return xScale(i) + xScale.bandwidth() / 2;
+           })
+           .attr("y", function(d) {
+            return h - yScale(d.value) + 14;
+           });
+
       });
 
 
-  </script>
-</body>
-</html>
+  &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
 </code></pre>
 
-{% include bar_chart_test.html %}
+And the styling, of course.
+
+<pre><code class="language-css">@import url(http://fonts.googleapis.com/css?family=Arvo);
+
+/* Styles */
+
+    text {
+      font: sans-serif;
+      font-size: 12px;
+      fill: white;
+    }
+
+    .button_click {
+      color: white;
+      height: 4em;
+      width: 45%;
+      padding: 0.5em auto;
+      margin: 1em auto;
+      background-color: #1d1d1d;
+      border: none;
+      border-radius: 3px;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      transition: all 0.2s cubic-bezier(.4,0,.2,1);
+    }
+
+    .button_click:hover {
+      letter-spacing: 0.3em;
+      background-color: #d4a25a;
+    }
+
+    .axis {
+      stroke-width: 2px;
+    }
+    
+}</code></pre>
+
