@@ -36,7 +36,7 @@ Code blocks, highlighted with [Prism](http://prismjs.com/index.html).
 
   var margin = ({top: 20, right: 30, bottom: 30, left: 40})
 
-  var h = 300 - margin.top - margin.bottom;
+  var h = 250 - margin.top - margin.bottom;
   var w = 730 - margin.left - margin.right;
 
     var dataset = [
@@ -80,7 +80,7 @@ Code blocks, highlighted with [Prism](http://prismjs.com/index.html).
       .attr("preserveAspectRatio", "xMinYMin meet")
       //.attr("viewBox", "-20 -20 " + w + " " + h)
       //this is to zoom out
-      .attr("viewBox", "-20 -20 800 1000")
+      .attr("viewBox", "-20 -20 800 200")
       .style("padding", 1)
       .style("margin", 1);
 
@@ -253,12 +253,9 @@ Code blocks, highlighted with [Prism](http://prismjs.com/index.html).
 
 </code></pre>
 
-And the styling, of course.
+And the CSS, of course.
 
 <pre><code class="language-css">@import url(http://fonts.googleapis.com/css?family=Arvo);
-
-/* Styles */
-
     text {
       font: sans-serif;
       font-size: 12px;
@@ -288,5 +285,5 @@ And the styling, of course.
       stroke-width: 2px;
     }
     
-}</code></pre>
+</code></pre>
 
