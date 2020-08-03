@@ -9,7 +9,7 @@ hidden:
 
 ---
 
-I've pursued data visualization with a dogged obsession, and progress has been slow. The learning curve is steep, or maybe I'm just slow. 
+I have studied data visualization every day for the last three months, in an effort to improve my skills, but progress has been slow. The learning curve is steep.
 
 In learning D3.js, I've tried most resources: YouTube videos, Udemy courses, and a range of books. The best book that I've encountered for learning D3.js is Scott Murray's _Interactive Data Visualization for the Web_, which provides a solid foundation and assumes little prior knowledge. In Chapter 9, Murray builds a bar chart that updates dynamically when the user clicks on a paragraph element -- a new bar comes in when the user clicks on text reading "Add a bar", and a bar slides out when the user clicks on text reading "Remove a bar". It's a fun exercise that highlights the fundamental "selections" of D3--enter(), exit(), and merge().
 
