@@ -13,7 +13,7 @@ I've pursued data visualization with a dogged obsession, and progress has been s
 
 In learning D3.js, I've tried most resources: YouTube videos, Udemy courses, and a range of books. The best book that I've encountered for learning D3.js is Scott Murray's _Interactive Data Visualization for the Web_, which provides a solid foundation and assumes little prior knowledge. In Chapter 9, Murray builds a bar chart that updates dynamically when the user clicks on a paragraph element -- a new bar comes in when the user clicks on text reading "Add a bar", and a bar slides out when the user clicks on text reading "Remove a bar". It's a fun exercise that highlights the fundamental "selections" of D3--enter(), exit(), and merge().
 
-I've modified Murray's code (provided here--https://github.com/scotthmurray/d3-book/blob/master/chapter_09/28_adding_and_removing.html), adding buttons rather than paragraph elements, changing the style of the bars, and adding a dynamic x-axis to go along with the data. Check out the dynamic result at the bottom of this post.
+I've modified Murray's code ([check it out on GitHub](https://github.com/scotthmurray/d3-book/blob/master/chapter_09/28_adding_and_removing.html)), adding buttons rather than paragraph elements, changing the style of the bars, and adding a dynamic x-axis to go along with the data. Check out the dynamic result at the bottom of this post.
 
 <pre><code class="language-javascript">
 <html lang="en">
