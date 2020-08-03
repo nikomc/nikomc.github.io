@@ -9,4 +9,4 @@ hidden:
 
 ---
 
-{% include stock_line_charts_buttons.html %}
+{% include bar_chart_test.html %}
