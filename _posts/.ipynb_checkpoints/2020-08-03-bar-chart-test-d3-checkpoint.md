@@ -39,7 +39,7 @@ Code blocks, highlighted with [Prism](http://prismjs.com/index.html).
   var h = 250 - margin.top - margin.bottom;
   var w = 730 - margin.left - margin.right;
 
-    var dataset = [
+  var dataset = [
             { key: 0, value: 5 },
             { key: 1, value: 10 },
             { key: 2, value: 13 },
@@ -224,12 +224,7 @@ Code blocks, highlighted with [Prism](http://prismjs.com/index.html).
             .attr("x", -xScale.bandwidth())
             .remove();
 
-
-
         //Update all labels
-        //
-        //Exercise: Modify this code to add and remove the correct labels each time!
-        //
         svg.selectAll("text")
            .data(dataset, key)
            .transition()
@@ -287,3 +282,4 @@ And the CSS, of course.
     
 </code></pre>
 
+I plan to post regular D3.js learning updates. Hope to see you next time!
