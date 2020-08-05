@@ -31,7 +31,7 @@ While most PhD students, at some point, go through a period of experimental tedi
 
 ***
 
-{% include image-caption.html imageurl="/assets/images/posts/2020/chibio_turbidostat.png" title="A schematic of the Chi.Bio device, which integrates a microcontroller, peristaltic pumps, and a bioreactor that incorporates lasers, LED, and other components for measuring cells and proteins." %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/chibio_turbidostat.png#wide" title="The Chi.Bio system" caption="A schematic of the Chi.Bio device, which integrates a microcontroller, peristaltic pumps, and a bioreactor that incorporates lasers, LED, and other components for measuring cells and proteins." %}
 
 
 
