@@ -8,7 +8,6 @@ featured: true
 hidden: true
 
 ---
-
 When the sun dips below the Pacific ocean, the white domes of Mount Wilson Observatory can still be seen to the east. Perched on the San Gabriel crest, the Observatory receives the final kisses of sunlight at the end of every day.
 
 There is not a window near my bench, but I can sense the shift from day to night by the lulls in conversation, the departing bodies, and the long shadows that drape across the laboratory.
@@ -66,7 +65,7 @@ The other authors on the PLoS Biology paper are Robert Habgood, Ciarán Kelly an
 
 ***
 
-**Image:**
+**Images:**
 
 Animation made by Niko McCarty with SVG and CSS.
 
