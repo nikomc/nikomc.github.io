@@ -4,7 +4,7 @@ title:  "Automated Biology Is Now an Affordable Reality"
 tags: [ science, synthetic biology, tech ]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2020/chibio_setup.jpg
-featured: true
+featured:
 hidden: true
 
 ---
