@@ -62,7 +62,7 @@ Until I find the time and money to automate my own experiments, I will be here, 
 ***
 The other authors on the PLoS Biology paper are Robert Habgood, Ciarán Kelly and Antonis Papachristodoulou.
 
-**Reference:** Steel H, Habgood R, Kelly C and Papachristodoulou A. “In situ characterisation and manipulation of biological systems with Chi.Bio” PLoS Biology (2020). DOI: https://doi.org/10.1371/journal.pbio.3000794
+**Reference:** Steel H, Habgood R, Kelly C and Papachristodoulou A. “In situ characterisation and manipulation of biological systems with Chi.Bio” _PLoS Biology_ (2020). DOI: https://doi.org/10.1371/journal.pbio.3000794
 
 ***
 
