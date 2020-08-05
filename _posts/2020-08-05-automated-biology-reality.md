@@ -55,8 +55,8 @@ For a few hundred dollars, you could build a Chi.Bio yourself with the online [i
 
 Until I find the time and money to automate my own experiments, I will be here, in the laboratory, with the long shadows of Mount Wilson. There are always more experiments to run. So I pick up my pipette, move tip to liquid, liquid to cells, tip to trash. Repeat _ad infinitum_.
 
-{% include robot_svg_animation.html %}
-
+<!-- {% include robot_svg_animation.html %}
+ -->
 ***
 The other authors on the PLoS Biology paper are Robert Habgood, Ciarán Kelly and Antonis Papachristodoulou.
 
