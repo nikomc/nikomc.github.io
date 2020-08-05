@@ -8,16 +8,13 @@ featured: true
 hidden: true
 
 ---
-When the sun dips below the Pacific ocean, the white domes of Mount Wilson Observatory can still be seen to the east. Perched on the San Gabriel crest, the Observatory receives the final kisses of sunlight at the end of every day.
+When the sun dips below the Pacific ocean, the white domes of Mount Wilson Observatory can still be seen to the east. Perched on the San Gabriel crest, the Observatory receives the final kisses of sunlight at the end of every day. There is not a window near my bench, but I can sense the shift from day to night by the lulls in conversation, the departing bodies, and the long shadows that drape across the laboratory.
 
-There is not a window near my bench, but I can sense the shift from day to night by the lulls in conversation, the departing bodies, and the long shadows that drape across the laboratory.
-With pipette in hand, the wall clock reads “8”. Still, I set up my experiment, moving tip to liquid, liquid to cells, tip to trash. Repeat _ad infinitum_.
+With pipette in hand, the wall clock reads “8”. Still, I set up my experiment, moving tip to liquid, liquid to cells, tip to trash. Repeat _ad infinitum_. Experiments are a drudgery, and I easily lose track of time. My mind inevitably wanders, I make a mistake and am forced to discard the experiment. So I begin again, _ad infinitum_.
 
-Experiments are a drudgery, and I easily lose track of time. My mind inevitably wanders, I make a mistake and am forced to discard the experiment. So I begin again, _ad infinitum_.
 At times like this — after the sun has fallen, but I remain rooted to my chair — I think about my travails, and consider whether they could be solved with a benevolent robot.
 
 ***
-
 “I do my experiments from home, actually,” said [Dr. Harrison Steel](http://sysos.eng.ox.ac.uk/wiki/index.php/User:Harry), one of the creators of a new device called Chi.Bio, through my computer screen.
 
 Steel’s room in Oxford is spotless, so much so that Room Rater might be inclined to give it a ten out of ten. His answers are neat and polished, without a single ‘umm’ or ‘ahh’ injected.
@@ -34,7 +31,9 @@ While most PhD students, at some point, go through a period of experimental tedi
 
 ***
 
-{% include image-caption.html imageurl="/assets/images/posts/2020/chibio_turbidostat.png#wide" title="A schematic of the Chi.Bio device, which integrates a microcontroller, peristaltic pumps, and a bioreactor that incorporates lasers, LED, and other components for measuring cells and proteins." %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/chibio_turbidostat.png" title="A schematic of the Chi.Bio device, which integrates a microcontroller, peristaltic pumps, and a bioreactor that incorporates lasers, LED, and other components for measuring cells and proteins." %}
+
+
 
 Chi.Bio only has three components: a control computer, peristaltic pumps for liquid handling, and bioreactors. But those components are loaded with functionality.
 
