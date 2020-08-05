@@ -64,8 +64,4 @@ The other authors on the PLoS Biology paper are Robert Habgood, Ciarán Kelly an
 
 ***
 
-**Images:**
-
-Animation made by Niko McCarty with SVG and CSS.
-
-All other images courtesy of the [Chi.Bio](https://chi.bio/) team.
+Images courtesy of the [Chi.Bio](https://chi.bio/) team.
