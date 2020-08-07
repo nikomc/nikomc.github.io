@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This Week in Synthetic Biology (July 31, 2020)"
+title:  "This Week in Synthetic Biology #1"
 tags: [this-week]
 featured_image_thumbnail:
 featured_image:
