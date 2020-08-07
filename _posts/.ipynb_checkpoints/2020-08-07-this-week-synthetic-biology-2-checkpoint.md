@@ -21,6 +21,8 @@ In industry news, [Carisma](https://carismatx.com/) can proceed with a Phase 1 t
 
 In coronavirus testing news, UC Davis scientists [received a $1.2M NIH grant](https://www.ucdavis.edu/news/nih-grant-create-humanized-mice-susceptible-covid-19) to “create mice that are susceptible to the COVID-19 virus,” Oxford Nanopore [launched LamPORE](https://nanoporetech.com/about-us/news/oxford-nanopore-technologies-partners-uk-government-roll-out-lampore-new-generation), and [Ginkgo](https://www.ginkgobioworks.com/), [Mammoth](https://mammoth.bio/), and others were [among winners of $250M NIH award](https://www.statnews.com/2020/07/31/nih-shark-tank-covid-19-testing-ginkgo-mammoth/) to scale up COVID-19 testing.
 
+***
+
 ### This week in research…
 
 [**Controlling Engineered T-cells with Ultrasound**](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00238)
@@ -33,7 +35,7 @@ At MIT, the [Voigt lab](http://web.mit.edu/voigtlab/) has constructed nine NOT/N
 
 [**Automated Cell Culture System with DIY Hardware**](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000794) **(Open Access)**
 
-With some printed circuit boards and off-the-shelf components, costing about \$300, a [team at Oxford](http://sysos.eng.ox.ac.uk/wiki/index.php/User:Antonis) has created a cell culture automation system with several useful features; the device can measure and record cell growth, and the seven-color LEDs can be used to measure multiple fluorescent proteins in parallel, or for optogenetics. The system, called Chi.Bio, was published in *PLoS Biology*.
+With some printed circuit boards and off-the-shelf components, costing about $300, a [team at Oxford](http://sysos.eng.ox.ac.uk/wiki/index.php/User:Antonis) has created a cell culture automation system with several useful features; the device can measure and record cell growth, and the seven-color LEDs can be used to measure multiple fluorescent proteins in parallel, or for optogenetics. The system, called Chi.Bio, was published in *PLoS Biology*.
 
 For more on this study, [check out my interview](https://medium.com/bioeconomy-xyz/automated-biology-is-now-an-affordable-reality-753684775521) with the lead author, Dr. Harrison Steel.
 
@@ -43,7 +45,7 @@ The [Chilkoti lab](https://bme.duke.edu/faculty/ashutosh-chilkoti) at Duke Unive
 
 [**Chemicals Stymie CRISPR Gene Drives**](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00117)
 
-At [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), in Seoul, South Korea, the [Kim lab](https://sites.google.com/site/hyongbumkimlab/professor) has developed a chemical method to control CRISPR-based gene drives in *Drosophila* fruit flies. Using a site-specific recombinase induced by a chemical, called RU486, they demonstrate a gene drive removal rate of 7-12\% in each generation. The work was published in *ACS Synthetic Biology*.
+At [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), in Seoul, South Korea, the [Kim lab](https://sites.google.com/site/hyongbumkimlab/professor) has developed a chemical method to control CRISPR-based gene drives in *Drosophila* fruit flies. Using a site-specific recombinase induced by a chemical, called RU486, they demonstrate a gene drive removal rate of 7-12% in each generation. The work was published in *ACS Synthetic Biology*.
 
 ***
 
@@ -101,7 +103,7 @@ At [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), in Seoul, Sout
 
 [Production of plant natural products through engineered ](https://www.sciencedirect.com/science/article/abs/pii/S0734975020300525)[*Yarrowia lipolytica*](https://www.sciencedirect.com/science/article/abs/pii/S0734975020300525) by Muhammad, A. *et al.* in *Biotechnology Advances*.
 
-[Sequencing enabling design and learning in synthetic biology](https://www.sciencedirect.com/science/article/abs/pii/S1367593120300855) by Gilliot, P. and Gorochowski, T.E. in *Current Opinion in Chemical Biology*.
+[Sequencing enabling design and learning in synthetic biology](https://www.sciencedirect.com/science/article/abs/pii/S1367593120300855?via%3Dihub) by Gilliot, P. and Gorochowski, T.E. in *Current Opinion in Chemical Biology*.
 
 ***
 
@@ -109,19 +111,19 @@ At [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), in Seoul, Sout
 
 [A MATLAB toolbox for modeling genetic circuits in cell-free systems](https://www.biorxiv.org/content/10.1101/2020.08.05.237990v1) by Singhal, V. *et al.* bioRxiv.
 
-[An efficient vector-based CRISPR/Cas9 system in an ](https://www.biorxiv.org/content/10.1101/2020.08.04.237065v1.abstract?)[*Oreochromis mossambicus*] cell line using endogenous promoters by Hamar, J.C. and Kültz D. bioRxiv.
+[An efficient vector-based CRISPR/Cas9 system in an ](https://www.biorxiv.org/content/10.1101/2020.08.04.237065v1.abstract?%3Fcollection=)[*Oreochromis mossambicus*](https://www.biorxiv.org/content/10.1101/2020.08.04.237065v1.abstract?%3Fcollection=)[ cell line using endogenous promoters](https://www.biorxiv.org/content/10.1101/2020.08.04.237065v1.abstract?%3Fcollection=) by Hamar, J.C. and Kültz D. bioRxiv.
 
 [A novel prokaryotic CRISPR-Cas12a based tool for programmable transcriptional activation and repression](https://www.biorxiv.org/content/10.1101/2020.08.05.232744v1) by Schilling, C., Koffas, M.A., Sieber, V. and Schmid, J. bioRxiv.
 
-[Base-edited CAR T cells for combinational therapy against T cell malignancies](https://www.biorxiv.org/content/10.1101/2020.07.30.228429v1.abstract) by Georgiadis, C. *et al.* bioRxiv.
+[Base-edited CAR T cells for combinational therapy against T cell malignancies](https://www.biorxiv.org/content/10.1101/2020.07.30.228429v1.abstract?%3Fcollection=) by Georgiadis, C. *et al.* bioRxiv.
 
-[BioCRNpyler: Compiling chemical reaction networks from biomolecular parts in diverse contexts](https://www.biorxiv.org/content/10.1101/2020.08.02.233478v1.abstract) by Poole, W. *et al.* bioRxiv.
+[BioCRNpyler: Compiling chemical reaction networks from biomolecular parts in diverse contexts](https://www.biorxiv.org/content/10.1101/2020.08.02.233478v1.abstract?%3Fcollection=) by Poole, W. *et al.* bioRxiv.
 
 [Cheetah: a computational toolkit for cybergenetic control](https://www.biorxiv.org/content/10.1101/2020.06.25.171751v2) by Pedone, E. *et al.* bioRxiv.
 
-[CRISPR interference as low burden logic inverters in synthetic circuits: characterization and tuning](https://www.biorxiv.org/content/10.1101/2020.08.03.234096v1.abstract) by Bellato, M. *et al.* bioRxiv.
+[CRISPR interference as low burden logic inverters in synthetic circuits: characterization and tuning](https://www.biorxiv.org/content/10.1101/2020.08.03.234096v1.abstract?%3Fcollection=) by Bellato, M. *et al.* bioRxiv.
 
-[CRISPR Turbo Accelerated Knock Out (CRISPy TAKO) for rapid ](https://www.biorxiv.org/content/10.1101/2020.08.04.236968v1.abstract)[*in vivo*](https://www.biorxiv.org/content/10.1101/2020.08.04.236968v1.abstract?)[ screening of gene function](https://www.biorxiv.org/content/10.1101/2020.08.04.236968v1.abstract?) by Plasil, S.L., Seth, A. and Homanics, G.E. bioRxiv.
+[CRISPR Turbo Accelerated Knock Out (CRISPy TAKO) for rapid ](https://www.biorxiv.org/content/10.1101/2020.08.04.236968v1.abstract?%3Fcollection=)[*in vivo*](https://www.biorxiv.org/content/10.1101/2020.08.04.236968v1.abstract?%3Fcollection=)[ screening of gene function](https://www.biorxiv.org/content/10.1101/2020.08.04.236968v1.abstract?%3Fcollection=) by Plasil, S.L., Seth, A. and Homanics, G.E. bioRxiv.
 
 [*De novo*](https://www.biorxiv.org/content/10.1101/2020.08.03.234914v1.abstract?%3Fcollection=)[ design of picomolar SARS-CoV-2 miniprotein inhibitors](https://www.biorxiv.org/content/10.1101/2020.08.03.234914v1.abstract?%3Fcollection=) by Cao, L. *et al.* bioRxiv.
 
@@ -149,7 +151,9 @@ At [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), in Seoul, Sout
 
 [Swab-Seq: A high-throughput platform for massively scaled up SARS-CoV-2 testing](https://www.medrxiv.org/content/10.1101/2020.08.04.20167874v1) by Bloom, J.S. *et al.* medRxiv.
 
-***This Week in Synthetic Biology*** is published every Friday, and covers the latest peer-reviewed research, preprints, and other news in the field. A version of these newsletters is also posted on [Medium](https://medium.com/this-week-in-synthetic-biology) and [hiniko.io](https://hiniko.io/).
+***
+
+***This Week in Synthetic Biology*** is published every Friday, and covers the latest peer-reviewed research, preprints, and other news in the field. A version of these newsletters is also posted on [Medium](https://medium.com/this-week-in-synthetic-biology).
 
 Questions, comments, concerns? Please [comment on this post](https://synbio.substack.com/).
 
