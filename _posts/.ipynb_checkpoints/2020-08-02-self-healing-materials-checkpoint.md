@@ -3,9 +3,9 @@ layout: post
 title:  "Scientists Invent Self-Healing Material with Engineered Squid Proteins"
 tags: [ science, synthetic biology, nature]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2020/loligo_vulgaris.jpg
-featured: true
-hidden: true
+featured_image:
+featured: 
+hidden: 
 
 ---
 
