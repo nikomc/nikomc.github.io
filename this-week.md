@@ -5,152 +5,168 @@ title: This Week in Synthetic Biology
 
 Would you rather receive **_This Week in Synthetic Biology_** directly to your inbox? [Sign up for the newsletter](https://synbio.substack.com/). This is the newsletter for August 7, 2020.
 
-### Good morning. This week…
+### Good morning. This week…
 
-*Undark* considered how [gene editing could make meatier cows](https://undark.org/2020/08/05/biotechnology-cattle-industry/), *STAT* [hosted a virtual CRISPR event](https://www.statnews.com/2020/08/05/virtual-event-crisprs-forward-march/) with Alexis Thompson and David Liu, *Massive Science* [drew parallels between cultivated meat and Tesla Roadsters](https://massivesci.com/articles/cultivated-meat-revolution/), and researchers at the University of New England [sexed chickens from feather DNA](http://www.poultryhub.org/a-fast-and-accurate-sexing-method-developed-at-the-university-of-new-england-to-sex-chickens-using-feather-crude-dna/).
+*The New Yorker’s* Raffi Khatchadourian [wrote about Jackson Laboratory’s rapid shipments](https://www.newyorker.com/magazine/2020/08/17/can-designer-mice-save-us-from-covid-19) of “designer mice” for SARS-CoV-2 research, *NewScientist* [covered a “radical new theory”](https://www.newscientist.com/article/mg24732940-800-a-radical-new-theory-rewrites-the-story-of-how-life-on-earth-began/) on how life began on Earth, and *CNN’s* Milly Chan [wrote a feature](https://edition.cnn.com/style/article/colorifix-sustainable-dyeing-water-pollution-spc-intl/index.html) on [Colorifix](https://colorifix.com/)’s dyeing of fabrics with synthetic biology.
 
-Meanwhile, an [article in ](https://theecologist.org/2020/aug/03/gene-editing-and-sustainable-farming)[*The Ecologist*](https://theecologist.org/2020/aug/03/gene-editing-and-sustainable-farming) mentioned that the UK government is “considering the deregulation of genome-edited organisms in agriculture”. [A press release](https://around.uoregon.edu/content/knight-campus-scientist-boosts-strength-genetic-synthesis) from the University of Oregon highlighted the new [Plesa lab](http://www.plesalab.org/) and [DropSynth 2.0](https://academic.oup.com/nar/article/doi/10.1093/nar/gkaa600/5874357), WIRED [published a “CRISPR guide,”](https://www.wired.com/story/wired-guide-to-crispr/) and [Axios spoke with Jennifer Doudna](https://www.axios.com/coronavirus-pandemic-gene-editing-crispr-42a48f54-1c8a-4ae2-b5bf-c422f45603d3.html) about CRISPR and coronavirus diagnostics.
+Meanwhile, the *San Francisco Chronicle* wrote about how proteins engineered to neutralize SARS-CoV-2 could [soon show up in nose sprays](https://www.sfchronicle.com/health/article/Fake-molecules-in-nose-spray-will-keep-the-15476742.php), [*OneZero*](https://onezero.medium.com/the-first-gene-edited-squid-in-history-is-a-biological-breakthrough-c81cb0449e5a) and [*Science Friday*](https://www.sciencefriday.com/segments/squid-gene-editing/) covered the first genetic edit in a squid, and Sarah Katz wrote a brilliant piece for Discover Magazine [explaining why some deaf people oppose a CRISPR cure](https://www.discovermagazine.com/health/why-deaf-people-oppose-using-gene-editing-to-cure-deafness).
 
-In industry news, [Carisma](https://carismatx.com/) can proceed with a Phase 1 trial after [all-clear for engineered macrophage immunotherapy](https://synbiobeta.com/carisma-therapeutics-announces-fda-clearance-of-ind-application-for-first-ever-engineered-macrophage-immunotherapy/), Ginkgo [announced their 2020 creative residents](https://www.ginkgobioworks.com/2020/08/03/introducing-our-2020-creative-residents/), and *Genetic Engineering & Biotechnology News* [published a piece](https://www.genengnews.com/insights/crispr-startups-give-genome-editing-several-new-twists/) on companies using base editors, exonucleases, and other gene-editing tools.
+In industry news, [Sherlock Biosciences](https://sherlock.bio/) [announced a collaboration](https://synbiobeta.com/sherlock-biosciences-announces-research-collaboration-with-dartmouth-hitchcock-health-to-launch-study-of-crispr-based-test-for-sars-cov-2/) to launch CRISPR-based tests for SARS-CoV-2 and [Mammoth Biosciences](https://mammoth.bio/) [inked a deal for Doudna lab’s “miniature” Cas enzyme](https://www.forbes.com/sites/alexknapp/2020/08/12/mammoth-biosciences-signs-exclusive-deal-for-recently-discovered-crispr-protein/#3ec75cf27c0e), CasΦ.
 
-In coronavirus testing news, UC Davis scientists [received a $1.2M NIH grant](https://www.ucdavis.edu/news/nih-grant-create-humanized-mice-susceptible-covid-19) to “create mice that are susceptible to the COVID-19 virus,” Oxford Nanopore [launched LamPORE](https://nanoporetech.com/about-us/news/oxford-nanopore-technologies-partners-uk-government-roll-out-lampore-new-generation), and [Ginkgo](https://www.ginkgobioworks.com/), [Mammoth](https://mammoth.bio/), and others were [among winners of $250M NIH award](https://www.statnews.com/2020/07/31/nih-shark-tank-covid-19-testing-ginkgo-mammoth/) to scale up COVID-19 testing.
+Congratulations to Northwestern’s Center for Synthetic Biology on a [$3 million grant from the NSF.](https://www.mccormick.northwestern.edu/news/articles/2020/08/national-science-foundation-grant-opens-new-doors-for-center-for-synthetic-biology.html)
+
+Today is the deadline for **iGEM teams** to [register for the virtual ](https://docs.google.com/forms/d/e/1FAIpQLSeNu98gfs3--8vOCQeTAgrh7G3rCkP3URZoDgGbx4JxGonkmQ/viewform)[*MIT Mammalian Meetup*](https://docs.google.com/forms/d/e/1FAIpQLSeNu98gfs3--8vOCQeTAgrh7G3rCkP3URZoDgGbx4JxGonkmQ/viewform), which will be held on August 27th from 9-12 EDT, featuring keynote speaker [Ron Weiss](https://be.mit.edu/directory/ron-weiss).
 
 ***
 
-### This week in research…
+### This week in research…
 
-[**Controlling Engineered T-cells with Ultrasound**](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00238)
+[**Listening to the Music of a Cell**](https://www.mitpressjournals.org/doi/abs/10.1162/artl_a_00325?journalCode=artl)
 
-In the latest work from the [Shapiro lab](http://shapirolab.caltech.edu/) at Caltech, published in *ACS Synthetic Biology*, T-cells with engineered heat shock promoters were controlled “[with brief pulses of heat delivered by focused ultrasound](http://shapirolab.caltech.edu/),” inducing them to release cytokines and target tumor cells.
+[Eduardo Reck Miranda](https://en.wikipedia.org/wiki/Eduardo_Reck_Miranda) is a professor of computer music at the University of Plymouth. In his latest paper, he introduces “a system for music composition informed by synthetic biology”, in which music is generated via simulations of various cellular processes, including transcription and protein folding. The study was published in *Artificial Life*.
 
-[**Automated Genetic Circuit Design for Yeast**](https://www.nature.com/articles/s41564-020-0757-2)
 
-At MIT, the [Voigt lab](http://web.mit.edu/voigtlab/) has constructed nine NOT/NOR gates, with a 400-fold dynamic range, in *S. cerevisiae*. With these gates in hand, they then used Cello 2.0, a software to design genetic circuits, to “build circuits with up to 11 regulatory proteins.” The study could dramatically simplify circuit design for eukaryotic synthetic biology, and was published in *Nature Microbiology*.
+[***E. coli*** ](https://www.cell.com/cell/fulltext/S0092-8674(20)30875-8#articleInformation)[**Engineered to Grow Solely on Methanol**](https://www.cell.com/cell/fulltext/S0092-8674(20)30875-8#articleInformation) *(They must be starving!)*
 
-[**Automated Cell Culture System with DIY Hardware**](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000794) **(Open Access)**
+At UCLA, the [Liao lab](http://www.seas.ucla.edu/liao_lab/) has engineered *E. coli* to utilize methanol as its sole carbon source. With a paltry doubling time of 8.5 hours, the team began by using “metabolic robustness criteria” to engineer the strain, followed by laboratory evolution, and found that the final organism carefully balanced metabolic flux by tuning gene copy numbers and mutating key enzymes. The work was published in *Cell*.
 
-With some printed circuit boards and off-the-shelf components, costing about $300, a [team at Oxford](http://sysos.eng.ox.ac.uk/wiki/index.php/User:Antonis) has created a cell culture automation system with several useful features; the device can measure and record cell growth, and the seven-color LEDs can be used to measure multiple fluorescent proteins in parallel, or for optogenetics. The system, called Chi.Bio, was published in *PLoS Biology*.
 
-For more on this study, [check out my interview](https://medium.com/bioeconomy-xyz/automated-biology-is-now-an-affordable-reality-753684775521) with the lead author, Dr. Harrison Steel.
+[**Going Deeeep on the SARS-CoV-2 Receptor Binding Domain**](https://www.cell.com/cell/fulltext/S0092-8674(20)31003-5) **(Open Access)**
 
-[**Phase Separation in Human Cells with “Designer” Disordered Proteins**](https://www.nature.com/articles/s41557-020-0511-7)
+[Researchers](https://research.fhcrc.org/bloom/en.html) at the University of Washington and the Fred Hutchinson Cancer Research Center, in Seattle, have performed a deep-mutational scan on the SARS-CoV-2 receptor binding domain (RBD), the bit that binds to ACE2 on human cells. They created every single amino-acid substitution in the RBD, and show that, while most mutations are deleterious, some mutations enhance affinity for ACE2. The work was published in *Cell*.
 
-The [Chilkoti lab](https://bme.duke.edu/faculty/ashutosh-chilkoti) at Duke University has designed a set of artificial, intrinsically disordered proteins (IDPs) that can be used to engineer intracellular condensates in living cells. In a new study, published in *Nature Chemistry*, they show that the behavior of the engineered condensates are predictable, and can be tuned by controlling the mass and structure of the IDPs. Chilkoti said in a [Duke press release](https://pratt.duke.edu/about/news/idp-organelles) that this study “provides very simple engineering principles to program this behavior \[intracellular condensates\] within a cell.”
 
-[**Chemicals Stymie CRISPR Gene Drives**](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00117)
+[**Boosting Photosynthesis in Plants**](https://www.nature.com/articles/s41477-020-0740-1)
 
-At [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), in Seoul, South Korea, the [Kim lab](https://sites.google.com/site/hyongbumkimlab/professor) has developed a chemical method to control CRISPR-based gene drives in *Drosophila* fruit flies. Using a site-specific recombinase induced by a chemical, called RU486, they demonstrate a gene drive removal rate of 7-12% in each generation. The work was published in *ACS Synthetic Biology*.
+At the University of Essex, the [Raines lab](https://www.essex.ac.uk/people/raine84508/christine-raines) inserted multiple genes, from red algae and cyanobacteria, into *Nicotiana tabacum* (tobacco) to stimulate both electron transport and Ribulose 1,5-bisphosphate turnover, increasing photosynthesis. The engineered plants also had an increase in above-ground biomass of up to 52% compared to controls. The study was published in *Nature Plants*. [Read the press release](https://www.sciencedaily.com/releases/2020/08/200810113213.htm).
+
+
+[***E. Coli***](https://www.cell.com/chem/fulltext/S2451-9294(20)30363-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2451929420303636%3Fshowall%3Dtrue)[ **Gets a 21st Amino Acid**](https://www.cell.com/chem/fulltext/S2451-9294(20)30363-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2451929420303636%3Fshowall%3Dtrue) **(Open Access)**
+
+The [Xiao lab](https://xiao.rice.edu/) at Rice University has engineered *E. coli* to both synthesize a 21st amino acid (5-hydroxyl-tryptophan, or 5HTP) and then site-specifically incorporate it into proteins. The team then used the engineered cell to “serve as a living indicator for reactive oxygen species”, as stated by Xiao in a Rice [press release](https://www.sciencedaily.com/releases/2020/08/200812161331.htm). The work was published in *Chem*.
 
 ***
 
 ### More research…
 
-[A bimodular PKS platform that expands the biological design space](https://www.sciencedirect.com/science/article/abs/pii/S1096717620301105) by Zargar, A. *et al.* in *Metabolic Engineering*.
+[A three-way combinatorial CRISPR screen for analyzing interactions among druggable targets](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31005-6) by Zhou, P. *et al.* in *Cell Reports*. **(Open Access)**
 
-[A microgravity responsive synthetic genetic device in ](https://www.sciencedirect.com/science/article/abs/pii/S0956566320304553)[*Escherichia coli*](https://www.sciencedirect.com/science/article/abs/pii/S0956566320304553) by Mukhopadhyay, S. and Bagh, S. in *Biosensors and Bioelectronics*.
+[Application of CRISPR-Cas12a enhanced fluorescence assay coupled with nucleic acid amplification for the sensitive detection of African swine fever virus](https://pubs.acs.org/doi/10.1021/acssynbio.0c00057) by Tao, G. *et al.* in *ACS Synthetic Biology*.
 
-[A novel strategy for creating a new system of third‐generation hybrid rice technology using a cytoplasmic sterility gene and a genic male‐sterile gene](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13457) by Song, S. *et al.* in *Plant Biotechnology Journal*. **(Open Access)**
+[A versatile genetic control system in mammalian cells and mice responsive to clinically licensed sodium ferulate](https://advances.sciencemag.org/content/6/32/eabb9484.full) by Wang, Y. *et al.* in *Science Advances*. **(Open Access)**
 
-[A protein-independent fluorescent RNA aptamer reporter system for plant genetic engineering](https://www.nature.com/articles/s41467-020-17497-7) by Bai, J. *et al.* in *Nature Communications*. **(Open Access)**
+[Bacterial mock communities as standards for reproducible cytometric microbiome analysis](https://www.nature.com/articles/s41596-020-0362-0) by Cichocki, N. *et al.* in *Nature Protocols*.
 
-[Bidirectional titration of yeast gene expression using a pooled CRISPR guide RNA approach](https://www.pnas.org/content/117/31/18424) by Bowman, E.K. *et al.* in *PNAS*.
+[Bacterial synthesis of C3-C5 diols via extending amino acid catabolism](https://www.pnas.org/content/117/32/19159) by Wang, J., *et al.* in *PNAS*.
 
-[CRISPR-assisted multiplex base editing system in ](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00905/full)[*Pseudomonas putida*](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00905/full)[ KT2440](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00905/full) by Sun, J. *et al.* in *Frontiers in Bioengineering and Biotechnology*. **(Open Access)**
+[Comprehensive study on ](https://www.sciencedirect.com/science/article/abs/pii/S1096717620301166)[*Escherichia coli*](https://www.sciencedirect.com/science/article/abs/pii/S1096717620301166)[ genomic expression: Does position really matter?](https://www.sciencedirect.com/science/article/abs/pii/S1096717620301166) by Goormans, A.R. *et al.* in *Metabolic Engineering*.
 
-[Display of lead-binding proteins on ](https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27525)[*Escherichia coli*](https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27525)[ surface for lead bioremediation](https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27525) by Jia, X., Li, Y., Xu, T. and Wu, K. in *Biotechnology and Bioengineering*.
+[CRISPR-Cas13d Induces Efficient mRNA Knockdown in Animal Embryos](https://www.sciencedirect.com/science/article/abs/pii/S1534580720305876?via%3Dihub) by Kushawah, G. *et al.* in *Developmental Cell*. [Read the press release.](https://www.sciencedaily.com/releases/2020/08/200807111935.htm)
 
-[DNA targeting and interference by a bacterial Argonaute nuclease](https://www.nature.com/articles/s41586-020-2605-1) by Kuzmenko, A. *et al.* in *Nature*.
+[De novo rational design of a freestanding, supercharged polypeptide, proton-conducting membrane](https://advances.sciencemag.org/content/6/29/eabc0810) by Ma, C. *et al.* in *Science Advances*. **(Open Access)**
 
-[Engineering ](https://academic.oup.com/synbio/advance-article/doi/10.1093/synbio/ysaa012/5882030)[*Escherichia coli*](https://academic.oup.com/synbio/advance-article/doi/10.1093/synbio/ysaa012/5882030)[ towards ](https://academic.oup.com/synbio/advance-article/doi/10.1093/synbio/ysaa012/5882030)[*de novo*](https://academic.oup.com/synbio/advance-article/doi/10.1093/synbio/ysaa012/5882030)[ production of gatekeeper (2S)-flavanones: naringenin, pinocembrin, eriodictyol and homoeriodictyol](https://academic.oup.com/synbio/advance-article/doi/10.1093/synbio/ysaa012/5882030) by Dunstan, M.S. *et al.* in *Synthetic Biology*. **(Open Access)**
+* [Read the press release](https://www.sciencedaily.com/releases/2020/08/200812144025.htm).
 
-[Engineering the carotenoid biosynthetic pathway in ](https://www.sciencedirect.com/science/article/pii/S2214030120300274)[*Rhodothermus marinus*](https://www.sciencedirect.com/science/article/pii/S2214030120300274)[ for lycopene production](https://www.sciencedirect.com/science/article/pii/S2214030120300274) by Kristjansdottir, T. *et al.* in *Metabolic Engineering Communications*. **(Open Access)**
+[Developing methods to circumvent the conundrum of chromosomal rearrangements occurring in multiplex gene edition](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00325) \[sic\] by Borsenberger, V. *et al.* in *ACS Synthetic Biology*.
 
-[Integrated pipeline for the accelerated discovery of antiviral antibody therapeutics](https://www.nature.com/articles/s41551-020-0594-x) by Gilchuk, P. *et al.* in *Nature Biomedical Engineering*. **(Open Access)**
+[Development of light-responsive protein binding in the monobody non-immunoglobulin scaffold](https://www.nature.com/articles/s41467-020-17837-7) by Carrasco-López, C. *et al.* in *Nature Communications*. **(Open Access)**
 
-[Mixing and matching methylotrophic enzymes to design a novel methanol utilization pathway in ](https://www.sciencedirect.com/science/article/abs/pii/S1096717620301142)[*E. coli*](https://www.sciencedirect.com/science/article/abs/pii/S1096717620301142) by De Simone, A. *et al.* in *Metabolic Engineering*.
+[Directed evolution of Pseudomonas fluorescens lipase variants with improved thermostability using error-prone PCR](https://www.frontiersin.org/articles/10.3389/fbioe.2020.01034/abstract) by Guan, L. *et al.* in *Frontiers in Bioengineering and Biotechnology*.
 
-[Multiplexed optical sensors in arrayed islands of cells for multimodal recordings of cellular physiology](https://www.nature.com/articles/s41467-020-17607-5) by Werley, C.A. *et al.* in *Nature Communications*. **(Open Access)**
+[DNA Scanner: a web application for comparing DNA synthesis feasibility, price, and turnaround time across vendors](https://academic.oup.com/synbio/advance-article/doi/10.1093/synbio/ysaa011/5892266) by Doçi, G. *et al.* in *Synthetic Biology*. **(Open Access)**
 
-[Noise suppression by stochastic delays in negatively autoregulated gene expression](https://ieeexplore.ieee.org/abstract/document/9147896) by Smith, M. and Singh, A. *Abstract for the 2020 American Control Conference*.
+[Engineering combinatorial and dynamic decoders using synthetic immediate-early genes](https://www.nature.com/articles/s42003-020-01171-1.epdf?sharing_token=cZ9fqszheoDA42md2hwC49RgN0jAjWel9jnR3ZoTv0PFkRLpK7q02IiNZeuHOMxH7tzMzXWDHS8hfCE7Y4PQgnDC31xvwiw5d3jhNMhrbQ9Oy0qRzdg-qrqgVg_dhu3MNvhucCRJ9bRsqZaFyCxAO_Zd9V094OoJnojThVFslyI%3D) by Ravindran, P.T. *et al.* in *Communications Biology*. **(Open Access)**
 
-[Rapid method for generating designer algal mitochondrial genomes](https://www.sciencedirect.com/science/article/abs/pii/S221192641931210X) by Cochrane, R.R. *et al.* in *Algal Research*.
+[Engineering designer beta cells with a CRISPR-Cas9 conjugation platform](https://www.nature.com/articles/s41467-020-17725-0) by Lim, D. *et al.* in *Nature Communications*. **(Open Access)**
 
-[Rational design and implementation of a chemically inducible heterotrimerization system](https://www.nature.com/articles/s41592-020-0913-x) by Wu, H.D. *et al.* in *Nature Methods*.
+[Engineering isoprenoid quinone production in yeast](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00081) by Kaur, D. *et al.* in *ACS Synthetic Biology*.
 
-[Rational discovery of molecular glue degraders via scalable chemical profiling](https://www.nature.com/articles/s41589-020-0594-x) by Mayor-Ruiz, C. *et al.* in *Nature Chemical* Biology. For more, read the [*News & Views*](https://www.nature.com/articles/s41589-020-0620-z) piece on this article.
+[Engineering of the 2,3-butanediol pathway of ](https://www.sciencedirect.com/science/article/pii/S109671762030118X)[*Paenibacillus polymyxa*](https://www.sciencedirect.com/science/article/pii/S109671762030118X)[ DSM 365](https://www.sciencedirect.com/science/article/pii/S109671762030118X) by Schilling, C. *et al.* in *Metabolic Engineering*. **(Open Access)**
 
-[Scarcity of cellular resources decreases the robustness of toggle switches to noise](https://ieeexplore.ieee.org/abstract/document/9147271) by Gyorgy, A. *Abstract for the 2020 American Control Conference*.
+[Engineering regulatory networks for complex phenotypes in ](https://www.nature.com/articles/s41467-020-17721-4)[*E. coli*](https://www.nature.com/articles/s41467-020-17721-4) by Liu, R. *et al.* in *Nature Communications*. **(Open Access)**
 
-[Tailoring cyanobacteria as a new platform for highly efficient synthesis of astaxanthin](https://www.sciencedirect.com/science/article/abs/pii/S1096717620301129) by Diao, J. *et al.* in *Metabolic Engineering*.
+[Evaluating and engineering ](https://academic.oup.com/femsyr/advance-article-abstract/doi/10.1093/femsyr/foaa047/5891427?redirectedFrom=fulltext)[*Saccharomyces cerevisiae*](https://academic.oup.com/femsyr/advance-article-abstract/doi/10.1093/femsyr/foaa047/5891427?redirectedFrom=fulltext)[ promoters for increased amylase expression and bioethanol production from raw starch](https://academic.oup.com/femsyr/advance-article-abstract/doi/10.1093/femsyr/foaa047/5891427?redirectedFrom=fulltext) by Myburgh, M.W., Rose, S.H. and Viljoen-Bloom, M. in *FEMS Yeast Research*.
 
-[The Synthetic Biology Open Language (SBOL) Version 3: Simplified data exchange for bioengineering](https://www.frontiersin.org/articles/10.3389/fbioe.2020.01009/abstract) by McLaughlin, J.A. *et al.* in *Frontiers in Bioengineering and Biotechnology*.
+[Fully biological production of adipic acid analogs from branched catechols](https://www.nature.com/articles/s41598-020-70158-z) by Kruyer, N.S. *et al.* in *Scientific Reports*. **(Open Access)**
+
+[Genetically encoded tags for direct synthesis of EM-visible gold nanoparticles in cells ](https://www.nature.com/articles/s41592-020-0911-z)by Jiang, Z. *et al.* in *Nature Methods*.
+
+[Independent component analysis of ](https://www.sciencedirect.com/science/article/pii/S1096717620301117?via%3Dihub)[*E. coli*](https://www.sciencedirect.com/science/article/pii/S1096717620301117?via%3Dihub)['s transcriptome reveals the cellular processes that respond to heterologous gene expression](https://www.sciencedirect.com/science/article/pii/S1096717620301117?via%3Dihub) by Tan, J. *et al.* in *Metabolic Engineering*. **(Open Access)**
+
+[*In silico*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008125)[ co-factor balance estimation using constraint-based modelling informs metabolic engineering in ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008125)[*Escherichia coli*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008125) by de Arroyo Garcia, L. and Jones, P.R. in *PLoS Computational Biology*. **(Open Access)**
+
+[Metabolically engineered ](https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27529)[*Caldicellulosiruptor bescii* ](https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27529)[as a platform for producing acetone and hydrogen from lignocellulose](https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27529) by Straub, C.T. *et al.* in *Biotechnology and Bioengineering*.
+
+[One-pot synthesis of adipic acid from guaiacol in ](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00254)[*Escherichia coli*](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00254) by Suitor, J.T., Varzandeh, S. and Wallace, S. in *ACS Synthetic Biology*.
+
+[Optogenetic control of protein binding using light-switchable nanobodies](https://www.nature.com/articles/s41467-020-17836-8) by Gil, A.A. *et al.* in *Nature Communications*. **(Open Access)**
+
+[Preliminary engineering for ](https://iopscience.iop.org/article/10.1088/1758-5090/aba4ff)[*in situ in vivo*](https://iopscience.iop.org/article/10.1088/1758-5090/aba4ff)[ bioprinting: a novel micro bioprinting platform for ](https://iopscience.iop.org/article/10.1088/1758-5090/aba4ff)[*in situ in vivo*](https://iopscience.iop.org/article/10.1088/1758-5090/aba4ff)[ bioprinting at a gastric wound site](https://iopscience.iop.org/article/10.1088/1758-5090/aba4ff) by Zhao, W. and Xu, T. in *Biofabrication* **(Open Access)**
+
+* Read the [press release](https://ioppublishing.org/news/new-microrobot-with-in-situ-in-vivo-bioprinting-offers-promise-for-gastric-wound-treatment/).
+
+[Regulatory control circuits for stabilizing long-term anabolic product formation in yeast](https://www.sciencedirect.com/science/article/pii/S1096717620301154) by D’Ambrosio, V. *et al.* in *Metabolic Engineering*. **(Open Access)**
+
+[Synthetic cross-phyla gene replacement and evolutionary assimilation of major enzymes](https://www.nature.com/articles/s41559-020-1271-x) by Sandberg, T.E. *et al.* in *Nature Ecology & Evolution*.
+
+* [Read the press release, written by first author Troy Sandberg.](https://www.eurekalert.org/pub_releases/2020-08/uoc--eao081020.php)
+
+[Synthetic protease-activated class B GPCRs](https://www.sciencedirect.com/science/article/abs/pii/S0006291X2031408X) by Willard, F.S. *et al.* in *Biochemical and Biophysical Research Communications.*
+
+[Unveiling of swainsonine biosynthesis via a multi-branched pathway in fungi](https://pubs.acs.org/doi/abs/10.1021/acschembio.0c00466) by Luo, F. *et al.* in *ACS Chemical Biology*.
 
 ***
 
-### This week in reviews…
+### This week in reviews and commentary…
 
-[Advances on systems metabolic engineering of ](https://www.sciencedirect.com/science/article/pii/S2405805X20300508)[*Bacillus subtilis*](https://www.sciencedirect.com/science/article/pii/S2405805X20300508)[ as a chassis cell](https://www.sciencedirect.com/science/article/pii/S2405805X20300508) by Xiang, M., Kang, Q. and Zhang, D. in *Synthetic and Systems Biotechnology.* **(Open Access)**
+[Cell-free approach for noncanonical amino acids incorporation into polypeptides](https://www.frontiersin.org/articles/10.3389/fbioe.2020.01031/abstract) by Cui, Z., Johnston, W. and Alexandrox, K. in *Frontiers in Bioengineering and Biotechnology*.
 
-[Bacterial cellulose: From production optimization to new applications](https://www.sciencedirect.com/science/article/abs/pii/S0141813020340198) by Fernandes, I.A.A. *et al.* in *Macromolecules*.
+[Computer-aided whole-cell design: Taking a holistic approach by integrating synthetic with systems biology](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00942/full) by Marucci, L. *et al.* in *Frontiers in Bioengineering and Biotechnology*. **(Open Access)**
 
-[Harnessing cells to deliver nanoparticle drugs to treat cancer](https://www.sciencedirect.com/science/article/abs/pii/S0734975019300060) by Singh, B. and Mitragotri, S. in *Biotechnology Advances*.
+[Engineering microbial diagnostics and therapeutics with smart control](https://www.sciencedirect.com/science/article/abs/pii/S095816692030063X) by Amrofell, M.B., Rottinghaus, A.G. and Moon, T.S. in *Current Opinion in Biotechnology*.
 
-[Production of plant natural products through engineered ](https://www.sciencedirect.com/science/article/abs/pii/S0734975020300525)[*Yarrowia lipolytica*](https://www.sciencedirect.com/science/article/abs/pii/S0734975020300525) by Muhammad, A. *et al.* in *Biotechnology Advances*.
+[Heterologous biosynthesis as a platform for producing new generation natural products](https://www.sciencedirect.com/science/article/abs/pii/S0958166920300872) by Park, D., Swayambhu, G. and Pfeifer, B.A. in *Current Opinion in Biotechnology*.
 
-[Sequencing enabling design and learning in synthetic biology](https://www.sciencedirect.com/science/article/abs/pii/S1367593120300855?via%3Dihub) by Gilliot, P. and Gorochowski, T.E. in *Current Opinion in Chemical Biology*.
+[Synthetic virus-derived nanosystems (SVNs) for delivery and precision docking of large multifunctional DNA circuitry in mammalian cells](https://www.mdpi.com/1999-4923/12/8/759) by Aulicino, F., Capin, J. and Berger, I. in *Pharmaceutics*. **(Open Access)**
+
+[Use of cell and genome modification technologies to generate improved “off-the-shelf” CAR T and CAR NK cells](https://www.frontiersin.org/articles/10.3389/fimmu.2020.01965/full) by Morgan, M.A. *et al.* in *Frontiers in Immunology* **(Open Access)**
 
 ***
 
-### This week in preprints…
+### This week in preprints…
 
-[A MATLAB toolbox for modeling genetic circuits in cell-free systems](https://www.biorxiv.org/content/10.1101/2020.08.05.237990v1) by Singhal, V. *et al.* bioRxiv.
+[An ultra-high affinity synthetic nanobody blocks SARS-CoV-2 infection by locking Spike into an inactive conformation](https://www.biorxiv.org/content/10.1101/2020.08.08.238469v1) by Schoof, M. *et al.* bioRxiv.
 
-[An efficient vector-based CRISPR/Cas9 system in an ](https://www.biorxiv.org/content/10.1101/2020.08.04.237065v1.abstract?%3Fcollection=)[*Oreochromis mossambicus*](https://www.biorxiv.org/content/10.1101/2020.08.04.237065v1.abstract?%3Fcollection=)[ cell line using endogenous promoters](https://www.biorxiv.org/content/10.1101/2020.08.04.237065v1.abstract?%3Fcollection=) by Hamar, J.C. and Kültz D. bioRxiv.
+* [*This preprint was also featured in a STAT News article.*](https://www.statnews.com/2020/08/11/scientists-create-potent-anti-coronavirus-nanobody-inspired-by-llamas/?utm_campaign=rss)
 
-[A novel prokaryotic CRISPR-Cas12a based tool for programmable transcriptional activation and repression](https://www.biorxiv.org/content/10.1101/2020.08.05.232744v1) by Schilling, C., Koffas, M.A., Sieber, V. and Schmid, J. bioRxiv.
+[Characterizing and controlling nanoscale self-assembly of suckerin-12](https://www.biorxiv.org/content/10.1101/2020.08.10.244673v1) by Hershewe, J.M. *et al.* bioRxiv.
 
-[Base-edited CAR T cells for combinational therapy against T cell malignancies](https://www.biorxiv.org/content/10.1101/2020.07.30.228429v1.abstract?%3Fcollection=) by Georgiadis, C. *et al.* bioRxiv.
+[Coronacept - a potent immunoadhesin against SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.08.12.247940v1.abstract?%3Fcollection=) by Cohen-Dvashi, H. *et al.* bioRxiv.
 
-[BioCRNpyler: Compiling chemical reaction networks from biomolecular parts in diverse contexts](https://www.biorxiv.org/content/10.1101/2020.08.02.233478v1.abstract?%3Fcollection=) by Poole, W. *et al.* bioRxiv.
+[dCas9 regulator to neutralize competition in CRISPRi circuits](https://www.biorxiv.org/content/10.1101/2020.08.11.246561v1) by Huang, H. *et al.* bioRxiv.
 
-[Cheetah: a computational toolkit for cybergenetic control](https://www.biorxiv.org/content/10.1101/2020.06.25.171751v2) by Pedone, E. *et al.* bioRxiv.
+[DNA-based nanocarriers to enhance the optoacoustic contrast of tumors ](https://www.biorxiv.org/content/biorxiv/early/2020/08/07/2020.08.07.235705.full.pdf?%3Fcollection=)[*in vivo*](https://www.biorxiv.org/content/biorxiv/early/2020/08/07/2020.08.07.235705.full.pdf?%3Fcollection=) by Joseph, J. *et al.* bioRxiv.
 
-[CRISPR interference as low burden logic inverters in synthetic circuits: characterization and tuning](https://www.biorxiv.org/content/10.1101/2020.08.03.234096v1.abstract?%3Fcollection=) by Bellato, M. *et al.* bioRxiv.
+[Dynamic bistable switches enhance robustness and accuracy of cell cycle transitions](https://www.biorxiv.org/content/biorxiv/early/2020/08/11/2020.08.11.246017.full.pdf?%3Fcollection=) by Rombouts, J. and Gelens, L. bioRxiv.
 
-[CRISPR Turbo Accelerated Knock Out (CRISPy TAKO) for rapid ](https://www.biorxiv.org/content/10.1101/2020.08.04.236968v1.abstract?%3Fcollection=)[*in vivo*](https://www.biorxiv.org/content/10.1101/2020.08.04.236968v1.abstract?%3Fcollection=)[ screening of gene function](https://www.biorxiv.org/content/10.1101/2020.08.04.236968v1.abstract?%3Fcollection=) by Plasil, S.L., Seth, A. and Homanics, G.E. bioRxiv.
+[Efficacy of Targeting SARS-CoV-2 by CAR-NK Cells](https://www.biorxiv.org/content/10.1101/2020.08.11.247320v1.abstract?%3Fcollection=) by Ma, M.T. *et al.* bioRxiv.
 
-[*De novo*](https://www.biorxiv.org/content/10.1101/2020.08.03.234914v1.abstract?%3Fcollection=)[ design of picomolar SARS-CoV-2 miniprotein inhibitors](https://www.biorxiv.org/content/10.1101/2020.08.03.234914v1.abstract?%3Fcollection=) by Cao, L. *et al.* bioRxiv.
+[Elicitation of potent neutralizing antibody responses by designed protein nanoparticle vaccines for SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.08.11.247395v1) by Walls, A.C. *et al.* bioRxiv.
 
-[Distinguishing critical, beneficial, neutral and harmful mutations uncovered in the directed evolution of a yeast membrane receptor](https://www.biorxiv.org/content/10.1101/2020.08.04.236505v1) by Adeniran, A. and Tyo, K.E.J. bioRxiv.
+[Engineered sex distortion in the global agricultural pest ](https://www.biorxiv.org/content/10.1101/2020.08.07.240226v1)[*Ceratitis capitata*](https://www.biorxiv.org/content/10.1101/2020.08.07.240226v1) *by* Meccariello, A. *et al.* bioRxiv.
 
-[Efficient population modification gene-drive rescue system in the malaria mosquito ](https://www.biorxiv.org/content/10.1101/2020.08.02.233056v2)[*Anopheles stephensi*](https://www.biorxiv.org/content/10.1101/2020.08.02.233056v2) by Adolfi, A. *et al.* bioRxiv.
+[Rational engineering of Kluyveromyces marxianus to create a chassis for the production of aromatic products](https://www.biorxiv.org/content/biorxiv/early/2020/08/12/2020.08.12.247957.full.pdf?%3Fcollection=) by Rajkumar, A.S. and Morrissey, J.P. bioRxiv.
 
-[Engineered ACE2 receptor traps potently neutralize SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.07.31.231746v3) by Glasgow, A. *et al.* bioRxiv.
+[Reproducibility in systems biology modelling](https://www.biorxiv.org/content/biorxiv/early/2020/08/10/2020.08.07.239855.full.pdf?%3Fcollection=) by Tiwari, K. *et al.* bioRxiv.
 
-[Generative probabilistic biological sequence models that account for mutational variability](https://www.biorxiv.org/content/10.1101/2020.07.31.231381v1) by Weinstein, E.N. and Marks, D.S. bioRxiv.
+[Single-cell lineage and transcriptome reconstruction of metastatic cancer reveals selection of aggressive hybrid EMT states](https://www.biorxiv.org/content/10.1101/2020.08.11.245787v1) by Simeonov, K.P. *et al.* bioRxiv.
 
-[Genetically-encoded fluorescent biosensor for rapid detection of protein expression](https://www.biorxiv.org/content/10.1101/2020.07.30.229633v1) by Eason, M.G. *et al.* bioRxiv.
-
-[MASSpy: Building, simulating, and visualizing dynamic biological models in Python using mass action kinetics](https://www.biorxiv.org/content/10.1101/2020.07.31.230334v1.abstract?%3Fcollection=) by Haiman, Z.B. *et al.* bioRxiv.
-
-[Minicells as a potential chassis for engineering lineage-agnostic organisms](https://www.biorxiv.org/content/10.1101/2020.07.31.231670v1.abstract?%3Fcollection=) by Wei, E., Jackson-Smith, A. and Endy, D. bioRxiv.
-
-[Precise genome engineering in ](https://www.biorxiv.org/content/10.1101/2020.08.05.232348v1.abstract?%3Fcollection=)[*Drosophila*](https://www.biorxiv.org/content/10.1101/2020.08.05.232348v1.abstract?%3Fcollection=)[ using prime editing](https://www.biorxiv.org/content/10.1101/2020.08.05.232348v1.abstract?%3Fcollection=) by Bosch, J.A., Birchak, G. and Perrimon, N. bioRxiv.
-
-[Predator: A novel method for targeted protein degradation](https://www.biorxiv.org/content/10.1101/2020.07.31.231787v1.abstract?%3Fcollection=) by Liu, C. *et al.* bioRxiv.
-
-[SARS-CoV-2 detection with ](https://www.medrxiv.org/content/10.1101/2020.07.28.20164004v1)[*de novo*](https://www.medrxiv.org/content/10.1101/2020.07.28.20164004v1)[ designed synthetic riboregulators](https://www.medrxiv.org/content/10.1101/2020.07.28.20164004v1) by Koksaldi, I.C. *et al.* medRxiv.
-
-[Scalable metabolic pathway analysis](https://www.biorxiv.org/content/10.1101/2020.07.31.230177v1.abstract?%3Fcollection=) by Øyås, O. and Stelling, J. bioRxiv.
-
-[Swab-Seq: A high-throughput platform for massively scaled up SARS-CoV-2 testing](https://www.medrxiv.org/content/10.1101/2020.08.04.20167874v1) by Bloom, J.S. *et al.* medRxiv.
+[Systematic engineering of artificial metalloenzymes for new-to-nature reactions](https://www.biorxiv.org/content/biorxiv/early/2020/08/11/2020.07.15.204206.full.pdf?%3Fcollection=) by Vornholt T, *et al.* bioRxiv.
 
 ***
 
 ***This Week in Synthetic Biology*** is published every Friday, and covers the latest peer-reviewed research, preprints, and other news in the field. A version of these newsletters is also posted on [Medium](https://medium.com/this-week-in-synthetic-biology).
 
-Questions, comments, concerns? Please [comment on this post](https://synbio.substack.com/).
-
-For more regular updates, [follow me on Twitter](https://twitter.com/NikoMcCarty).
+Looking for older editions of this newsletter? They can be found [on the substack](https://synbio.substack.com/).
 
 ***
