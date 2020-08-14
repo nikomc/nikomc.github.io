@@ -3,9 +3,9 @@ layout: post
 title:  "Microbes Programmed to Silence their Chatty Neighbors"
 tags: [ science, synthetic biology]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2020/petri_dish.jpeg
-featured: true
-hidden: true
+featured_image:
+featured:
+hidden:
 
 ---
 
