@@ -153,7 +153,7 @@ At [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), in Seoul, Sout
 
 ***
 
-***This Week in Synthetic Biology*** is published every Friday, and covers the latest peer-reviewed research, preprints, and other news in the field. A version of these newsletters is also posted on [Medium](https://medium.com/this-week-in-synthetic-biology).
+***This Week in Synthetic Biology*** is published every Friday, and covers the latest peer-reviewed research, preprints, and other news in the field. A version of these newsletters is also posted on [Medium](https://medium.com/bioeconomy-xyz/newsletter/home).
 
 Questions, comments, concerns? Please [comment on this post](https://synbio.substack.com/).
 

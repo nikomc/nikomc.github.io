@@ -86,4 +86,4 @@ Article in [OneZero](https://onezero.medium.com/) on how cows were genetically e
 
 Looking for previous **_This Week in Synthetic Biology_** posts? No problem! [Click here](https://synbio.substack.com/) to view the full archive.
 
-**_This Week in Synthetic Biology_** is also posted on [Medium](https://medium.com/this-week-in-synthetic-biology).
+**_This Week in Synthetic Biology_** is also posted on [Medium](https://medium.com/bioeconomy-xyz/newsletter/home).
