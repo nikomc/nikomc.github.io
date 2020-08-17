@@ -3,7 +3,9 @@ layout: page
 title: This Week in Synthetic Biology
 ---
 
-Would you rather receive **_This Week in Synthetic Biology_** directly to your inbox? [Sign up for the newsletter](https://synbio.substack.com/). This is the newsletter for August 7, 2020.
+Would you rather receive **_This Week in Synthetic Biology_** directly to your inbox? [Sign up for the newsletter](https://synbio.substack.com/). 
+
+This is the newsletter for August 14, 2020.
 
 ### Good morning. This week…
 
