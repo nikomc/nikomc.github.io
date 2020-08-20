@@ -9,6 +9,8 @@ All of my articles can be read online. On this page, I organize each of my writt
 
 ### [SynBioBeta](https://synbiobeta.com/)
 
+Automated Biology is Now an Affordable Reality. Originally published on [Medium](https://medium.com/bioeconomy-xyz/automated-biology-is-now-an-affordable-reality-753684775521?source=friends_link&sk=95746d283face831a7e2e3ff0ba9eccf). [Read](https://synbiobeta.com/automated-biology-is-now-an-affordable-reality/)
+
 Meet the 8 Tech Titans Investing in Synthetic Biology (with John Cumbers). Originally published on [Forbes](https://www.forbes.com/sites/johncumbers/2019/09/14/meet-the-8-tech-titans-investing-in-synthetic-biology/#7e306b75a64b). [Read](https://synbiobeta.com/meet-the-8-tech-titans-investing-in-synthetic-biology/)
 
 New This Ski Season: A Jacket Brewed from Spider Silk (with John Cumbers). Originally published on [Forbes](https://www.forbes.com/sites/johncumbers/2019/08/28/new-this-ski-season-a-jacket-brewed-from-spider-silk/#14b06fdf561e). [Read](https://synbiobeta.com/new-this-ski-season-a-jacket-brewed-from-spider-silk/)
