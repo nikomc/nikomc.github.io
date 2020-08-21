@@ -1,9 +1,15 @@
 ---
-layout: page
-title: This Week in Synthetic Biology
+layout: post
+title:  "This Week in Synthetic Biology #4"
+tags: [this-week]
+featured_image_thumbnail:
+featured_image:
+featured:
+hidden: 
+
 ---
 
-Would you rather receive **_This Week in Synthetic Biology_** directly to your inbox? [Sign up for the newsletter](https://synbio.substack.com/). 
+Would you rather receive **_This Week in Synthetic Biology_** directly to your inbox? [Sign up for the newsletter](https://synbio.substack.com/).
 
 This is the newsletter for August 21, 2020.
 
@@ -165,6 +171,6 @@ The [Jerome lab](https://research.fhcrc.org/jerome/en.html) at the University of
 
 ***This Week in Synthetic Biology*** is published every Friday, and covers the latest peer-reviewed research, preprints, and other news in the field. A version of these newsletters is also posted on [Medium](https://medium.com/bioeconomy-xyz/newsletter/home).
 
-Looking for older editions of this newsletter? They can be found [on the substack](https://synbio.substack.com/).
+Questions, comments, concerns? Please [comment on this post](https://synbio.substack.com/).
 
-***
+For more regular updates, [follow me on Twitter](https://twitter.com/NikoMcCarty).
