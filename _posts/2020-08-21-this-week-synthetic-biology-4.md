@@ -21,6 +21,8 @@ Meanwhile, a podcast [featured Michelle Rozo](https://medium.com/bioeconomy-xyz/
 
 In academic news, researchers at Penn State [received $1.2 million](https://www.eurekalert.org/pub_releases/2020-08/ps-mng081820.php) from the NSF to bring an enhanced gene editing method to vertebrates, a team at the University of Texas at Austin [nabbed a U.S. Army grant](https://cns.utexas.edu/news/tiny-insects-provide-inspiration-for-new-biomaterials) to develop insect-inspired biomaterials, and UCSF bioengineers are racing to launch [AeroNabs, an aerosolized “designer” nanobody](https://www.fiercebiotech.com/research/ucsf-engineers-develop-llama-inspired-aeronabs-to-strangle-covid-19-inhaler) that fights SARS-CoV-2.
 
+This newsletter is now brought to you by [bioeconomy.xyz](https://medium.com/bioeconomy-xyz) and I.
+
 ***
 
 ### This week in research…
