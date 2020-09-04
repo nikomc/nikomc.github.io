@@ -3,146 +3,69 @@ layout: page
 title: This Week in Synthetic Biology
 ---
 
-Would you rather receive **_This Week in Synthetic Biology_** directly to your inbox? [Sign up for the newsletter](https://synbio.substack.com/). 
+Would you rather receive **_This Week in Synthetic Biology_** directly to your inbox? [Sign up for the newsletter](https://synbio.substack.com/).
 
-This is the newsletter for August 28, 2020.
+This is the newsletter for September 4, 2020.
 
-# Good morning. This week…
+# Good morning.
 
-The EPA has approved [Oxitec’s plan to release genetically-engineered mosquitoes](https://www.popularmechanics.com/science/a33658014/genetically-modified-mosquitoes-release-florida/) into the Florida keys, the [Netflix show "Biohackers”](https://www.inverse.com/entertainment/biohackers-netflix-review) received mixed reviews, WIRED wrote about a [clump of bacteria](https://www.wired.com/story/a-ball-of-bacteria-survived-for-3-years-in-space/) that survived in space for three years, and Katherine Wu wrote about “[predatory bacteria](https://www.nytimes.com/2020/08/25/science/bacteria-bdellovibrio-predator-prey.html)” that hunt and eat living cells. As if microbes, in the middle of a pandemic, weren’t scary enough!
+This newsletter has changed. Research items will now be curated, non-exhaustive, and explained in a few sentences, rather than provided as a list. I will still cover peer-reviewed research, preprints, and reviews. News items, and a special bonus section, have been moved to the end of the newsletter. While I hope that this narrative format is more appealing to readers, I welcome your feedback via [direct Twitter message](https://twitter.com/NikoMcCarty).
 
-Desiree Ho, a student at UC-Berkeley, wrote a fantastic article about the intersection of [gene editing, paper, and art](https://news.berkeley.edu/story_jump/crispaper-understanding-gene-editing-through-art/) (check out the video; it’s worth your time), *Popular Mechanics* separated [genetic engineering facts from fiction](https://www.popularmechanics.com/science/a33795705/genetic-engineering-in-popular-sci-fi/), Harris-Stowe State University will develop a [Biotechnology Certificate program](https://www.kbia.org/post/harris-stowe-receives-342000-federal-grant-help-students-prepare-stem-careers#stream/0) after receiving 342 thousand dollars from the NSF, and Ian Simon, a former biosecurity and biodefense policy analyst, was interviewed for [Titus Talks](https://medium.com/bioeconomy-xyz/what-do-korea-whiskey-science-policy-and-the-white-house-have-in-common-809b403e9d17).
+## 🧬Featured Research
 
-In industry news, [Synthego raised 100M dollars](https://venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/) for AI-driven gene editing, an open letter called on [Beyond Meat and Impossible Foods to ditch GMO products](https://www.forbes.com/sites/jennysplitter/2020/08/25/lightlife-letter-impossible-beyond/#30ea1c972b65) (my bet: not going to happen), and *TechCrunch* wrote about [investments in synthetic biology](https://techcrunch.com/2020/08/26/synthetic-biology-startups-ride-a-wave-of-investor-interest/) companies.
+### [Biosynthesis of Plant-Based Medicines in Baker’s Yeast](https://www.nature.com/articles/s41586-020-2650-9?WT.ec_id=NATURE-202009&sap-outbound-id=9D501BFD2422B7DCB2C6C76652C0372105960914) (Open Access)
 
-***
+In a tour de force of metabolic engineering, Prashanth Srinivasan and [Christina Smolke at Stanford](https://bioengineering.stanford.edu/people/christina-smolke) have engineered baker’s yeast to produce tropane alkaloids. These compounds, which are normally extracted from nightshade to treat neuromuscular disorders, were biosynthesized from starting sugars and amino acids. Constructing the synthetic pathway required more than twenty distinct proteins-taken from yeast, bacteria, plants and animals-targeted to six sub-cellular compartments, to produce the medicines. The study was published in *Nature* and has been widely covered in the media, including as a *Nature* [story](https://www.nature.com/articles/d41586-020-02461-8) and in a [Stanford press release](https://news.stanford.edu/2020/09/02/scientists-turn-yeast-cells-drug-factories/).
 
-## 🧬This week in research…
+### [Assembling 35(!) Pieces of DNA in a Single Tube](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238592) (Open Access)
 
-[**A Cas13-Based Assay Detects SARS-CoV-2**](https://www.nature.com/articles/s41551-020-00603-x) **(Open Access)**
+In 2018, I read a stunning paper by a team of scientists from [*New England Biolabs*](https://www.neb.com/) and [*Ginkgo Bioworks*](https://www.ginkgobioworks.com/), describing an improvement to [Golden Gate DNA assembly](https://www.neb.com/applications/cloning-and-synthetic-biology/dna-assembly-and-cloning/golden-gate-assembly). In that paper, they described the [efficient, accurate assembly of 24 DNA fragments](https://pubs.acs.org/doi/10.1021/acssynbio.8b00333) in a single tube. Now, many of those same authors have built upon their prior study, reporting the routine assembly of **35 DNA fragments** in a single reaction. To optimize the system, the authors used DNA sequencing to explore possible combinations of restriction enzymes, and then “incorporated these findings into a suite of webtools” to design more efficient DNA assembly reactions. This study was published in *PLoS One.*
 
-Tests for SARS-CoV-2—the coronavirus behind the disease COVID-19—could use some help. Now, a large team from the Vidyasirimedhi Institute of Science and Technology and the Broad Institute of MIT and Harvard have developed a [SHERLOCK](https://sherlock.bio/) assay (which uses the Cas13 protein) to detect the RNA in SARS-CoV-2. The researchers collected 154 nasopharyngeal and throat swab samples from Siriraj Hospital, in Thailand, and showed that the assay “was 100% specific and 100% sensitive with a fluorescence readout.” It could detect as little as 42 RNA copies of the virus. The study was published in *Nature Biomedical Engineering*.
+### [Minicells, with Miniature Genomes, Can Build Themselves](https://www.nature.com/articles/s41467-020-17863-5) (Open Access)
 
-[**Multiplexed Genome Editing in Fruit Flies**](https://www.pnas.org/content/early/2020/08/24/2004655117) **(Open Access)**
+Can a cell be built from scratch? [A lot of people think so](https://www.buildacell.org/), and they may not be far off. A new study in *Nature Communications* reports that liposomes-basically sacs of phospholipids that enclose water-can be packed and programmed with a genetic blueprint. Liposomes were packaged with a loop of DNA encoding seven different genes, together comprising a biosynthetic pathway to build phospholipids. By using “fluorescence-based probes”, the researchers were able to “directly visualize membrane incorporation of synthesized phospholipids at the single vesicle level”-in other words, miniature cells, with miniature genetic programs, can help build themselves.
 
-The [Boutros lab](https://www.dkfz.de/en/signaling/boutros_en.html) at Heidelberg University has, for the first time, used Cas12a to edit the fruit fly (*Drosophila melanogaster*) genome. Until now, scientists had only been able to use Cas9. The authors demonstrated that Cas12a from *Lachnospiraceae bacterium*—but not *Acidaminococcus—*were functional in the flies, and that the editing efficiency of the Cas12a protein could be tuned with temperature (with 29°C being the optimal). They were able to target up to 8 genes at once from a single crRNA array, and concluded the paper by reporting a mutated version of the Cas12a protein (D156R) with an improved editing efficiency. The study was published in *PNAS*.
+### [Fine-Tuning Gene Expression in Plants](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa682/5897334#206899791) (Open Access)
 
-[**Malaria Mosquito Gets Gene Drive Upgrade** ](https://www.pnas.org/content/early/2020/08/19/2010214117)**(Open Access)**
+Promoters are short sequences of DNA upstream of a gene that play a major role in determining *how much* of a protein is produced. But the rules underpinning promoters, and a gene’s expression level, have proven difficult to unravel. This week, the [Patron lab](https://www.earlham.ac.uk/nicola-patron) reported an experimental system to rigorously investigate how different traits in a promoter-its sequence and positioning of regulatory elements, for example-impact the expression level of a gene. With these findings, a suite of “minimal” promoters were developed that can be used to more precisely tune a gene’s output. The study was published in *Nucleic Acids Research*. Read the [press release from the Earlham Institute](https://www.earlham.ac.uk/newsroom/ei%E2%80%99s-synthetic-biology-team-rewrites-rules-plant-gene-expression).
 
-In mosquito-related news, the [James lab](https://www.faculty.uci.edu/profile.cfm?faculty_id=2154) at UC-Irvine has developed a Cas9/guide RNA-based gene drive for *Anopheles gambiae*, one of the main species that transmit malaria. The new gene drive, which was reported in *PNAS*, targets the *cardinal* gene that encodes the red-eye phenotype. The gene drive spread to at least 98% of a population—both males and females—after only 6 to 10 generations in a cage trials, and mosquitoes resistant to the gene drive appeared at a frequency of less than 0.1%.
+### [Software Package Simplifies Inter-Lab Measurements](https://pubs.acs.org/doi/10.1021/acssynbio.0c00296) (Open Access)
 
-[**An Intercellular Signaling Toolbox for Cell–Cell Communication**](https://www.nature.com/articles/s41467-020-17993-w) **(Open Access)**
-
-Researchers at the [Chinese Academy of Sciences](http://english.im.cas.cn/pe/fas/) have created an intercellular signaling “toolbox” that enables engineered cells to communicate with one another with minimal crosstalk. The work, published in *Nature Communications*, includes “biosynthesis gene clusters” that are used to build small signaling molecules within the cells, along with a suite of evolved transcription factors and engineered promoters, to increase the signal efficiency. The team demonstrated their “toolbox” in both yeast and human cells, performing complex bio-computations with up to seven engineered strains.
-
-[**Baker Lab Creates ‘Designer’ Transmembrane Pores**](https://www.nature.com/articles/s41586-020-2646-5)
-
-At the University of Washington’s [Institute for Protein Design](https://www.ipd.uw.edu/), the papers never seem to stop. In another tour de force of computational protein design, the Baker lab has created transmembrane protein pores—made from concentric rings of α-helices—with a high selectivity for specific ions or molecules. A pore with 12 α-helices had a high selectivity for potassium ions, compared to sodium ions, while a pore with 16 α-helices enabled selective passage of biotinylated Alexa Fluor 488, a type of fluorescent dye. The study, published in *Nature*, could open the door for a range of designer channels and pores, with major applications for artificial cells.
-
-[**Cell-Free System Produces Cannabinoids**](https://www.nature.com/articles/s41589-020-0631-9)
-
-Why grow cannabis—and pay the exorbitant energy bills—when you could crack open some cells and use enzymes instead? The [Bowie lab](https://bowielab.mbi.ucla.edu/) at the [UCLA-DOE](https://www.doe-mbi.ucla.edu/) Institute has created a cell-free system to produce cannabinoids; only 12 enzymes were needed to convert cheap, organic acids into cannabigerolic acid or cannabigerovarinic acid at a titer of about 0.5 grams per liter. That’s nearly two orders of magnitude higher than yeast-based production. The study, published in *Nature Chemical Biology*, could replace extraction of cannabinoids from plants in the future.
+The International Genetically Engineered Machine competition, or [iGEM](https://igem.org/Main_Page), has brought together young synthetic biology students for nearly two decades. A cornerstone of that competition is the [measurement ](https://2020.igem.org/Measurement)lab, whereby students carefully measure engineered cells and report their results to study how those measurements differ across laboratories and devices. A new study, in *ACS Synthetic Biology*, builds upon the dire need for standardization in synthetic biology, offering a software tool (written for R) that can calibrate fluorescent and plate reader measurements.
 
 ***
 
-### 🧫 More research…
+## 🧫 Rapid-Fire Highlights
 
-[Activation of energy metabolism through growth media reformulation enables a 24-hour workflow for cell-free expression](https://pubs.acs.org/doi/10.1021/acssynbio.0c00283) by Levine, M.Z. *et al.* in *ACS Synthetic Biology*.
+### More research & reviews worth your time
 
-[An enumerative algorithm for ](https://www.pnas.org/content/early/2020/08/20/2005412117)[*de novo*](https://www.pnas.org/content/early/2020/08/20/2005412117)[ design of proteins with diverse pocket structures](https://www.pnas.org/content/early/2020/08/20/2005412117) by Basanta, B. *et al.* in *PNAS* **(Open Access)**
-
-[A single Cas9-VPR nuclease for simultaneous gene activation, repression, and editing in ](https://pubs.acs.org/doi/10.1021/acssynbio.0c00218)[*Saccharomyces cerevisiae*](https://pubs.acs.org/doi/10.1021/acssynbio.0c00218) by Dong, C. *et al.* in *ACS Synthetic Biology*.
-
-[Cell‐free protein synthesis enables one‐pot cascade biotransformation in an aqueous‐organic biphasic system](https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27541) by Liu, W., Wu, C., Jewett, M.C. and Li, J. in *Biotechnology and Bioengineering*.
-
-[Continuous bioactivity-dependent evolution of an antibiotic biosynthetic pathway](https://www.nature.com/articles/s41467-020-18018-2) by Johnston, C.W., Badran, A.H. and Collins, J.J. in *Nature Communications* **(Open Access)**
-
-[CRISPR-engineered human brown-like adipocytes prevent diet-induced obesity and ameliorate metabolic syndrome in mice](https://stm.sciencemag.org/content/12/558/eaaz8664) by Wang, C. *et al.* in *Science Translational Medicine* **(Open Access)**
-
-* *Inverse* wrote an [article on this study](https://www.inverse.com/mind-body/crispr-cell-therapy-brown-fat-white-fat-obesity).
-
-[Display of functional nucleic acid polymerase on ](https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27542)[*Escherichia coli*](https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27542)[ surface and its application in directed polymerase evolution](https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27542) by Chung, M. *et al.* in *Biotechnology and Bioengineering* **(Open Access)**
-
-[Efficient selection scheme for incorporating noncanonical amino acids into proteins from ](https://www.frontiersin.org/articles/10.3389/fbioe.2020.569191/abstract)[*Saccharomyces cerevisiae*](https://www.frontiersin.org/articles/10.3389/fbioe.2020.569191/abstract) by Tang, H. *et al.* in *Frontiers in Bioengineering and Biotechnology*.
-
-[Engineering oleaginous yeast ](https://academic.oup.com/femsyr/advance-article-abstract/doi/10.1093/femsyr/foaa046/5896954?redirectedFrom=fulltext)[*Yarrowia lipolytica*](https://academic.oup.com/femsyr/advance-article-abstract/doi/10.1093/femsyr/foaa046/5896954?redirectedFrom=fulltext)[ for enhanced limonene production from xylose and lignocellulosic hydrolysate](https://academic.oup.com/femsyr/advance-article-abstract/doi/10.1093/femsyr/foaa046/5896954?redirectedFrom=fulltext) by Wei, L. *et al.* in *FEMS Yeast Research*.
-
-[Expanding the space of protein geometries by computational design of ](https://science.sciencemag.org/content/369/6507/1132)[*de novo*](https://science.sciencemag.org/content/369/6507/1132)[ fold families](https://science.sciencemag.org/content/369/6507/1132) by Pan, X. *et al.* in *Science*.
-
-[Functionalized lipid-like nanoparticles for ](https://advances.sciencemag.org/content/6/34/eabc2315)[*in vivo*](https://advances.sciencemag.org/content/6/34/eabc2315)[ mRNA delivery and base editing](https://advances.sciencemag.org/content/6/34/eabc2315) by Zhang, X. *et al.* in *Science Advances* **(Open Access)**
-
-* [Read the press release](https://www.sciencedaily.com/releases/2020/08/200821141315.htm)
-
-[Homologous quorum sensing regulatory circuit (hQSRC): A dual-input genetic controller for modulating quorum sensing (QS)-mediated protein expression in ](https://pubs.acs.org/doi/10.1021/acssynbio.0c00179)[*E. coli*](https://pubs.acs.org/doi/10.1021/acssynbio.0c00179) by Hauk, P. *et al.* in *ACS Synthetic Biology*.
-
-[Isobutanol production freed from biological limits using synthetic biochemistry](https://www.nature.com/articles/s41467-020-18124-1) by Sherkhanov, S. *et al.* in *Nature Communications* **(Open Access)**
-
-[Multi-copy targeted integration for accelerated development of high-producing CHO cells](https://pubs.acs.org/doi/10.1021/acssynbio.0c00322) by Sergeeva, D. *et al.* in *ACS Synthetic Biology*.
-
-[PINCER: improved CRISPR/Cas9 screening by efficient cleavage at conserved residues](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa645/5895335) by Veeneman, B. *et al.* in *Nucleic Acids Research* **(Open Access)**
-
-[Rational design of minimal synthetic promoters for plants ](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa682/5897334)by Cai, Y. *et al.* in *Nucleic Acids Research* **(Open Access)**
-
-[Ribosomal synthesis and de novo discovery of bioactive foldamer peptides containing cyclic β-amino acids](https://www.nature.com/articles/s41557-020-0525-1) by Katoh, T. *et al.* in *Nature Chemistry*.
-
-[Ribosome-mediated polymerization of long chain carbon and cyclic amino acids into peptides ](https://www.nature.com/articles/s41467-020-18001-x)[*in vitro*](https://www.nature.com/articles/s41467-020-18001-x) by Lee, J. *et al.* in *Nature Communications* **(Open Access)**
-
-[SBML Level 3: an extensible format for the exchange and reuse of biological models](https://www.embopress.org/doi/10.15252/msb.20199110) by Keating, S.M. *et al.* in *Molecular Systems Biology* **(Open Access)**
-
-[Two-color imaging of non-repetitive endogenous loci in human cells](https://pubs.acs.org/doi/10.1021/acssynbio.0c00295) by Tasan, I. *et al.* in *ACS Synthetic Biology*.
+* The first [eukaryotic MAGE method](https://www.sciencedirect.com/science/article/pii/S0092867417312564) was published in *Cell* in 2017, but improvements are finally here. The [new version](https://www.biorxiv.org/content/10.1101/2020.08.30.256743v1.full.pdf) of MAGE, which can be used to implement many edits to a genome simultaneously, improved “editing frequencies up to 90%, reduced workflow time by 40%” and lowered “the rate of spontaneous mutations ∼17-fold”. It’s basically genome editing on steroids ( *bioRxiv*). ***Open Access.***
+* A [CRISPR-based “chromosome drive” in yeast](https://www.nature.com/articles/s41467-020-18222-0) has been used to remove a synthetic chromosome X via a single, double-strand break in the DNA. A wild-type chromosome X, harboring a fluorescent protein or an entire biosynthetic pathway, was then duplicated by sexual reproduction, demonstrating that chromosome drives can be used to selectively transmit genetic information in yeast ( *Nature Communications*). ***Open Access.***
+* A [CRISPR-based transcriptional repressor has been implemented in mice](https://www.nature.com/articles/s41556-020-0563-3) to modulate the immune system. Repression of a gene called *Myd88* “can act as a prophylactic measure against septicaemia in both Cas9 transgenic and C57BL/6J mice” ( *Nature Cell Biology*).
+* By deregulating central metabolism in *E. coli* with CRISPRi and targeted proteolysis, the Lynch lab at Duke was able to more [scale up the production of “alanine, citramalate and xylitol, from microtiter plates to pilot reactors”](https://www.biorxiv.org/content/10.1101/2020.08.30.274290v1), with engineered bacteria ( *bioRxiv*). ***Open Access.***
+* A new review on the [molecular mechanisms of CRISPR-Cas bacterial immunity](https://www.annualreviews.org/doi/abs/10.1146/annurev-genet-022120-112523) was published by Nussenzweig & Maraffini ( *Annual Review of Genetics*). Another review espoused the promise of [*anti-CRISPR* proteins for building gene circuits](https://www.frontiersin.org/articles/10.3389/fbioe.2020.575393/abstract) ( *Frontiers in Bioengineering and Biotechnology*).
+* The Church lab is using [machine learning to guide protein engineering efforts](https://www.biorxiv.org/content/10.1101/2020.01.23.917682v2). In a new preprint, they claim that “as few as 24 functionally assayed mutant sequences” can be used “to build an accurate virtual fitness landscape” ( *bioRxiv*). ***Open Access.***
+* [DNA origami nanostructures are used to “view” objects](https://www.biorxiv.org/content/10.1101/2020.08.27.271072v1) with nanometer-scale resolution. The method can write *distances* into DNA molecules, and use sequencing to reveal the geometry of tiny, molecular geometries ( *bioRxiv*). ***Open Access.***
+* An intriguing [review on gene delivery for the skin](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799%2820%2930207-9#%20) was published. As companies like [Azitra](https://azitrainc.com/technology/) look to engineer the skin microbiome, viral delivery methods may not be the best option ( *Trends in Biotechnology*). ***Open Access***\*\*.\*\*
+* *Caulobacter* cells were engineered to secrete an extracellular matrix protein fused to SpyCatcher, enabling “ [programmable extracellular protein matrices](https://www.biorxiv.org/content/10.1101/2020.08.31.276303v1.full.pdf)” ( *bioRxiv*). ***Open Access***\*\*.\*\*
+* A [full issue on yeast synthetic biology](https://academic.oup.com/femsyr/issue/20/6) was printed, featuring articles on mitochondrial engineering, converting starch to ethanol, and transposable elements in baker’s yeast ( *FEMS Yeast Research*).
+* If you want to release GMOs into the wild, you’ll want to consider how to *stop* them if they grow out of control. A new study swapped codons in *E. coli* to create a [“genetic firewall” that prevents leakage](https://pubs.acs.org/doi/10.1021/acssynbio.0c00196) of engineered DNA into the environment ( *ACS Synthetic Biology*).
 
 ***
 
-### 📓 This week in reviews and commentary…
+## 📰 #SynBio in the News
 
-[Metabolic engineering strategies to overcome precursor limitations in isoprenoid biosynthesis](https://www.sciencedirect.com/science/article/abs/pii/S0958166920300938) by Zu Y., Prather K.L.J. and Stephanopoulos, G. in *Current Opinion in Biotechnology*.
-
-[On the “life-likeness” of synthetic cells](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00953/full) by Damiano, L. and Stano, P. in *Frontiers in Bioengineering and Biotechnology* **(Open Access)**
-
-***
-
-### 🏍️ This week in preprints…
-
-[A computationally designed fluorescent biosensor for D-serine](https://www.biorxiv.org/content/10.1101/2020.08.18.255380v3.abstract?%3Fcollection=)
-
-[A home and rescue gene drive forces its inheritance stably persisting in populations](https://www.biorxiv.org/content/10.1101/2020.08.21.261610v2.abstract?%3Fcollection=)
-
-[An engineering theory of evolution](https://www.preprints.org/manuscript/202008.0574/v1)
-
-[A single chromosome strain of ](https://www.biorxiv.org/content/10.1101/2020.08.22.256727v1)[*S. cerevisiae*](https://www.biorxiv.org/content/10.1101/2020.08.22.256727v1)[ exhibits diminished ethanol metabolism and tolerance](https://www.biorxiv.org/content/10.1101/2020.08.22.256727v1)
-
-[Attribution of genetic engineering: A practical and accurate machine-learning toolkit for biosecurity](https://www.biorxiv.org/content/10.1101/2020.08.22.262576v1)
-
-[CAR macrophages for SARS-CoV-2 immunotherapy](https://www.biorxiv.org/content/10.1101/2020.07.26.222208v2.abstract?%3Fcollection=)
-
-[CAS-LiveFISH: Simple and versatile imaging of genomic loci in live mammalian cells and early pre-implantation embryos](https://www.biorxiv.org/content/10.1101/2020.08.25.265306v1.abstract?%3Fcollection=)
-
-[Deep learning enables the design of functional ](https://www.biorxiv.org/content/10.1101/2020.08.26.266940v1.abstract?%3Fcollection=)[*de novo*](https://www.biorxiv.org/content/10.1101/2020.08.26.266940v1.abstract?%3Fcollection=)[ antimicrobial proteins](https://www.biorxiv.org/content/10.1101/2020.08.26.266940v1.abstract?%3Fcollection=)
-
-[Extrinsic noise acts to lower protein production at higher translation initiation rates](https://www.biorxiv.org/content/10.1101/2020.08.21.260976v1.abstract?%3Fcollection=)
-
-[Heterologous expression of cryptomaldamide in a cyanobacterial host](https://www.biorxiv.org/content/10.1101/2020.08.26.267179v1.abstract?%3Fcollection=)
-
-[Multiplexed competition in a synthetic squid light organ microbiome using barcode-tagged gene deletions](https://www.biorxiv.org/content/10.1101/2020.08.24.265777v1.abstract?%3Fcollection=)
-
-[Novel combination of CRISPR-based gene drives eliminates resistance and localises spread](https://www.biorxiv.org/content/10.1101/2020.08.27.266155v1.abstract?%3Fcollection=)
-
-[One-step multiple site-specific base editing by direct embryo injection for precision and pyramid pig breeding](https://www.biorxiv.org/content/10.1101/2020.08.26.267948v1.abstract?%3Fcollection=)
-
-[Potential for applying continuous directed evolution to plant enzymes](https://www.biorxiv.org/content/10.1101/2020.08.26.265678v1.abstract?%3Fcollection=)
-
-[Predicting experimental designs leading to rewiring of transcription program and evolution of anticipatory regulation in ](https://www.biorxiv.org/content/10.1101/2020.08.20.259606v1.abstract?%3Fcollection=)[*E. coli*](https://www.biorxiv.org/content/10.1101/2020.08.20.259606v1.abstract?%3Fcollection=)
-
-[Recombinant SARS-CoV-2 RBD molecule with a T helper epitope as a built in adjuvant induces strong neutralization antibody response](https://www.biorxiv.org/content/10.1101/2020.08.21.262188v1.abstract?%3Fcollection=)
-
-[The circadian oscillator analysed at the single-transcript level](https://www.biorxiv.org/content/10.1101/2020.08.26.268201v1.abstract?%3Fcollection=)
-
-[Transcriptome-wide Cas13 guide RNA design for model organisms and viral RNA pathogens](https://www.biorxiv.org/content/10.1101/2020.08.20.259762v1.abstract?%3Fcollection=)
+* In the biggest news story this week, a global commission has laid out a roadmap for the genetic editing of human embryos. The news was covered in many outlets, including , [*MIT Technology Review*](https://www.technologyreview.com/2020/09/03/1008136/crispr-gene-editing-sickle-cell-disease-genomics/), , and . Despite the risks outlined by the commission, a [Russian scientist plans to proceed with his ‘CRISPR baby’ experiments](https://www.newscientist.com/article/2253688-russian-biologist-still-aims-to-make-crispr-babies-despite-the-risks/).
+* In more CRISPR news, *The Scientist* wrote about [how synthetic biologists are scaling up COVID-19 testing](https://www.the-scientist.com/news-opinion/toward-covid-19-testing-any-time-anywhere-67906).
+* Ethicists at NYU expounded the [dangers of DIY vaccines](https://science.sciencemag.org/content/369/6507/1035) in an op-ed for *Science* magazine, taking aim at George Church and other scientists that were featured in [Antonio Regalado’s *MIT Technology Review* article](https://www.technologyreview.com/2020/07/29/1005720/george-church-diy-coronavirus-vaccine/) last month.
+* Roya Aghighi and scientists at the University of British Columbia have created Biogarmentry, a [living textile made from algae](https://www.royaaghighi.com/biogarmentry.html), which was [featured on](https://edition.cnn.com/style/article/living-textiles-algae-future-sept/index.html)
+* San Diego-based Algenesis is making [biodegradable, algae-based polyurethane](https://www.fastcompany.com/90543908/how-one-lab-is-turning-algae-into-flip-flops-and-taking-on-big-plastic-in-the-process), as featured on *Fast Company*.
+* *Spectrum* covered a study (published Aug. 1) that used a [Cas13-based system to degrade mRNAs](https://www.spectrumnews.org/news/toolbox/crispr-technique-knocks-down-gene-expression-in-animal-embryos/), which could prove useful for autism research.
+* NIH awards[ $14.6 million for HIV gene therapy research](https://keck.usc.edu/gene-therapy-research-for-hiv-awarded-14-6-million-nih-grant/) to scientists at USC and the Fred Hutchinson Cancer Research Center.
+* [Yeast were extracted from a loaf of bread](https://www.theatlantic.com/science/archive/2020/08/how-bake-ancient-egyptian-bread/615859/) buried around 2000BC and used to bake a modern loaf. It’s not synthetic biology, but I have a soft spot for baking!
 
 ***
 
-***This Week in Synthetic Biology*** is published every Friday, and covers the latest peer-reviewed research, preprints, and other news in the field. A version of these newsletters is also posted on [Medium](https://medium.com/bioeconomy-xyz/newsletter/home).
+Thanks for reading *This Week in Synthetic Biology*, brought to you by [Bioeconomy.XYZ](https://medium.com/bioeconomy-xyz).
 
-Looking for older editions of this newsletter? They can be found [on the substack](https://synbio.substack.com/).
-
-***
+Reach me with tips and feedback via [Twitter direct message at @NikoMcCarty](https://twitter.com/NikoMcCarty).
