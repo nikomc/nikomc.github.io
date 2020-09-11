@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This Week in Synthetic Biology #6"
+title:  "This Week in Synthetic Biology #7"
 tags: [this-week]
 featured_image_thumbnail:
 featured_image:
