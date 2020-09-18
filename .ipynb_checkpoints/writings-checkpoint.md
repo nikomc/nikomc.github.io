@@ -5,6 +5,15 @@ title: Writings
 
 All of my articles can be read online. On this page, I organize each of my written articles by publisher. Click on the "Read" button to take a look at the full text.
 
+### [Massive Science](https://massivesci.com/)
+
+A proposal to use CRISPR to prevent opioid overdoses is a useless approach to healthcare [Read](https://massivesci.com/articles/crispr-genetic-engineering-opioid-epidemic/)
+
+Here’s why many CRISPR/Cas9 experiments could be wrong – and how to fix them [Read](https://massivesci.com/articles/gene-editing-crispr-cas-wrong-studies-experiment-enzyme-genetics/)
+
+New parasitic interaction discovered in Antarctic lakes [Read](https://massivesci.com/notes/antarctic-lakes-parasite-interaction-extremophiles/)
+
+Fighting cancer with exploding antibody-filled bacteria [Read](https://massivesci.com/notes/exploding-antibody-bacteria-ecoli-in-mice-cancer/)
 
 
 ### [SynBioBeta](https://synbiobeta.com/)
@@ -44,14 +53,6 @@ Synthetic biology and reproducibility meet on the Internet (of Things) [Read](ht
 Synthetic Life: Made from Scratch [Read](https://synbiobeta.com/synthetic-life-made-from-scratch/)
 
 Scientists are Engineering Organisms to Create New Materials [Read](https://synbiobeta.com/scientists-are-engineering-organisms-to-create-new-materials/)
-
-### [Massive Science](https://massivesci.com/)
-
-Here’s why many CRISPR/Cas9 experiments could be wrong – and how to fix them [Read](https://massivesci.com/articles/gene-editing-crispr-cas-wrong-studies-experiment-enzyme-genetics/)
-
-New parasitic interaction discovered in Antarctic lakes [Read](https://massivesci.com/notes/antarctic-lakes-parasite-interaction-extremophiles/)
-
-Fighting cancer with exploding antibody-filled bacteria [Read](https://massivesci.com/notes/exploding-antibody-bacteria-ecoli-in-mice-cancer/)
 
 ### [Caltech Letters](https://caltechletters.org/)
 
