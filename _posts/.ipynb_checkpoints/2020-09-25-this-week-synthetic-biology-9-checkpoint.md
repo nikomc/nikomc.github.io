@@ -1,6 +1,12 @@
 ---
-layout: page
-title: This Week in Synthetic Biology
+layout: post
+title:  "This Week in Synthetic Biology #9"
+tags: [this-week]
+featured_image_thumbnail:
+featured_image:
+featured:
+hidden: 
+
 ---
 
 Would you rather receive **_This Week in Synthetic Biology_** directly to your inbox? [Sign up for the newsletter](https://synbio.substack.com/).
