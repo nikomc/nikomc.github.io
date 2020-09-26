@@ -5,7 +5,7 @@ title: Bio
 
 ![Portrait of the Author as a Younger Man](/assets/images/pages/niko_filter.jpg)
 
-My name is Niko McCarty, and this is a vain attempt to encapsulate my interests in a few lines of text. I'm currently an M.A. student at New York University, where I study science journalism. As a data analyst, programmer and journalist, my goal is to tell captivating science stories by blending narratives with visualizations. 
+My name is Niko McCarty, and this is a vain attempt to encapsulate my interests in a few lines of text. I'm currently an M.A. journalism student in the SHERP program at New York University. As a programmer, journalist, and former synthetic biologist, my goal is to share science with others by blending stories with static and interactive data visualizations. 
 
 I hold an M.S. in Bioengineering from the California Institute of Technology[^1] and a MRes in Systems and Synthetic Biology from Imperial College London[^2], where I was a Fulbright scholar. I've published peer-reviewed articles on new CRISPR technologies, multiplexed guide RNAs, and engineered microbial communities.
 
@@ -15,7 +15,7 @@ I hold an M.S. in Bioengineering from the California Institute of Technology[^1]
 
 M.A. in Journalism (Science, Health, and Environmental Reporting), New York University (Sep 2020 - Dec 2021)
 
-M.S. in Bioengineering, California Institute of Technology (Caltech) (Apr 2019 - May 2020)
+M.S. in Bioengineering, California Institute of Technology (Caltech) (Oct 2018 - May 2020)
 
 MRes in Systems and Synthetic Biology, Imperial College London (Sep 2017 - Sep 2018)
 
@@ -31,6 +31,8 @@ Science Contributor, [Little Village Magazine](https://littlevillagemag.com/) (A
 National Writing Fellow, Phi Beta Kappa [_The Key Reporter_](https://www.keyreporter.org/) (Jan 2016-May 2016)
 
 ### Scientific Papers
+
+Ireland WT, Beeler SM, Flores-Bautista E, **McCarty NS**, Röschinger T, Belliveau NM, Sweredowski MJ, Moradian A, Kinney JB, Phillips R. "Deciphering the regulatory genome of _Escherichia coli_, one hundred promoters at a time." _eLife_ (2020). [Read full text](https://elifesciences.org/articles/55308)
 
 **McCarty NS**, Graham AE, Studena L and Ledesma-Amaro R. "Multiplexed CRISPR technologies for gene editing and transcriptional regulation." _Nature Communications_ (2020). [Read full text](https://www.nature.com/articles/s41467-020-15053-x)
 
@@ -48,7 +50,7 @@ Riehle C, Scharf GM, Sieweke JT, Zauner F, Flierl U, Treptau J, Zormpas C, Senf 
 
 2020 [Taylor/Blakeslee Fellow](https://casw.org/casw/announcement/2020-21-taylorblakeslee-fellows) (Council for the Advancement of Science Writing)
 
-2020 Arthur Carter Fellowship, NYU
+2020 Arthur Carter Fellowship, New York University
 
 2019 Pilot Grant, [Center for Environmental Microbial Interactions at Caltech](http://microbiology.caltech.edu/)
 

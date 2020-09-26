@@ -24,9 +24,10 @@ thankyou_page_description: "Thanks for your message. I will reply soon!"
 twitter: 'NikoMcCarty'
 facebook: 
 github: 'nikomc'
-codepen: 'nsmccarty'
+codepen: 
 dribbble: 
 medium: '@NikoMcCarty'
+observable: '@nikomccarty'
 instagram:
 pinterest:
 linkedin: 'nsmccarty'
@@ -42,8 +43,8 @@ navigation:
     url: /bio
   - text: Writings
     url: /writings
-  - text: This Week in SynBio
-    url: /this-week
+  - text: SynBio Newsletter
+    url: /synbio-news
   - text: Contact
     url: /contact
   - text: Search

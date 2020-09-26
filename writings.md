@@ -3,17 +3,7 @@ layout: page
 title: Writings
 ---
 
-All of my articles can be read online. On this page, I organize each of my written articles by publisher. Click on the "Read" button to take a look at the full text.
-
-### [Massive Science](https://massivesci.com/)
-
-A proposal to use CRISPR to prevent opioid overdoses is a useless approach to healthcare [Read](https://massivesci.com/articles/crispr-genetic-engineering-opioid-epidemic/)
-
-Here’s why many CRISPR/Cas9 experiments could be wrong – and how to fix them [Read](https://massivesci.com/articles/gene-editing-crispr-cas-wrong-studies-experiment-enzyme-genetics/)
-
-New parasitic interaction discovered in Antarctic lakes [Read](https://massivesci.com/notes/antarctic-lakes-parasite-interaction-extremophiles/)
-
-Fighting cancer with exploding antibody-filled bacteria [Read](https://massivesci.com/notes/exploding-antibody-bacteria-ecoli-in-mice-cancer/)
+All of my articles can be read online. Click on the "Read" button to view an article.
 
 
 ### [SynBioBeta](https://synbiobeta.com/)
@@ -54,9 +44,22 @@ Synthetic Life: Made from Scratch [Read](https://synbiobeta.com/synthetic-life-m
 
 Scientists are Engineering Organisms to Create New Materials [Read](https://synbiobeta.com/scientists-are-engineering-organisms-to-create-new-materials/)
 
+
+### [Massive Science](https://massivesci.com/)
+
+A proposal to use CRISPR to prevent opioid overdoses is a useless approach to healthcare [Read](https://massivesci.com/articles/crispr-genetic-engineering-opioid-epidemic/)
+
+Here’s why many CRISPR/Cas9 experiments could be wrong – and how to fix them [Read](https://massivesci.com/articles/gene-editing-crispr-cas-wrong-studies-experiment-enzyme-genetics/)
+
+New parasitic interaction discovered in Antarctic lakes [Read](https://massivesci.com/notes/antarctic-lakes-parasite-interaction-extremophiles/)
+
+Fighting cancer with exploding antibody-filled bacteria [Read](https://massivesci.com/notes/exploding-antibody-bacteria-ecoli-in-mice-cancer/)
+
+
 ### [Caltech Letters](https://caltechletters.org/)
 
 How Synthetic Biologists Could Save the Cavendish Banana from the Brink of Collapse [Read](https://caltechletters.org/science/bananas-and-synthetic-biology/)
+
 
 ### [PLoS Synthetic Biology Blog](https://blogs.plos.org/plos/)
 
@@ -114,4 +117,5 @@ Diabetes: A History [Read](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=1004
 
 A New Class of Antibiotics Could Stop Drug-Resistant Bacteria in their Tracks [Read](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=1006&context=synthesis)
 
-#### [Medium](https://medium.com/@NikoMcCarty)
+#### [Medium](https://medium.com/@NikoMcCarty) (_Not Edited_)
+
