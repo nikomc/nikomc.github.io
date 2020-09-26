@@ -33,7 +33,6 @@ pinterest:
 linkedin: 'nsmccarty'
 producthunt:
 quora:
-substack: 'synbio.substack.com'
 
 # Navigation
 navigation:
@@ -43,7 +42,7 @@ navigation:
     url: /bio
   - text: Writings
     url: /writings
-  - text: SynBio Newsletter
+  - text: SynBio Substack
     url: /synbio-news
   - text: Contact
     url: /contact
