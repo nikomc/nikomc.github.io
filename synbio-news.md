@@ -3,7 +3,7 @@ layout: page
 title: This Week in Synthetic Biology
 ---
 
-Would you rather receive **_This Week in Synthetic Biology_** directly to your inbox? [Sign up for the newsletter](https://synbio.substack.com/).
+**_This Week in Synthetic Biology_** is emailed to subscribers every Friday, and covers the latest research, preprints, and news in synthetic biology research. [Sign up for the newsletter on Substack](https://synbio.substack.com/).
 
 This is the newsletter for September 25, 2020.
 
@@ -65,6 +65,6 @@ Artificial cells are lipid spheres, usually packed with some protein and DNA, th
 
 ***
 
-Thanks for reading *This Week in Synthetic Biology*, brought to you by [Bioeconomy.XYZ](https://medium.com/bioeconomy-xyz).
+Thanks for reading *This Week in Synthetic Biology*, which is supported by [Bioeconomy.XYZ](https://medium.com/bioeconomy-xyz).
 
-Reach me with tips and feedback via [Twitter direct message at @NikoMcCarty](https://twitter.com/NikoMcCarty).
+Reach me with tips and feedback via Twitter [@NikoMcCarty](https://twitter.com/NikoMcCarty).
