@@ -3,7 +3,7 @@ layout: page
 title: Bio
 ---
 
-![Portrait of the Author as a Younger Man](/assets/images/pages/niko_filter.jpg)
+![Portrait of the Author as a Younger Man](/assets/images/pages/niko.jpg)
 
 My name is Niko McCarty, and this is a vain attempt to encapsulate my interests in a few lines of text. I'm currently an M.A. journalism student in the SHERP program at New York University. As a programmer, journalist, and former synthetic biologist, my goal is to share science with others by blending stories with static and interactive data visualizations. 
 
