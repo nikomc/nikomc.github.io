@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-As a science journalism M.A. student at New York University, I enjoy blending personal stories with scientific findings. People are more interesting, to me, than a scientific discovery at least 99% of the time. 
+As a science journalism M.A. student at New York University, I enjoy blending personal stories with scientific findings. People are more interesting, to me, than a scientific discovery at least 99% of the time. All of my published articles can be viewed on this website in the 'Writings' tab, while my past positions are listed on my 'Bio' page. My weekly newsletter on synthetic biology can be viewed on the 'SynBio Substack' page.
 
 My dream is to be an investigate science and data journalist. I'm an avid reader of _The New Yorker_, _The Atlantic_, _ProPublica_ and _The Upshot_. My favorite books are about Roman history, and I strongly feel that someone should write a modern biography on the Gracchi brothers. 
 
@@ -26,8 +26,6 @@ Some of my favorite books are:
 - King Solomon's Ring by Lorenz
 - Darkness at Noon by Koestler
 - The Vital Question by Lane
-
-On this website, you can view all of my written articles on the 'Writings' tab. 
 
 _______________
 
