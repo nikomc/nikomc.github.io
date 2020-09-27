@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Synthetic Biology"
+title:  "Scientific Research"
 tags: [ 'science', 'synthetic biology', 'CRISPR']
 featured_image_thumbnail:
 featured_image: assets/images/posts/2020/cell_drawings.jpg
