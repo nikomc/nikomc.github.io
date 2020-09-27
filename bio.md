@@ -15,7 +15,7 @@ I hold an M.S. in Bioengineering from the California Institute of Technology[^1]
 
 ### Education
 
-M.A. in Journalism (Science, Health, and Environmental Reporting), New York University (Sep 2020 - Dec 2021)
+M.A. in Journalism (Science, Health, and Environmental Reporting), New York University (Sep 2020 - present) _expected December 2021_
 
 M.S. in Bioengineering, California Institute of Technology (Caltech) (Oct 2018 - May 2020)
 
