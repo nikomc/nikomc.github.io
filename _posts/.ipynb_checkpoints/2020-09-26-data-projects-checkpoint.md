@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Visualization"
-tags:
+tags: [ 'Dataviz', 'D3.js', 'Python']
 featured_image_thumbnail:
 featured_image: assets/images/posts/2020/social_network_analysis.png
 featured: true
