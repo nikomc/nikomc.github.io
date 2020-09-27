@@ -8,8 +8,6 @@ featured: true
 hidden: true
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=KX9_OFEAAAAJ&hl=en)
-
 I grew up in a town huddled on the banks of a meandering river; a destination for Chicago dwellers seeking green space and clear waters. Shoppers arrived on the weekends, alighting from the Amtrak in the morning and then departing by the same train each night. The river cuts my town in two, splitting the earth between shops for visitors and homes for residents. In the summer, the rain falls with a vengeance, the river floods, basements are submerged, and the town retreats from its idyllic shores. In the fall, the river recedes and resumes its meandering pace. Boats return to the water, eager to bask in the last days of sunshine before winter.
 
 The river in my hometown, then, follows an annual metronome, alternating between peaceful tide and torrential flood. This consistency has provided a backdrop to the duality in my own life, as I vacillate between science and writing.
@@ -28,6 +26,8 @@ As my time in London ended, I started a PhD in Bioengineering at the California 
 
 I returned home in June to visit my family after several years away. The river was flooded and the nearby trails submerged under three feet of water. One day, I grabbed an umbrella and walked down to the flooded banks. Standing on a bridge, with a train track overhead, I watched the torrents of water pound the concrete pillars beneath my feet. The river that normally flows at a leisurely pace had gathered its annual momentum, washing away weak-stemmed flowers and uprooting old trees. I stood on that bridge, in the rain, and watched the rebirth of my home.
 In a few weeks, the waters will recede, visitors will return, and a fresh batch of life will bloom.
+
+View my peer-reviewed articles on [Google Scholar](https://scholar.google.com/citations?user=KX9_OFEAAAAJ&hl=en)
 _______________
 
 Featured image from [Unsplash](https://unsplash.com/photos/HRjdJddvPu8). Created by Elena Mozhvilo.
