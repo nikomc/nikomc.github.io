@@ -2,8 +2,10 @@
 layout: post
 title:  "Data Visualization"
 tags:
-featured_image_thumbnail: assets/images/posts/2020/social_network_analysis.png
+featured_image_thumbnail:
 featured_image: assets/images/posts/2020/social_network_analysis.png
+featured: true
+hidden: true
 ---
 
 Enter text and story.
