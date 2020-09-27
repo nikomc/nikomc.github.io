@@ -3,26 +3,16 @@ layout: page
 title: Writings
 ---
 
-All of my articles can be read online. On this page, I organize each of my written articles by publisher. Click on the "Read" button to take a look at the full text.
-
-### [Massive Science](https://massivesci.com/)
-
-A proposal to use CRISPR to prevent opioid overdoses is a useless approach to healthcare [Read](https://massivesci.com/articles/crispr-genetic-engineering-opioid-epidemic/)
-
-Here’s why many CRISPR/Cas9 experiments could be wrong – and how to fix them [Read](https://massivesci.com/articles/gene-editing-crispr-cas-wrong-studies-experiment-enzyme-genetics/)
-
-New parasitic interaction discovered in Antarctic lakes [Read](https://massivesci.com/notes/antarctic-lakes-parasite-interaction-extremophiles/)
-
-Fighting cancer with exploding antibody-filled bacteria [Read](https://massivesci.com/notes/exploding-antibody-bacteria-ecoli-in-mice-cancer/)
+This page lists all of my published articles. Every story can be read online, and they are organized by publisher. Click on the "Read" button to view an article.
 
 
 ### [SynBioBeta](https://synbiobeta.com/)
 
-Automated Biology is Now an Affordable Reality. Originally published on [Medium](https://medium.com/bioeconomy-xyz/automated-biology-is-now-an-affordable-reality-753684775521?source=friends_link&sk=95746d283face831a7e2e3ff0ba9eccf). [Read](https://synbiobeta.com/automated-biology-is-now-an-affordable-reality/)
-
 Meet the 8 Tech Titans Investing in Synthetic Biology (with John Cumbers). Originally published on [Forbes](https://www.forbes.com/sites/johncumbers/2019/09/14/meet-the-8-tech-titans-investing-in-synthetic-biology/#7e306b75a64b). [Read](https://synbiobeta.com/meet-the-8-tech-titans-investing-in-synthetic-biology/)
 
 New This Ski Season: A Jacket Brewed from Spider Silk (with John Cumbers). Originally published on [Forbes](https://www.forbes.com/sites/johncumbers/2019/08/28/new-this-ski-season-a-jacket-brewed-from-spider-silk/#14b06fdf561e). [Read](https://synbiobeta.com/new-this-ski-season-a-jacket-brewed-from-spider-silk/)
+
+Automated Biology is Now an Affordable Reality. Originally published on [Medium](https://medium.com/bioeconomy-xyz/automated-biology-is-now-an-affordable-reality-753684775521?source=friends_link&sk=95746d283face831a7e2e3ff0ba9eccf). [Read](https://synbiobeta.com/automated-biology-is-now-an-affordable-reality/)
 
 How Aquaculture Innovation Can Save Seafood [Read](https://synbiobeta.com/how-aquaculture-innovation-can-save-seafood/)
 
@@ -54,9 +44,22 @@ Synthetic Life: Made from Scratch [Read](https://synbiobeta.com/synthetic-life-m
 
 Scientists are Engineering Organisms to Create New Materials [Read](https://synbiobeta.com/scientists-are-engineering-organisms-to-create-new-materials/)
 
+
+### [Massive Science](https://massivesci.com/)
+
+A proposal to use CRISPR to prevent opioid overdoses is a useless approach to healthcare [Read](https://massivesci.com/articles/crispr-genetic-engineering-opioid-epidemic/)
+
+Here’s why many CRISPR/Cas9 experiments could be wrong – and how to fix them [Read](https://massivesci.com/articles/gene-editing-crispr-cas-wrong-studies-experiment-enzyme-genetics/)
+
+New parasitic interaction discovered in Antarctic lakes [Read](https://massivesci.com/notes/antarctic-lakes-parasite-interaction-extremophiles/)
+
+Fighting cancer with exploding antibody-filled bacteria [Read](https://massivesci.com/notes/exploding-antibody-bacteria-ecoli-in-mice-cancer/)
+
+
 ### [Caltech Letters](https://caltechletters.org/)
 
 How Synthetic Biologists Could Save the Cavendish Banana from the Brink of Collapse [Read](https://caltechletters.org/science/bananas-and-synthetic-biology/)
+
 
 ### [PLoS Synthetic Biology Blog](https://blogs.plos.org/plos/)
 
@@ -114,4 +117,32 @@ Diabetes: A History [Read](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=1004
 
 A New Class of Antibiotics Could Stop Drug-Resistant Bacteria in their Tracks [Read](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=1006&context=synthesis)
 
-#### [Medium](https://medium.com/@NikoMcCarty)
+### [Medium](https://medium.com/@NikoMcCarty) (_Not Edited_)
+
+Author Spotlight: Niko McCarty [Read](https://medium.com/bioeconomy-xyz/author-spotlight-niko-mccarty-68aa0279eb26) _Learn more about me!_
+
+Scientists Invent Self-Healing Material with Engineered Squid Proteins [Read](https://medium.com/the-innovation/scientists-invent-self-healing-material-with-engineered-squid-proteins-499bce3fabe1)
+
+How Long Would It Take Bacteria to Eat the Earth? [Read](https://medium.com/@NikoMcCarty/how-long-would-it-take-bacteria-to-eat-the-earth-cd3348fe5ded)
+
+Early Steps to Create a Synthetic, “Mirrored” Organism [Read](https://medium.com/@NikoMcCarty/a-first-step-to-create-synthetic-mirrored-organisms-4f70fbbaf1e)
+
+A Lucky Haul, an Evasive Fish, and the Ultra-Black Materials of the Future [Read](https://medium.com/predict/a-lucky-haul-an-evasive-fish-and-the-ultra-black-materials-of-the-future-1588276d2443)
+
+CRISPR — How It Works, Top Applications and How to Use It Yourself. [Read](https://blog.usejournal.com/almost-everything-you-should-know-about-crispr-how-it-works-top-applications-and-how-to-use-it-61e27b04bea6)
+
+Microbes Programmed to Silence their Chatty Neighbors [Read](https://medium.com/datadriveninvestor/scientists-program-microbes-to-silence-their-chatty-neighbors-90e8911b74ee)
+
+Engineered Bacteria Grown in Seawater Produce Silk Proteins [Read](https://medium.com/swlh/engineered-bacteria-grown-in-seawater-produce-silk-proteins-2f084bf43430)
+
+Brilliant Colors: How One Jellyfish Set Science Aflame [Read](https://medium.com/@NikoMcCarty/brilliant-colors-c2bcd6b2de88)
+
+GMO Yeast Are Delicious — But Will the Brewing Industry Catch On? [Read](https://medium.com/@NikoMcCarty/gmo-yeast-are-delicious-but-will-the-brewing-industry-catch-on-1682e5467f6c)
+
+An Ongoing Revolution in DNA Synthesis Could Help Build Genomes from Scratch [Read](https://medium.com/@NikoMcCarty/dna-synthesis-revolution-47f045a49323)
+
+What CRISPR ‘Designer’ Babies Could Mean for the Future of Society [Read](https://medium.com/datadriveninvestor/what-crispr-designer-babies-mean-for-the-future-of-society-a9d20d783f31)
+
+Why 2018 Was the Year of Living Medicines [Read](https://medium.com/@NikoMcCarty/why-2018-was-the-year-of-living-medicine-af903df27722)
+
+Immutable No More: Evolved Ribosomes Expand the Chemical Repertoire of Living Cells [Read](https://medium.com/@NikoMcCarty/evolved-ribosomes-d79876fd0f9b)

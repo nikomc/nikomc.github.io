@@ -3,9 +3,9 @@ layout: page
 title: This Week in Synthetic Biology
 ---
 
-**_This Week in Synthetic Biology_** is emailed to subscribers every Friday, and covers the latest research, preprints, and news in synthetic biology research. [Sign up for the newsletter on Substack](https://synbio.substack.com/).
+**_This Week in Synthetic Biology_** is emailed to subscribers every Friday, and covers the latest research, preprints, and news in synthetic biology research. [Sign up for the newsletter](https://synbio.substack.com/).
 
-This is the newsletter for September 25, 2020.
+This is the newsletter for September 25, 2020 (Issue 9). View all prior issues at [synbio.substack.com](https://synbio.substack.com/).
 
 ### 🧬Featured Research
 
