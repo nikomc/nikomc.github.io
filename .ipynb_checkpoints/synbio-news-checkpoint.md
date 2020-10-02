@@ -5,7 +5,7 @@ title: This Week in Synthetic Biology
 
 **_This Week in Synthetic Biology_** is emailed to subscribers every Friday, and covers the latest research, preprints, and news in synthetic biology research. [Sign up for the newsletter](https://synbio.substack.com/).
 
-This is the newsletter for October 2, 2020 (Special Issue 10). View all prior issues on [Substack](https://synbio.substack.com/).
+This is the newsletter for October 2, 2020 (Special Issue 10). View the full archive on [Substack](https://synbio.substack.com/).
 
 🌄Good morning.
 
