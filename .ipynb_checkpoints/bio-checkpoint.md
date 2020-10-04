@@ -9,7 +9,7 @@ My name is Niko McCarty, and this is a vain attempt to encapsulate my interests 
 
 I hold an M.S. in Bioengineering from the California Institute of Technology[^1] and a MRes in Systems and Synthetic Biology from Imperial College London[^2], where I was a Fulbright scholar. I've published peer-reviewed articles on new CRISPR technologies, multiplexed guide RNAs, and engineered microbial communities.
 
-[Download my one-page journalism résumé]({{ nikomc.github.io }}/assets/20200927_McCarty_resume.pdf)
+[Download my one-page journalism résumé]({{ nikomc.github.io }}/assets/McCarty_resume_website.pdf)
 
 ### Education
 
