@@ -7,6 +7,8 @@ title: This Week in Synthetic Biology
 
 This is the newsletter for October 9, 2020 (Issue 11). View the full archive on [Substack](https://synbio.substack.com/).
 
+<iframe src="https://synbio.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 ### [Data, Stored in DNA, Gets Destroyed](https://www.nature.com/articles/s41467-020-18842-6) (But In A Good Way)
 
 DNA is promising for data storage, mainly because a single gram of DNA can store [256 petabytes](https://www.sciencemag.org/news/2017/03/dna-could-store-all-worlds-data-one-room#:~:text=Capable%20of%20storing%20215%20petabytes,may%20depend%20on%20its%20cost.) of information. But there’s a problem: DNA is, in some cases, *too* stable. To remove a user’s data from DNA on “nucleic acid hard drives” of the future, scientists first need to develop better ways to selectively target, and destroy, DNA. 
