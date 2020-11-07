@@ -1,3 +1,7 @@
+This website is now deprecated, and is no longer being updated.
+
+Please visit www.nikomccarty.com to see my personal website.
+
 # Royce Jekyll Theme v1.1.0
 
 [Theme Live Demo](https://royce.netlify.com/)
