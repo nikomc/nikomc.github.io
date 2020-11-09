@@ -12,8 +12,6 @@ When I was studying for my PhD in bioengineering at Caltech, I took a course on 
 
 More recently, I learned D3.js, Vega-Lite, and other JavaScript-based plotting libraries. I practice programming every day, and finish a small data project every week that blends my skills in Python and JavaScript; I typically build web scrapers to collect data with Python, clean the data with [Pandas](https://pandas.pydata.org/), explore the data with [Seaborn](https://seaborn.pydata.org/index.html), and then build data visualizations for the web with [D3.js](https://d3js.org/) or [Vega-Lite](https://vega.github.io/vega-lite/) with React. I'm comfortable with SQL, Python, JavaScript, D3.js, Vega-Lite, React, CSS/Sass, and HTML.
 
-You can view some of my data visualizations on [CodePen](https://codepen.io/nikomccarty). I also run a weekly [data blog for Scienceline](https://scienceline.org), where I explore and explain scientific concepts through data visualizations. 
-
 My dream job is to be an investigative science/data journalist, and blend deep reporting with visual creations that help readers explore, and understand, complex subjects.
 
 _______________
