@@ -58,6 +58,8 @@ Fighting cancer with exploding antibody-filled bacteria [Read](https://massivesc
 
 ### [Caltech Letters](https://caltechletters.org/)
 
+Decoding the Language of Genomes [Read](https://caltechletters.org/science/decoding-the-language-of-genomes)
+
 How Synthetic Biologists Could Save the Cavendish Banana from the Brink of Collapse [Read](https://caltechletters.org/science/bananas-and-synthetic-biology/)
 
 
