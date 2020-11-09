@@ -5,6 +5,11 @@ title: Writings
 
 This page lists all of my published articles. Every story can be read online, and they are organized by publisher. Click on the "Read" button to view an article.
 
+### [Caltech Letters](https://caltechletters.org/)
+
+Decoding the Language of Genomes [Read](https://caltechletters.org/science/decoding-the-language-of-genomes)
+
+How Synthetic Biologists Could Save the Cavendish Banana from the Brink of Collapse [Read](https://caltechletters.org/science/bananas-and-synthetic-biology/)
 
 ### [SynBioBeta](https://synbiobeta.com/)
 
@@ -54,13 +59,6 @@ Here’s why many CRISPR/Cas9 experiments could be wrong – and how to fix them
 New parasitic interaction discovered in Antarctic lakes [Read](https://massivesci.com/notes/antarctic-lakes-parasite-interaction-extremophiles/)
 
 Fighting cancer with exploding antibody-filled bacteria [Read](https://massivesci.com/notes/exploding-antibody-bacteria-ecoli-in-mice-cancer/)
-
-
-### [Caltech Letters](https://caltechletters.org/)
-
-Decoding the Language of Genomes [Read](https://caltechletters.org/science/decoding-the-language-of-genomes)
-
-How Synthetic Biologists Could Save the Cavendish Banana from the Brink of Collapse [Read](https://caltechletters.org/science/bananas-and-synthetic-biology/)
 
 
 ### [PLoS Synthetic Biology Blog](https://blogs.plos.org/plos/)
